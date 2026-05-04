@@ -1,0 +1,95 @@
+@import "tailwindcss";
+
+@theme {
+  --color-accent: #C0392B;
+  --color-accent-hover: #A93226;
+  --color-accent-dark: #E05050;
+
+  --font-kanji: "Hiragino Sans", "Yu Gothic", "Meiryo", "Noto Sans CJK JP", sans-serif;
+}
+
+/* ── Light / Dark theme variables ────────────────────────── */
+:root {
+  --bg-page: #EDEAE4;
+  --bg-card: #F9F6F0;
+  --bg-kanji-box: #FFFFFF;
+  --bg-vocab-row: #FFFFFF;
+  --bg-group: #FFFFFF;
+  --text-main: #1A1A2E;
+  --text-sub: #555566;
+  --text-reading: #777777;
+  --text-meaning: #444444;
+  --accent: #C0392B;
+  --accent-hover: #A93226;
+  --dot-inactive: #C0C0BA;
+  --hint-color: #999999;
+  --border-group: #E8E4DC;
+  --shadow-card: 0 8px 40px rgba(0, 0, 0, 0.13);
+  --shadow-group: 0 2px 10px rgba(0, 0, 0, 0.07);
+  --shadow-vocab: 0 1px 4px rgba(0, 0, 0, 0.06);
+  --shadow-kanji: 0 2px 12px rgba(192, 57, 43, 0.1);
+}
+
+[data-theme="dark"] {
+  --bg-page: #0F0F1A;
+  --bg-card: #1C1C2E;
+  --bg-kanji-box: #252540;
+  --bg-vocab-row: #252540;
+  --bg-group: #1C1C2E;
+  --text-main: #E8E8F0;
+  --text-sub: #9999BB;
+  --text-reading: #9999BB;
+  --text-meaning: #BBBBCC;
+  --accent: #E05050;
+  --accent-hover: #C0392B;
+  --dot-inactive: #44445A;
+  --hint-color: #55556A;
+  --border-group: #2E2E48;
+  --shadow-card: 0 8px 40px rgba(0, 0, 0, 0.55);
+  --shadow-group: 0 2px 12px rgba(0, 0, 0, 0.35);
+  --shadow-vocab: 0 1px 6px rgba(0, 0, 0, 0.3);
+  --shadow-kanji: 0 2px 16px rgba(224, 80, 80, 0.18);
+}
+
+/* ── Base ────────────────────────────────────────────────── */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--bg-page);
+  color: var(--text-main);
+  transition: background 0.35s ease, color 0.35s ease;
+  min-height: 100vh;
+}
+
+/* ── Kanji font helper ───────────────────────────────────── */
+.font-kanji {
+  font-family: "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic",
+    "Meiryo", "Noto Sans CJK JP", sans-serif;
+}
+
+/* ── Card slide animations ───────────────────────────────── */
+@keyframes slideInRight {
+  from { transform: translateX(100%); opacity: 0; }
+  to   { transform: translateX(0);    opacity: 1; }
+}
+@keyframes slideInLeft {
+  from { transform: translateX(-100%); opacity: 0; }
+  to   { transform: translateX(0);     opacity: 1; }
+}
+@keyframes slideOutLeft {
+  from { transform: translateX(0);     opacity: 1; }
+  to   { transform: translateX(-100%); opacity: 0; }
+}
+@keyframes slideOutRight {
+  from { transform: translateX(0);    opacity: 1; }
+  to   { transform: translateX(100%); opacity: 0; }
+}
+
+.slide-in-right  { animation: slideInRight  0.3s ease forwards; }
+.slide-in-left   { animation: slideInLeft   0.3s ease forwards; }
+.slide-out-left  { animation: slideOutLeft  0.3s ease forwards; }
+.slide-out-right { animation: slideOutRight 0.3s ease forwards; }
