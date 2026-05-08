@@ -47,54 +47,59 @@ export function KanjiCard({
 
       {/* Card body */}
       <div className="px-8 py-7">
-        {/* Kanji character */}
-        <div
-          className="w-40 h-40 mx-auto mb-7 rounded-xl flex items-center justify-center"
-          style={{
-            border: "2.5px solid var(--accent)",
-            background: "var(--bg-kanji-box)",
-            boxShadow: "var(--shadow-kanji)",
-          }}
-        >
-          <span
-            className="font-kanji leading-none select-none"
-            style={{ fontSize: "100px", color: "var(--text-main)" }}
+        {/* Kanji + info side by side */}
+        <div className="flex items-center gap-6 mb-5">
+          {/* Kanji character */}
+          <div
+            className="shrink-0 w-36 h-36 rounded-xl flex items-center justify-center"
+            style={{
+              border: "2.5px solid var(--accent)",
+              background: "var(--bg-kanji-box)",
+              boxShadow: "var(--shadow-kanji)",
+            }}
           >
-            {kanji.kanji}
-          </span>
-        </div>
+            <span
+              className="font-kanji leading-none select-none"
+              style={{ fontSize: "88px", color: "var(--text-main)" }}
+            >
+              {kanji.kanji}
+            </span>
+          </div>
 
-        {/* Info table */}
-        <table className="w-full mb-5">
-          <tbody>
-            <tr>
-              <td className="text-[10px] font-bold tracking-widest uppercase w-20 py-1.5"
-                  style={{ color: "var(--accent)" }}>On</td>
-              <td className="font-kanji text-base py-1.5" style={{ color: "var(--text-main)" }}>
-                {kanji.on || "—"}
-              </td>
-            </tr>
-            <tr>
-              <td className="text-[10px] font-bold tracking-widest uppercase w-20 py-1.5"
-                  style={{ color: "var(--accent)" }}>Kun</td>
-              <td className="font-kanji text-base py-1.5" style={{ color: "var(--text-main)" }}>
-                {kanji.kun || "—"}
-              </td>
-            </tr>
-            <tr>
-              <td className="text-[10px] font-bold tracking-widest uppercase w-20 py-1.5"
-                  style={{ color: "var(--accent)" }}>Meaning</td>
-              <td className="text-[15px] py-1.5" style={{ color: "var(--text-main)" }}>
-                {lang === "ne" && kanji.meaning_ne && (
-                  <span className="block text-sm" style={{ color: "var(--accent)" }}>
-                    {kanji.meaning_ne}
-                  </span>
-                )}
-                {kanji.meaning}
-              </td>
-            </tr>
-          </tbody>
-        </table>
+          {/* Info table */}
+          <table className="flex-1">
+            <tbody>
+              <tr>
+                <td className="text-[10px] font-bold tracking-widest uppercase w-16 py-1.5"
+                    style={{ color: "var(--accent)" }}>On</td>
+                <td className="font-kanji text-base py-1.5" style={{ color: "var(--text-main)" }}>
+                  {kanji.on || "—"}
+                </td>
+              </tr>
+              <tr>
+                <td className="text-[10px] font-bold tracking-widest uppercase w-16 py-1.5"
+                    style={{ color: "var(--accent)" }}>Kun</td>
+                <td className="font-kanji text-base py-1.5" style={{ color: "var(--text-main)" }}>
+                  {kanji.kun || "—"}
+                </td>
+              </tr>
+              <tr>
+                <td className="text-[10px] font-bold tracking-widest uppercase w-16 py-1.5"
+                    style={{ color: "var(--accent)" }}>Meaning</td>
+                <td className="py-1.5" style={{ color: "var(--text-main)" }}>
+                  <div className="flex items-center gap-2 flex-wrap">
+                    {lang === "ne" && kanji.meaning_ne && (
+                      <span className="text-sm" style={{ color: "var(--accent)" }}>
+                        {kanji.meaning_ne}
+                      </span>
+                    )}
+                    <span className="text-[15px]">{kanji.meaning}</span>
+                  </div>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
 
         {/* Divider */}
         <hr className="mb-5 opacity-40" style={{ borderColor: "var(--accent)" }} />
@@ -108,21 +113,25 @@ export function KanjiCard({
           {kanji.vocab.map((v, i) => (
             <div
               key={i}
-              className="flex items-baseline gap-2.5 rounded-lg px-3.5 py-2.5"
-              style={{ background: "var(--bg-vocab-row)", boxShadow: "var(--shadow-vocab)" }}
+              className="grid items-center rounded-lg px-3.5 py-2.5"
+              style={{
+                gridTemplateColumns: lang === "ne" ? "3rem 5rem 1fr 1fr" : "3rem 5rem 1fr",
+                background: "var(--bg-vocab-row)",
+                boxShadow: "var(--shadow-vocab)",
+              }}
             >
-              <span className="font-kanji text-lg min-w-12" style={{ color: "var(--text-main)" }}>
+              <span className="font-kanji text-lg" style={{ color: "var(--text-main)" }}>
                 {v.word}
               </span>
-              <span className="font-kanji text-xs shrink-0" style={{ color: "var(--text-reading)" }}>
+              <span className="font-kanji text-xs" style={{ color: "var(--text-reading)" }}>
                 {v.reading}
               </span>
-              {lang === "ne" && v.meaning_ne && (
-                <span className="text-xs shrink-0" style={{ color: "var(--accent)" }}>
-                  {v.meaning_ne}
+              {lang === "ne" && (
+                <span className="text-xs" style={{ color: "var(--accent)" }}>
+                  {v.meaning_ne || ""}
                 </span>
               )}
-              <span className="text-xs ml-auto text-right" style={{ color: "var(--text-meaning)" }}>
+              <span className="text-xs" style={{ color: "var(--text-meaning)" }}>
                 {v.meaning}
               </span>
             </div>

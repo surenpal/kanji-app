@@ -1,0 +1,1050 @@
+[
+{
+  "kanji": "退",
+  "on": "タイ",
+  "kun": "ど",
+  "meaning": "retreat",
+  "meaning_ne": "पछि हट्नु",
+  "vocab": [
+    { "word": "退職", "reading": "たいしょく", "meaning": "retirement", "meaning_ne": "सेवानिवृत्ति" },
+    { "word": "退院", "reading": "たいいん", "meaning": "discharge", "meaning_ne": "डिस्चार्ज" },
+    { "word": "退会", "reading": "たいかい", "meaning": "withdrawal", "meaning_ne": "छोड्नु" },
+    { "word": "後退", "reading": "こうたい", "meaning": "recession", "meaning_ne": "पछाडि हट्नु" },
+    { "word": "退場", "reading": "たいじょう", "meaning": "exit", "meaning_ne": "बाहिरिनु" },
+    { "word": "退学", "reading": "たいがく", "meaning": "dropout", "meaning_ne": "पढाइ छोड्नु" },
+    { "word": "退任", "reading": "たいにん", "meaning": "step down", "meaning_ne": "पद त्याग्नु" },
+    { "word": "退却", "reading": "たいきゃく", "meaning": "withdrawal", "meaning_ne": "पीछे हट्नु" }
+  ]
+},
+{
+  "kanji": "貸",
+  "on": "タイ",
+  "kun": "か",
+  "meaning": "lend",
+  "meaning_ne": "उधार दिनु",
+  "vocab": [
+    { "word": "貸す", "reading": "かす", "meaning": "to lend", "meaning_ne": "उधार दिनु" },
+    { "word": "貸し", "reading": "かし", "meaning": "loan", "meaning_ne": "उधार" },
+    { "word": "融資", "reading": "ゆうし", "meaning": "financing", "meaning_ne": "ऋण" },
+    { "word": "賃貸", "reading": "ちんたい", "meaning": "rental", "meaning_ne": "भाडा" },
+    { "word": "貸切", "reading": "じきり", "meaning": "charter", "meaning_ne": "भाडामा" },
+    { "word": "貸家", "reading": "やしき", "meaning": "rental house", "meaning_ne": "भाडाको घर" },
+    { "word": "貸出", "reading": "だしゅつ", "meaning": "lending out", "meaning_ne": "उधार" },
+    { "word": "貸与", "reading": "たいよ", "meaning": "lend", "meaning_ne": "उधार दिनु" }
+  ]
+},
+{
+  "kanji": "態",
+  "on": "タイ",
+  "kun": "",
+  "meaning": "attitude",
+  "meaning_ne": "अवस्था",
+  "vocab": [
+    { "word": "状態", "reading": "じょうたい", "meaning": "condition", "meaning_ne": "अवस्था" },
+    { "word": "態度", "reading": "たいど", "meaning": "attitude", "meaning_ne": "व्यवहार" },
+    { "word": "事態", "reading": "じたい", "meaning": "situation", "meaning_ne": "स्थिति" },
+    { "word": "体態", "reading": "たいたい", "meaning": "physique", "meaning_ne": "शारीरिक अवस्था" },
+    { "word": "現態", "reading": "げんたい", "meaning": "current state", "meaning_ne": "हालको अवस्था" },
+    { "word": "態勢", "reading": "たいせい", "meaning": "posture", "meaning_ne": "स्थिति" },
+    { "word": "異常態", "reading": "いじょうたい", "meaning": "abnormal state", "meaning_ne": "असामान्य अवस्था" },
+    { "word": "精神態", "reading": "せいしんたい", "meaning": "mental state", "meaning_ne": "मानसिक अवस्था" }
+  ]
+}
+]
+[
+{
+  "kanji": "団",
+  "on": "ダン",
+  "kun": "",
+  "meaning": "group",
+  "meaning_ne": "समूह",
+  "vocab": [
+    { "word": "団体", "reading": "だんたい", "meaning": "organization", "meaning_ne": "संस्था" },
+    { "word": "団員", "reading": "だんいん", "meaning": "member", "meaning_ne": "सदस्य" },
+    { "word": "団結", "reading": "だんけつ", "meaning": "unity", "meaning_ne": "एकता" },
+    { "word": "代表団", "reading": "だいひょうだん", "meaning": "delegation", "meaning_ne": "प्रतिनिधि" },
+    { "word": "飛行団", "reading": "ひこうだん", "meaning": "air squadron", "meaning_ne": "वायु समूह" },
+    { "word": "団長", "reading": "だんちょう", "meaning": "group leader", "meaning_ne": "नेता" },
+    { "word": "青年団", "reading": "せいねんだん", "meaning": "youth group", "meaning_ne": "युवा समूह" },
+    { "word": "応援団", "reading": "おうえんだん", "meaning": "cheer squad", "meaning_ne": "समर्थक" }
+  ]
+},
+{
+  "kanji": "断",
+  "on": "ダン",
+  "kun": "た",
+  "meaning": "cut",
+  "meaning_ne": "काट्नु",
+  "vocab": [
+    { "word": "断る", "reading": "ことわる", "meaning": "to refuse", "meaning_ne": "अस्वीकार" },
+    { "word": "判断", "reading": "はんだん", "meaning": "judgment", "meaning_ne": "निर्णय" },
+    { "word": "中断", "reading": "ちゅうだん", "meaning": "interruption", "meaning_ne": "रोक्नु" },
+    { "word": "断面", "reading": "だんめん", "meaning": "cross-section", "meaning_ne": "खण्ड" },
+    { "word": "断念", "reading": "だんねん", "meaning": "give up", "meaning_ne": "त्याग्नु" },
+    { "word": "切断", "reading": "せつだん", "meaning": "cutting", "meaning_ne": "काट्नु" },
+    { "word": "断定", "reading": "だんてい", "meaning": "assertion", "meaning_ne": "दाबी" },
+    { "word": "絶断", "reading": "ぜつだん", "meaning": "severance", "meaning_ne": "समाप्ति" }
+  ]
+},
+{
+  "kanji": "築",
+  "on": "チク",
+  "kun": "",
+  "meaning": "build",
+  "meaning_ne": "निर्माण",
+  "vocab": [
+    { "word": "建設", "reading": "けんせつ", "meaning": "construction", "meaning_ne": "निर्माण" },
+    { "word": "築年", "reading": "ちくねん", "meaning": "year built", "meaning_ne": "निर्माण वर्ष" },
+    { "word": "築地", "reading": "つきじ", "meaning": "Tsukiji market", "meaning_ne": "बजार" },
+    { "word": "築山", "reading": "つきやま", "meaning": "artificial hill", "meaning_ne": "टुप्पो" },
+    { "word": "再築", "reading": "さいちく", "meaning": "rebuild", "meaning_ne": "पुनर्निर्माण" },
+    { "word": "築城", "reading": "ちくじょう", "meaning": "castle building", "meaning_ne": "किल्ला" },
+    { "word": "築家", "reading": "ちくいえ", "meaning": "house building", "meaning_ne": "घर निर्माण" },
+    { "word": "築造", "reading": "ちくぞう", "meaning": "construction", "meaning_ne": "बनाउनु" }
+  ]
+},
+{
+  "kanji": "張",
+  "on": "チョウ",
+  "kun": "は",
+  "meaning": "stretch",
+  "meaning_ne": "तन्काउनु",
+  "vocab": [
+    { "word": "張る", "reading": "はる", "meaning": "to paste/stretch", "meaning_ne": "तन्काउनु" },
+    { "word": "緊張", "reading": "きんちょう", "meaning": "tension", "meaning_ne": "तनाव" },
+    { "word": "展開", "reading": "てんかい", "meaning": "development", "meaning_ne": "विस्तार" },
+    { "word": "張力", "reading": "ちょうりょく", "meaning": "tension", "meaning_ne": "तनाव" },
+    { "word": "拡張", "reading": "かくちょう", "meaning": "expansion", "meaning_ne": "फैलावट" },
+    { "word": "張本人", "reading": "はりもと", "meaning": "culprit", "meaning_ne": "दोषी" },
+    { "word": "張り紙", "reading": "はりがみ", "meaning": "poster", "meaning_ne": "पोस्टर" },
+    { "word": "張り込む", "reading": "はりこむ", "meaning": "stakeout", "meaning_ne": "निगरानी" }
+  ]
+},
+{
+  "kanji": "提",
+  "on": "テイ",
+  "kun": "さ",
+  "meaning": "propose",
+  "meaning_ne": "प्रस्ताव",
+  "vocab": [
+    { "word": "提案", "reading": "ていあん", "meaning": "proposal", "meaning_ne": "प्रस्ताव" },
+    { "word": "提示", "reading": "ていじ", "meaning": "presentation", "meaning_ne": "प्रस्तुत" },
+    { "word": "提起", "reading": "ていき", "meaning": "raising (issue)", "meaning_ne": "उठाउनु" },
+    { "word": "提供", "reading": "ていきょう", "meaning": "provision", "meaning_ne": "उपलब्ध" },
+    { "word": "提携", "reading": "ていけい", "meaning": "alliance", "meaning_ne": "गठबन्धन" },
+    { "word": "前提", "reading": "ぜんてい", "meaning": "premise", "meaning_ne": "पूर्वशर्त" },
+    { "word": "提言", "reading": "ていげん", "meaning": "recommendation", "meaning_ne": "सुझाव" },
+    { "word": "提案書", "reading": "ていあんしょ", "meaning": "proposal document", "meaning_ne": "प्रस्ताव पत्र" }
+  ]
+},
+{
+  "kanji": "程",
+  "on": "テイ・ホウ",
+  "kun": "ほど",
+  "meaning": "extent",
+  "meaning_ne": "मात्रा",
+  "vocab": [
+    { "word": "程度", "reading": "ていど", "meaning": "degree", "meaning_ne": "मात्रा" },
+    { "word": "手順", "reading": "てじゅん", "meaning": "procedure", "meaning_ne": "प्रक्रिया" },
+    { "word": "次第", "reading": "しだい", "meaning": "order/gradually", "meaning_ne": "क्रम" },
+    { "word": "過程", "reading": "かてい", "meaning": "process", "meaning_ne": "प्रक्रिया" },
+    { "word": "距離程", "reading": "きょりほど", "meaning": "distance", "meaning_ne": "दूरी" },
+    { "word": "長程", "reading": "ながほど", "meaning": "long distance", "meaning_ne": "लामो दूरी" },
+    { "word": "作業程", "reading": "さぎょうほど", "meaning": "work process", "meaning_ne": "काम प्रक्रिया" },
+    { "word": "時間程", "reading": "じかんほど", "meaning": "time required", "meaning_ne": "समय" }
+  ]
+},
+{
+  "kanji": "適",
+  "on": "テキ",
+  "kun": "",
+  "meaning": "suitable",
+  "meaning_ne": "उपयुक्त",
+  "vocab": [
+    { "word": "適切", "reading": "てきせつ", "meaning": "appropriate", "meaning_ne": "उपयुक्त" },
+    { "word": "適合", "reading": "てきごう", "meaning": "fit", "meaning_ne": "मिल्नु" },
+    { "word": "適当", "reading": "てきとう", "meaning": "suitable", "meaning_ne": "उचित" },
+    { "word": "適応", "reading": "てきおう", "meaning": "adaptation", "meaning_ne": "अनुकूलन" },
+    { "word": "適性", "reading": "てきせい", "meaning": "aptitude", "meaning_ne": "योग्यता" },
+    { "word": "適量", "reading": "てきりょう", "meaning": "proper amount", "meaning_ne": "उचित मात्रा" },
+    { "word": "不適", "reading": "ふてき", "meaning": "unsuitable", "meaning_ne": "अनुपयुक्त" },
+    { "word": "適任", "reading": "てきにん", "meaning": "qualified person", "meaning_ne": "योग्य व्यक्ति" }
+  ]
+},
+{
+  "kanji": "統",
+  "on": "トウ",
+  "kun": "",
+  "meaning": "unite",
+  "meaning_ne": "एकत्र",
+  "vocab": [
+    { "word": "統一", "reading": "とういつ", "meaning": "unification", "meaning_ne": "एकत्रीकरण" },
+    { "word": "統治", "reading": "とうち", "meaning": "rule", "meaning_ne": "शासन" },
+    { "word": "管理", "reading": "かんり", "meaning": "management", "meaning_ne": "व्यवस्थापन" },
+    { "word": "統括", "reading": "とうかつ", "meaning": "overall control", "meaning_ne": "नियन्त्रण" },
+    { "word": "統率", "reading": "とうそつ", "meaning": "leadership", "meaning_ne": "नेतृत्व" },
+    { "word": "総統", "reading": "そうとう", "meaning": "supreme leader", "meaning_ne": "सर्वोच्च नेता" },
+    { "word": "統制", "reading": "とうせい", "meaning": "control", "meaning_ne": "नियन्त्रण" },
+    { "word": "統一感", "reading": "とういつかん", "meaning": "unity", "meaning_ne": "एकता" }
+  ]
+},
+{
+  "kanji": "銅",
+  "on": "ドウ",
+  "kun": "",
+  "meaning": "copper",
+  "meaning_ne": "ताम्र",
+  "vocab": [
+    { "word": "銅", "reading": "どう", "meaning": "copper", "meaning_ne": "ताम्र" },
+    { "word": "青銅", "reading": "せいどう", "meaning": "bronze", "meaning_ne": "कांस्य" },
+    { "word": "銅像", "reading": "どうぞう", "meaning": "bronze statue", "meaning_ne": "मूर्ति" },
+    { "word": "銅貨", "reading": "どうか", "meaning": "copper coin", "meaning_ne": "सिक्का" },
+    { "word": "銅線", "reading": "どうせん", "meaning": "copper wire", "meaning_ne": "तार" },
+    { "word": "銅板", "reading": "どうばん", "meaning": "copper plate", "meaning_ne": "प्लेट" },
+    { "word": "銅器", "reading": "どうき", "meaning": "copper ware", "meaning_ne": "भाँडा" },
+    { "word": "銅製", "reading": "どうせい", "meaning": "copper made", "meaning_ne": "ताम्र निर्मित" }
+  ]
+},
+{
+  "kanji": "導",
+  "on": "ドウ",
+  "kun": "みちび",
+  "meaning": "guide",
+  "meaning_ne": "मार्गदर्शन",
+  "vocab": [
+    { "word": "指導", "reading": "しどう", "meaning": "guidance", "meaning_ne": "मार्गदर्शन" },
+    { "word": "導く", "reading": "みちびく", "meaning": "to guide", "meaning_ne": "मार्गदर्शन गर्नु" },
+    { "word": "導入", "reading": "どうにゅう", "meaning": "introduction", "meaning_ne": "प्रवेश" },
+    { "word": "導線", "reading": "どうせん", "meaning": "conductor", "meaning_ne": "तार" },
+    { "word": "誘導", "reading": "ゆうどう", "meaning": "induction", "meaning_ne": "प्रेरणा" },
+    { "word": "導火線", "reading": "どうかせん", "meaning": "fuse", "meaning_ne": "फ्युज" },
+    { "word": "導師", "reading": "どうし", "meaning": "spiritual leader", "meaning_ne": "गुरु" },
+    { "word": "導電", "reading": "どうでん", "meaning": "conductivity", "meaning_ne": "वाहकता" }
+  ]
+}
+]
+[
+{
+  "kanji": "得",
+  "on": "トク",
+  "kun": "え",
+  "meaning": "gain",
+  "meaning_ne": "प्राप्ति",
+  "vocab": [
+    { "word": "得る", "reading": "える", "meaning": "to gain", "meaning_ne": "प्राप्त गर्नु" },
+    { "word": "所得", "reading": "しょとく", "meaning": "income", "meaning_ne": "आय" },
+    { "word": "利益", "reading": "りえき", "meaning": "profit", "meaning_ne": "लाभ" },
+    { "word": "有効", "reading": "ゆうよう", "meaning": "effective", "meaning_ne": "प्रभावकारी" },
+    { "word": "心得", "reading": "こころえ", "meaning": "knowledge", "meaning_ne": "ज्ञान" },
+    { "word": "得点", "reading": "とくてん", "meaning": "score", "meaning_ne": "अंक" },
+    { "word": "手に入れる", "reading": "てにはいる", "meaning": "to obtain", "meaning_ne": "प्राप्त गर्नु" },
+    { "word": "得難い", "reading": "えむずかしい", "meaning": "rare", "meaning_ne": "दुर्लभ" }
+  ]
+},
+{
+  "kanji": "毒",
+  "on": "ドク",
+  "kun": "",
+  "meaning": "poison",
+  "meaning_ne": "विष",
+  "vocab": [
+    { "word": "毒", "reading": "どく", "meaning": "poison", "meaning_ne": "विष" },
+    { "word": "中毒", "reading": "ちゅうどく", "meaning": "poisoning", "meaning_ne": "विषाक्तता" },
+    { "word": "猛毒", "reading": "もうどく", "meaning": "deadly poison", "meaning_ne": "प्राणघातक विष" },
+    { "word": "毒性", "reading": "どくせい", "meaning": "toxicity", "meaning_ne": "विषाक्त गुण" },
+    { "word": "毒薬", "reading": "どくやく", "meaning": "poison medicine", "meaning_ne": "विष औषधि" },
+    { "word": "毒舌", "reading": "どくぜつ", "meaning": "sharp tongue", "meaning_ne": "कटु वाणी" },
+    { "word": "劇毒", "reading": "げきどく", "meaning": "highly toxic", "meaning_ne": "अतिविष" },
+    { "word": "食中毒", "reading": "しょくちゅうどく", "meaning": "food poisoning", "meaning_ne": "खाद्य विषाक्तता" }
+  ]
+},
+{
+  "kanji": "独",
+  "on": "ドク",
+  "kun": "",
+  "meaning": "alone",
+  "meaning_ne": "एक्लो",
+  "vocab": [
+    { "word": "独身", "reading": "どくしん", "meaning": "single", "meaning_ne": "अविवाहित" },
+    { "word": "独自", "reading": "どくじ", "meaning": "unique", "meaning_ne": "अनन्य" },
+    { "word": "独占", "reading": "どくせん", "meaning": "monopoly", "meaning_ne": "एकाधिकार" },
+    { "word": "独学", "reading": "どくがく", "meaning": "self-study", "meaning_ne": "आत्म-अध्ययन" },
+    { "word": "独り言", "reading": "ひとりごと", "meaning": "soliloquy", "meaning_ne": "एक्लो बोल्ने" },
+    { "word": "独創", "reading": "どくそう", "meaning": "originality", "meaning_ne": "मौलिकता" },
+    { "word": "独裁", "reading": "どくさい", "meaning": "dictatorship", "meaning_ne": "तानाशाही" },
+    { "word": "独り占め", "reading": "ひとりじめ", "meaning": "hogging", "meaning_ne": "एक्लै लिनु" }
+  ]
+},
+{
+  "kanji": "任",
+  "on": "ニン",
+  "kun": "",
+  "meaning": "responsibility",
+  "meaning_ne": "जिम्मेवारी",
+  "vocab": [
+    { "word": "責任", "reading": "せきにん", "meaning": "responsibility", "meaning_ne": "जिम्मेवारी" },
+    { "word": "任命", "reading": "にんめい", "meaning": "appointment", "meaning_ne": "नियुक्ति" },
+    { "word": "任務", "reading": "にんむ", "meaning": "mission", "meaning_ne": "कार्य" },
+    { "word": "社長", "reading": "しゃちょう", "meaning": "president", "meaning_ne": "अध्यक्ष" },
+    { "word": "委任", "reading": "いにん", "meaning": "entrust", "meaning_ne": "जिम्मा दिनु" },
+    { "word": "専任", "reading": "せんにん", "meaning": "full-time", "meaning_ne": "पूर्णकालिक" },
+    { "word": "責任者", "reading": "せきにんしゃ", "meaning": "person in charge", "meaning_ne": "जिम्मेवार व्यक्ति" },
+    { "word": "任期", "reading": "にんき", "meaning": "term of office", "meaning_ne": "कार्यकाल" }
+  ]
+},
+{
+  "kanji": "燃",
+  "on": "ネン",
+  "kun": "も",
+  "meaning": "burn",
+  "meaning_ne": "जल्नु",
+  "vocab": [
+    { "word": "燃える", "reading": "もえる", "meaning": "to burn", "meaning_ne": "जल्नु" },
+    { "word": "燃やす", "reading": "もやす", "meaning": "to burn", "meaning_ne": "न जलाउनु" },
+    { "word": "燃料", "reading": "ねんりょう", "meaning": "fuel", "meaning_ne": "इन्धन" },
+    { "word": "可燃", "reading": "かねん", "meaning": "flammable", "meaning_ne": "ज्वलनशील" },
+    { "word": "燃焼", "reading": "ねんしょう", "meaning": "combustion", "meaning_ne": "दहन" },
+    { "word": "自燃", "reading": "じねん", "meaning": "spontaneous combustion", "meaning_ne": "स्वयं जल्नु" },
+    { "word": "燃費", "reading": "ねんぴ", "meaning": "fuel efficiency", "meaning_ne": "इन्धन दक्षता" },
+    { "word": "燃え尽きる", "reading": "もえつきる", "meaning": "burn out", "meaning_ne": "नष्ट हुनु" }
+  ]
+},
+{
+  "kanji": "能",
+  "on": "ノウ・ヌ",
+  "kun": "",
+  "meaning": "ability",
+  "meaning_ne": "क्षमता",
+  "vocab": [
+    { "word": "能力", "reading": "のうりょく", "meaning": "ability", "meaning_ne": "क्षमता" },
+    { "word": "可能", "reading": "かのう", "meaning": "possible", "meaning_ne": "सम्भव" },
+    { "word": "才能", "reading": "さいのう", "meaning": "talent", "meaning_ne": "प्रतिभा" },
+    { "word": "性能", "reading": "せいのう", "meaning": "performance", "meaning_ne": "प्रदर्शन" },
+    { "word": "効率", "reading": "こうりつ", "meaning": "efficiency", "meaning_ne": "दक्षता" },
+    { "word": "不能", "reading": "ふのう", "meaning": "impossible", "meaning_ne": "असम्भव" },
+    { "word": "有能", "reading": "ゆうのう", "meaning": "capable", "meaning_ne": "सक्षम" },
+    { "word": "能力者", "reading": "のうりょくしゃ", "meaning": "talented person", "meaning_ne": "प्रतिभाशाली" }
+  ]
+},
+{
+  "kanji": "破",
+  "on": "ハ",
+  "kun": "やぶ",
+  "meaning": "break",
+  "meaning_ne": "तोड्नु",
+  "vocab": [
+    { "word": "破る", "reading": "やぶる", "meaning": "to break", "meaning_ne": "तोड्नु" },
+    { "word": "破壊", "reading": "はかい", "meaning": "destruction", "meaning_ne": "नाश" },
+    { "word": "破産", "reading": "はさん", "meaning": "bankruptcy", "meaning_ne": "दीवालिया" },
+    { "word": "破裂", "reading": "はれつ", "meaning": "rupture", "meaning_ne": "फुट्नु" },
+    { "word": "破片", "reading": "はへん", "meaning": "fragment", "meaning_ne": "टुक्रा" },
+    { "word": "破棄", "reading": "はき", "meaning": "discard", "meaning_ne": "फाल्नु" },
+    { "word": "破損", "reading": "はそん", "meaning": "damage", "meaning_ne": "क्षति" },
+    { "word": "破談", "reading": "はだん", "meaning": "engagement broken", "meaning_ne": "सम्बन्धविच्छेद" }
+  ]
+},
+{
+  "kanji": "犯",
+  "on": "ハン",
+  "kun": "おか",
+  "meaning": "crime",
+  "meaning_ne": "अपराध",
+  "vocab": [
+    { "word": "犯人", "reading": "はんにん", "meaning": "criminal", "meaning_ne": "अपराधी" },
+    { "word": "犯罪", "reading": "はんざい", "meaning": "crime", "meaning_ne": "अपराध" },
+    { "word": "侵害", "reading": "しんがい", "meaning": "violation", "meaning_ne": "उल्लंघन" },
+    { "word": "犯す", "reading": "おかす", "meaning": "to commit", "meaning_ne": "गर्नु" },
+    { "word": "容疑者", "reading": "ようぎしゃ", "meaning": "suspect", "meaning_ne": "सन्देहित" },
+    { "word": "逮捕", "reading": "たいほ", "meaning": "arrest", "meaning_ne": "गिरफ्तारी" },
+    { "word": "重罪犯", "reading": "じゅうざいはん", "meaning": "serious offender", "meaning_ne": "गम्भीर अपराधी" },
+    { "word": "罪犯", "reading": "ざいはん", "meaning": "offender", "meaning_ne": "अपराधी" }
+  ]
+},
+{
+  "kanji": "判",
+  "on": "ハン",
+  "kun": "",
+  "meaning": "judge",
+  "meaning_ne": "निर्णय",
+  "vocab": [
+    { "word": "判断", "reading": "はんだん", "meaning": "judgment", "meaning_ne": "निर्णय" },
+    { "word": "裁判", "reading": "さいばん", "meaning": "trial", "meaning_ne": "विचाराधीन" },
+    { "word": "判決", "reading": "はんけつ", "meaning": "verdict", "meaning_ne": "निर्णय" },
+    { "word": "判明", "reading": "はんめい", "meaning": "clarification", "meaning_ne": "स्पष्ट" },
+    { "word": "裁判官", "reading": "さいばんかん", "meaning": "judge", "meaning_ne": "न्यायाधीश" },
+    { "word": "判定", "reading": "はんてい", "meaning": "decision", "meaning_ne": "निर्णय" },
+    { "word": "不合格判", "reading": "ふごうかくはん", "meaning": "fail", "meaning_ne": "असफल" },
+    { "word": "判読", "reading": "はんどく", "meaning": "reading", "meaning_ne": "पढ्नु" }
+  ]
+},
+{
+  "kanji": "版",
+  "on": "ハン",
+  "kun": "",
+  "meaning": "version",
+  "meaning_ne": "संस्करण",
+  "vocab": [
+    { "word": "版", "reading": "はん", "meaning": "edition", "meaning_ne": "संस्करण" },
+    { "word": "初版", "reading": "しょはん", "meaning": "first edition", "meaning_ne": "पहिलो संस्करण" },
+    { "word": "重版", "reading": "じゅうはん", "meaning": "reprint", "meaning_ne": "पुनर्मुद्रण" },
+    { "word": "最新版", "reading": "さいしんはん", "meaning": "latest version", "meaning_ne": "नवीनतम" },
+    { "word": "印刷版", "reading": "いんさつはん", "meaning": "print edition", "meaning_ne": "मुद्रित" },
+    { "word": "電子版", "reading": "でんしばん", "meaning": "digital edition", "meaning_ne": "डिजिटल" },
+    { "word": "版権", "reading": "はんけん", "meaning": "copyright", "meaning_ne": "कॉपीराइट" },
+    { "word": "増刷版", "reading": "ますりゅうはん", "meaning": "additional printing", "meaning_ne": "थप मुद्रण" }
+  ]
+}
+]
+[
+{
+  "kanji": "比",
+  "on": "ヒ",
+  "kun": "",
+  "meaning": "compare",
+  "meaning_ne": "तुलना",
+  "vocab": [
+    { "word": "比較", "reading": "ひかく", "meaning": "comparison", "meaning_ne": "तुलना" },
+    { "word": "比率", "reading": "ひりつ", "meaning": "ratio", "meaning_ne": "अनुपात" },
+    { "word": "相対", "reading": "そうたい", "meaning": "relative", "meaning_ne": "सापेक्ष" },
+    { "word": "比例", "reading": "ひれい", "meaning": "proportion", "meaning_ne": "अनुपात" },
+    { "word": "同等", "reading": "どうとう", "meaning": "equal", "meaning_ne": "समान" },
+    { "word": "比較的", "reading": "ひかくてき", "meaning": "comparatively", "meaning_ne": "तुलनात्मक" },
+    { "word": "非", "reading": "ひ", "meaning": "negative", "meaning_ne": "नकारात्मक" },
+    { "word": "対比", "reading": "たいひ", "meaning": "contrast", "meaning_ne": "विरोधाभास" }
+  ]
+},
+{
+  "kanji": "肥",
+  "on": "ヒ",
+  "kun": "こえ",
+  "meaning": "肥沃",
+  "meaning_ne": "मोटो",
+  "vocab": [
+    { "word": "肥料", "reading": "ひりょう", "meaning": "fertilizer", "meaning_ne": "खाद" },
+    { "word": "肥満", "reading": "ひまん", "meaning": "obesity", "meaning_ne": "मोटोपन" },
+    { "word": "肥沃", "reading": "ひよく", "meaning": "fertile", "meaning_ne": "उर्वर" },
+    { "word": "肥大", "reading": "ひだい", "meaning": "hypertrophy", "meaning_ne": "वृद्धि" },
+    { "word": "肥後", "reading": "ひご", "meaning": "Higo", "meaning_ne": "स्थान" },
+    { "word": "過肥", "reading": "かはん", "meaning": "over-fertilized", "meaning_ne": "अधिक खाद" },
+    { "word": "肥育", "reading": "ひいく", "meaning": "fattening", "meaning_ne": "मोटाउनु" },
+    { "word": "肥料代", "reading": "ひりょうだい", "meaning": "fertilizer cost", "meaning_ne": "खाद खर्च" }
+  ]
+},
+{
+  "kanji": "非",
+  "on": "ヒ",
+  "kun": "",
+  "meaning": "not",
+  "meaning_ne": "नहीं",
+  "vocab": [
+    { "word": "非", "reading": "ひ", "meaning": "non-", "meaning_ne": "गैर-" },
+    { "word": "非公開", "reading": "ひこうかい", "meaning": "non-public", "meaning_ne": "गोप्य" },
+    { "word": "否定", "reading": "ひてい", "meaning": "denial", "meaning_ne": "अस्वीकार" },
+    { "word": "非難", "reading": "ひなん", "meaning": "criticism", "meaning_ne": "आलोचना" },
+    { "word": "非正規", "reading": "ひせいき", "meaning": "non-regular", "meaning_ne": "अस्थायी" },
+    { "word": "非現実的", "reading": "ひげんじつてき", "meaning": "unrealistic", "meaning_ne": "अवास्तविक" },
+    { "word": "非人間的", "reading": "ひにんげんてき", "meaning": "inhuman", "meaning_ne": "अमानवीय" },
+    { "word": "非公式", "reading": "ひこうしき", "meaning": "unofficial", "meaning_ne": "अनौपचारिक" }
+  ]
+},
+{
+  "kanji": "備",
+  "on": "ビ",
+  "kun": "",
+  "meaning": "prepare",
+  "meaning_ne": "तयार",
+  "vocab": [
+    { "word": "準備", "reading": "じゅんび", "meaning": "preparation", "meaning_ne": "तयारी" },
+    { "word": "備える", "reading": "そなえる", "meaning": "to prepare", "meaning_ne": "तयार गर्नु" },
+    { "word": "備品", "reading": "びひん", "meaning": "equipment", "meaning_ne": "सामान" },
+    { "word": "設備", "reading": "せつび", "meaning": "facilities", "meaning_ne": "सुविधा" },
+    { "word": "備考", "reading": "びこう", "meaning": "remarks", "meaning_ne": "टिप्पणी" },
+    { "word": "予備", "reading": "よび", "meaning": "reserve", "meaning_ne": "रिजर्भ" },
+    { "word": "完全備", "reading": "かんぜんび", "meaning": "fully equipped", "meaning_ne": "पूर्ण सुविधा" },
+    { "word": "備蓄", "reading": "びちく", "meaning": "stockpile", "meaning_ne": "भण्डारण" }
+  ]
+},
+{
+  "kanji": "評",
+  "on": "ヒョウ",
+  "kun": "",
+  "meaning": "evaluate",
+  "meaning_ne": "मूल्यांकन",
+  "vocab": [
+    { "word": "評価", "reading": "ひょうか", "meaning": "evaluation", "meaning_ne": "मूल्यांकन" },
+    { "word": "評判", "reading": "ひょうばん", "meaning": "reputation", "meaning_ne": "प्रतिष्ठा" },
+    { "word": "批評", "reading": "ひひょう", "meaning": "criticism", "meaning_ne": "आलोचना" },
+    { "word": "評論", "reading": "ひょうろん", "meaning": "critique", "meaning_ne": "विश्लेषण" },
+    { "word": "高評価", "reading": "こうひょうか", "meaning": "high rating", "meaning_ne": "उच्च मूल्यांकन" },
+    { "word": "評議員", "reading": "ひょうぎいん", "meaning": "reviewer", "meaning_ne": "मूल्यांकनकर्ता" },
+    { "word": "自己評価", "reading": "じこひょうか", "meaning": "self-evaluation", "meaning_ne": "आत्ममूल्यांकन" },
+    { "word": "評定", "reading": "ひょうてい", "meaning": "rating", "meaning_ne": "ग्रेड" }
+  ]
+},
+{
+  "kanji": "貧",
+  "on": "ヒン",
+  "kun": "",
+  "meaning": "poor",
+  "meaning_ne": "गरिब",
+  "vocab": [
+    { "word": "貧乏", "reading": "びんぼう", "meaning": "poor", "meaning_ne": "गरिब" },
+    { "word": "貧困", "reading": "ひんこん", "meaning": "poverty", "meaning_ne": "गरिबी" },
+    { "word": "貧しい", "reading": "まずしい", "meaning": "poor", "meaning_ne": "गरिब" },
+    { "word": "貧血", "reading": "ひんけつ", "meaning": "anemia", "meaning_ne": "रक्तअल्पता" },
+    { "word": "貧富", "reading": "ひんぷ", "meaning": "poor/rich", "meaning_ne": "गरिब/धनी" },
+    { "word": "貧民", "reading": "ひんみん", "meaning": "poor people", "meaning_ne": "गरिब जनता" },
+    { "word": "貧困層", "reading": "ひんこんそう", "meaning": "poor class", "meaning_ne": "गरिब वर्ग" },
+    { "word": "貧困問題", "reading": "ひんこんもんだい", "meaning": "poverty problem", "meaning_ne": "गरिबी समस्या" }
+  ]
+},
+{
+  "kanji": "布",
+  "on": "フ",
+  "kun": "ぬの",
+  "meaning": "cloth",
+  "meaning_ne": "कपडा",
+  "vocab": [
+    { "word": "布", "reading": "ぬの", "meaning": "cloth", "meaning_ne": "कपडा" },
+    { "word": "布団", "reading": "ふとん", "meaning": "futon", "meaning_ne": "गद्दा" },
+    { "word": "普及", "reading": "ふきゅう", "meaning": "spread", "meaning_ne": "फैलावट" },
+    { "word": "配置", "reading": "はいち", "meaning": "arrangement", "meaning_ne": "व्यवस्था" },
+    { "word": "布告", "reading": "ふこく", "meaning": "proclamation", "meaning_ne": "घोषणा" },
+    { "word": "布石", "reading": "ふし", "meaning": "preparatory move", "meaning_ne": "पूर्वतयारी" },
+    { "word": "布地", "reading": "ふじ", "meaning": "fabric", "meaning_ne": "कपडा" },
+    { "word": "点在", "reading": "てんざい", "meaning": "scattered", "meaning_ne": "छरिएर" }
+  ]
+},
+{
+  "kanji": "婦",
+  "on": "フ",
+  "kun": "",
+  "meaning": "woman",
+  "meaning_ne": "महिला",
+  "vocab": [
+    { "word": "女性", "reading": "じょせい", "meaning": "woman", "meaning_ne": "महिला" },
+    { "word": "主婦", "reading": "しゅふ", "meaning": "housewife", "meaning_ne": "गृहिणी" },
+    { "word": "婦人", "reading": "ふじん", "meaning": "lady", "meaning_ne": "महिला" },
+    { "word": "夫婦", "reading": "ふうふ", "meaning": "married couple", "meaning_ne": "दम्पती" },
+    { "word": "人妻", "reading": "ひとづま", "meaning": "married woman", "meaning_ne": "विवाहित महिला" },
+    { "word": "婦人服", "reading": "ふじんふく", "meaning": "women's clothing", "meaning_ne": "महिला लुगा" },
+    { "word": "婦人科", "reading": "ふじんか", "meaning": "gynecology", "meaning_ne": "महिला रोग" },
+    { "word": "母婦", "reading": "ぼふ", "meaning": "mother", "meaning_ne": "आमा" }
+  ]
+},
+{
+  "kanji": "武",
+  "on": "ブ",
+  "kun": "",
+  "meaning": "military",
+  "meaning_ne": "सैन्य",
+  "vocab": [
+    { "word": "武器", "reading": "ぶき", "meaning": "weapon", "meaning_ne": "हातियार" },
+    { "word": "武道", "reading": "ぶどう", "meaning": "martial arts", "meaning_ne": "लडाइ कला" },
+    { "word": "武力", "reading": "ぶりき", "meaning": "military power", "meaning_ne": "सैन्य शक्ति" },
+    { "word": "武官", "reading": "ぶかん", "meaning": "military officer", "meaning_ne": "सैन्य अधिकारी" },
+    { "word": "武術", "reading": "ぶじゅつ", "meaning": "martial art", "meaning_ne": "लडाइ कला" },
+    { "word": "武者", "reading": "むしゃ", "meaning": "warrior", "meaning_ne": "योद्धा" },
+    { "word": "武功", "reading": "ぶこう", "meaning": "military merit", "meaning_ne": "सैन्य सम्मान" },
+    { "word": "武家", "reading": "ぶけ", "meaning": "samurai family", "meaning_ne": "सामुराई परिवार" }
+  ]
+},
+{
+  "kanji": "復",
+  "on": "フク",
+  "kun": "",
+  "meaning": "restore",
+  "meaning_ne": "पुनःस्थापना",
+  "vocab": [
+    { "word": "復旧", "reading": "ふっきゅう", "meaning": "restoration", "meaning_ne": "पुनर्स्थापना" },
+    { "word": "復活", "reading": "ふっかつ", "meaning": "revival", "meaning_ne": "पुनर्जीवन" },
+    { "word": "回復", "reading": "かいふく", "meaning": "recovery", "meaning_ne": "सुधार" },
+    { "word": "複雑", "reading": "ふくざつ", "meaning": "complicated", "meaning_ne": "जटिल" },
+    { "word": "復習", "reading": "ふくしゅう", "meaning": "review", "meaning_ne": "पुनरावलोकन" },
+    { "word": "復帰", "reading": "ふっき", "meaning": "return", "meaning_ne": "फर्किनु" },
+    { "word": "復興", "reading": "ふっこう", "meaning": "reconstruction", "meaning_ne": "पुनर्निर्माण" },
+    { "word": "再復活", "reading": "さいふっかつ", "meaning": "resurrection", "meaning_ne": "पुनरागमन" }
+  ]
+}
+]
+
+[
+{
+  "kanji": "複",
+  "on": "フク",
+  "kun": "",
+  "meaning": "complex",
+  "meaning_ne": "जटिल",
+  "vocab": [
+    { "word": "複雑", "reading": "ふくざつ", "meaning": "complicated", "meaning_ne": "जटिल" },
+    { "word": "複写", "reading": "ふくしゃ", "meaning": "copy", "meaning_ne": "प्रतिलिपि" },
+    { "word": "複合", "reading": "ふくごう", "meaning": "compound", "meaning_ne": "मिश्रित" },
+    { "word": "複製", "reading": "ふくせい", "meaning": "duplicate", "meaning_ne": "नक्कल" },
+    { "word": "複雑化", "reading": "ふくざつか", "meaning": "complication", "meaning_ne": "जटिलता" },
+    { "word": "複数", "reading": "ふくすう", "meaning": "plural", "meaning_ne": "बहुवचन" },
+    { "word": "複眼", "reading": "ふくがん", "meaning": "compound eye", "meaning_ne": "मिश्र नेत्र" },
+    { "word": "複合語", "reading": "ふくごうご", "meaning": "compound word", "meaning_ne": "मिश्र शब्द" }
+  ]
+},
+{
+  "kanji": "仏",
+  "on": "ブツ",
+  "kun": "ほとけ",
+  "meaning": "Buddha",
+  "meaning_ne": "बुद्ध",
+  "vocab": [
+    { "word": "仏", "reading": "ほとけ", "meaning": "Buddha", "meaning_ne": "बुद्ध" },
+    { "word": "仏教", "reading": "ぶっきょう", "meaning": "Buddhism", "meaning_ne": "बौद्ध धर्म" },
+    { "word": "仏壇", "reading": "ぶつだん", "meaning": "Buddhist altar", "meaning_ne": "बुद्ध पूजा स्थल" },
+    { "word": "仏像", "reading": "ぶつぞう", "meaning": "Buddhist statue", "meaning_ne": "बुद्ध मूर्ति" },
+    { "word": "仏事", "reading": "ぶつじ", "meaning": "Buddhist ceremony", "meaning_ne": "बौद्ध अनुष्ठान" },
+    { "word": "仏法", "reading": "ぶっぽう", "meaning": "Buddhist teachings", "meaning_ne": "धर्म" },
+    { "word": "仏具", "reading": "ぶつぐ", "meaning": "Buddhist goods", "meaning_ne": "पूजा सामग्री" },
+    { "word": "仏舎利", "reading": "ぶつしゃり", "meaning": "Buddha relics", "meaning_ne": "अवशेष" }
+  ]
+},
+{
+  "kanji": "粉",
+  "on": "フン",
+  "kun": "こな",
+  "meaning": "powder",
+  "meaning_ne": "धूलो",
+  "vocab": [
+    { "word": "粉", "reading": "こな", "meaning": "powder", "meaning_ne": "धूलो" },
+    { "word": "粉末", "reading": "ふんまつ", "meaning": "powder", "meaning_ne": "चूर्ण" },
+    { "word": "粉砕", "reading": "ふんさい", "meaning": "pulverization", "meaning_ne": "कुटपिट" },
+    { "word": "粉雪", "reading": "こなゆき", "meaning": "powdery snow", "meaning_ne": "हल्का हिउँ" },
+    { "word": "粉体", "reading": "ふんたい", "meaning": "powder form", "meaning_ne": "धूलो रूप" },
+    { "word": "粉塵", "reading": "ふんじん", "meaning": "dust", "meaning_ne": "धुलो" },
+    { "word": "粉飾", "reading": "ふんしょく", "meaning": "window dressing", "meaning_ne": "सजावट" },
+    { "word": "粉状", "reading": "こなし", "meaning": "powdery", "meaning_ne": "धूलो जस्तो" }
+  ]
+},
+{
+  "kanji": "編",
+  "on": "ヘン",
+  "kun": "あ",
+  "meaning": "compile",
+  "meaning_ne": "संस्करण",
+  "vocab": [
+    { "word": "編集", "reading": "へんしゅう", "meaning": "editing", "meaning_ne": "सम्पादन" },
+    { "word": "編む", "reading": "あむ", "meaning": "to knit", "meaning_ne": "बुनाइ" },
+    { "word": "編成", "reading": "へんせい", "meaning": "organization", "meaning_ne": "संरचना" },
+    { "word": "編曲", "reading": "へんきょく", "meaning": "arrangement", "meaning_ne": "संगीत व्यवस्था" },
+    { "word": "編集者", "reading": "へんしゅうしゃ", "meaning": "editor", "meaning_ne": "सम्पादक" },
+    { "word": "編纂", "reading": "へんさん", "meaning": "compilation", "meaning_ne": "संकलन" },
+    { "word": "単行本編", "reading": "たんこうぼんへん", "meaning": "single volume", "meaning_ne": "एकल पुस्तक" },
+    { "word": "編年", "reading": "へんねん", "meaning": "chronology", "meaning_ne": "कालक्रम" }
+  ]
+},
+{
+  "kanji": "弁",
+  "on": "ベン",
+  "kun": "",
+  "meaning": "弁論",
+  "meaning_ne": "वकिल",
+  "vocab": [
+    { "word": "弁護", "reading": "べんご", "meaning": "defense", "meaning_ne": "रक्षा" },
+    { "word": "弁当", "reading": "べんとう", "meaning": "boxed lunch", "meaning_ne": "टिफिन" },
+    { "word": "弁論", "reading": "べんろん", "meaning": "argument", "meaning_ne": "बहस" },
+    { "word": "弁解", "reading": "べんかい", "meaning": "excuse", "meaning_ne": "बहाना" },
+    { "word": "弁財天", "reading": "べんざいてん", "meaning": "goddess of wealth", "meaning_ne": "देवी" },
+    { "word": "弁別", "reading": "べんべつ", "meaning": "distinction", "meaning_ne": "भेद" },
+    { "word": "弁明", "reading": "べんめい", "meaning": "explanation", "meaning_ne": "स्पष्टीकरण" },
+    { "word": "弁舌", "reading": "べんぜつ", "meaning": "eloquence", "meaning_ne": "वाक्पटुता" }
+  ]
+},
+{
+  "kanji": "保",
+  "on": "ホ",
+  "kun": "",
+  "meaning": "protect",
+  "meaning_ne": "रक्षा",
+  "vocab": [
+    { "word": "保護", "reading": "ほご", "meaning": "protection", "meaning_ne": "रक्षा" },
+    { "word": "保険", "reading": "ほけん", "meaning": "insurance", "meaning_ne": "बीमा" },
+    { "word": "保存", "reading": "ほぞん", "meaning": "preservation", "meaning_ne": "संरक्षण" },
+    { "word": "保安", "reading": "ほあん", "meaning": "security", "meaning_ne": "सुरक्षा" },
+    { "word": "保証", "reading": "ほしょう", "meaning": "guarantee", "meaning_ne": "ग्यारेन्टी" },
+    { "word": "維持", "reading": "いじ", "meaning": "maintenance", "meaning_ne": "रखरखाव" },
+    { "word": "保全", "reading": "ほぜん", "meaning": "conservation", "meaning_ne": "संरक्षण" },
+    { "word": "健康保険", "reading": "けんこうほけん", "meaning": "health insurance", "meaning_ne": "स्वास्थ्य बीमा" }
+  ]
+},
+{
+  "kanji": "墓",
+  "on": "ボ",
+  "kun": "",
+  "meaning": "grave",
+  "meaning_ne": "कब्र",
+  "vocab": [
+    { "word": "墓", "reading": "はか", "meaning": "grave", "meaning_ne": "कब्र" },
+    { "word": "墓地", "reading": "ぼち", "meaning": "cemetery", "meaning_ne": "कब्रिस्तान" },
+    { "word": "墓石", "reading": "はか、いし", "meaning": "gravestone", "meaning_ne": "समाधि" },
+    { "word": "墓参り", "reading": "はかまいり", "meaning": "grave visit", "meaning_ne": "कब्र भ्रमण" },
+    { "word": "共同墓地", "reading": "きょうどうぼち", "meaning": "public cemetery", "meaning_ne": "सार्वजनिक कब्रिस्तान" },
+    { "word": "墓標", "reading": "ぼひょう", "meaning": "gravemarker", "meaning_ne": "चिन्ह" },
+    { "word": "墓守", "reading": "はかもり", "meaning": "grave keeper", "meaning_ne": "कब्र संरक्षक" },
+    { "word": "霊墓", "reading": "れいぼ", "meaning": "spiritual grave", "meaning_ne": "आत्मा समाधि" }
+  ]
+},
+{
+  "kanji": "報",
+  "on": "ホウ",
+  "kun": "",
+  "meaning": "report",
+  "meaning_ne": "रिपोर्ट",
+  "vocab": [
+    { "word": "報告", "reading": "ほうこく", "meaning": "report", "meaning_ne": "रिपोर्ट" },
+    { "word": "新聞", "reading": "しんぶん", "meaning": "newspaper", "meaning_ne": "अखबार" },
+    { "word": "情報", "reading": "じょうほう", "meaning": "information", "meaning_ne": "सूचना" },
+    { "word": "報酬", "reading": "ほうしゅう", "meaning": "reward", "meaning_ne": "पारिश्रमिक" },
+    { "word": "報道", "reading": "ほうどう", "meaning": "news coverage", "meaning_ne": "समाचार" },
+    { "word": "報復", "reading": "ほうふく", "meaning": "retaliation", "meaning_ne": "प्रतिशोध" },
+    { "word": "報知", "reading": "ほうち", "meaning": "notification", "meaning_ne": "सूचना" },
+    { "word": "報恩", "reading": "ほうおん", "meaning": "gratitude", "meaning_ne": "कृतज्ञता" }
+  ]
+},
+{
+  "kanji": "豊",
+  "on": "ホウ",
+  "kun": "ゆた",
+  "meaning": "abundant",
+  "meaning_ne": "समृद्ध",
+  "vocab": [
+    { "word": "豊か", "reading": "ゆたか", "meaning": "rich", "meaning_ne": "समृद्ध" },
+    { "word": "豊作", "reading": "ほうさく", "meaning": "good harvest", "meaning_ne": "बम्पर फसल" },
+    { "word": "豊年", "reading": "ほうねん", "meaning": "prosperous year", "meaning_ne": "समृद्ध वर्ष" },
+    { "word": "豊かさ", "reading": "ゆたかさ", "meaning": "abundance", "meaning_ne": "विलासिता" },
+    { "word": "豊饒", "reading": "ほうじょう", "meaning": "fertility", "meaning_ne": "उर्वरता" },
+    { "word": "豊漁", "reading": "ほうりょう", "meaning": "rich catch", "meaning_ne": "धेरै माछा" },
+    { "word": "豊かになる", "reading": "ゆたかになる", "meaning": "to prosper", "meaning_ne": "समृद्ध हुनु" },
+    { "word": "豊後", "reading": "ぶんご", "meaning": "Bungo", "meaning_ne": "स्थान" }
+  ]
+},
+{
+  "kanji": "防",
+  "on": "ボウ・ハ",
+  "kun": "",
+  "meaning": "prevent",
+  "meaning_ne": "रोक्नु",
+  "vocab": [
+    { "word": "防止", "reading": "ぼうし", "meaning": "prevention", "meaning_ne": "रोकथाम" },
+    { "word": "防御", "reading": "ぼうぎょ", "meaning": "defense", "meaning_ne": "रक्षा" },
+    { "word": "防火", "reading": "ぼうか", "meaning": "fire prevention", "meaning_ne": "आगो रोकथाम" },
+    { "word": "防止策", "reading": "ぼうしさく", "meaning": "preventive measures", "meaning_ne": "रोकथाम उपाय" },
+    { "word": "防衛", "reading": "ぼうえい", "meaning": "national defense", "meaning_ne": "रक्षा" },
+    { "word": "防疫", "reading": "ぼうえき", "meaning": "quarantine", "meaning_ne": "रोकथाम" },
+    { "word": "防水", "reading": "ぼうすい", "meaning": "waterproof", "meaning_ne": "जलरोधक" },
+    { "word": "防犯", "reading": "ぼうはん", "meaning": "crime prevention", "meaning_ne": "अपराध रोकथाम" }
+  ]
+}
+]
+[
+{
+  "kanji": "貿",
+  "on": "ボウ",
+  "kun": "",
+  "meaning": "trade",
+  "meaning_ne": "व्यापार",
+  "vocab": [
+    { "word": "貿易", "reading": "ぼうえき", "meaning": "trade", "meaning_ne": "व्यापार" },
+    { "word": "交易", "reading": "こうえき", "meaning": "commerce", "meaning_ne": "व्यापार" },
+    { "word": "通商", "reading": "つうしょう", "meaning": "commerce", "meaning_ne": "व्यापार" },
+    { "word": "貿易摩擦", "reading": "ぼうえきまさつ", "meaning": "trade friction", "meaning_ne": "व्यापार विवाद" },
+    { "word": "自由貿易", "reading": "じゆうぼうえき", "meaning": "free trade", "meaning_ne": "स्वतन्त्र व्यापार" },
+    { "word": "貿易赤字", "reading": "ぼうえきあかじ", "meaning": "trade deficit", "meaning_ne": "व्यापार घाटा" },
+    { "word": "貿易協定", "reading": "ぼうえききょうてい", "meaning": "trade agreement", "meaning_ne": "व्यापार सम्झौता" },
+    { "word": "貿易額", "reading": "ぼうえきがく", "meaning": "trade volume", "meaning_ne": "व्यापार रकम" }
+  ]
+},
+{
+  "kanji": "暴",
+  "on": "ボウ",
+  "kun": "あば",
+  "meaning": "violent",
+  "meaning_ne": "हिंसात्मक",
+  "vocab": [
+    { "word": "暴力", "reading": "ぼうりょく", "meaning": "violence", "meaning_ne": "हिंसा" },
+    { "word": "暴露", "reading": "ばくろ", "meaning": "exposure", "meaning_ne": "खुलासा" },
+    { "word": "暴行", "reading": "ぼうこう", "meaning": "assault", "meaning_ne": "आक्रमण" },
+    { "word": "暴落", "reading": "ぼうらく", "meaning": "crash", "meaning_ne": "ढल्नु" },
+    { "word": "暴動", "reading": "ぼうどう", "meaning": "riot", "meaning_ne": "दंगा" },
+    { "word": "暴露狂", "reading": "ばくろきょう", "meaning": "exhibitionist", "meaning_ne": "प्रदर्शनकारी" },
+    { "word": "暴言", "reading": "ぼうげん", "meaning": "abusive language", "meaning_ne": "गाली" },
+    { "word": "暴利", "reading": "ぼうり", "meaning": "excessive profit", "meaning_ne": "अत्यधिक लाभ" }
+  ]
+},
+{
+  "kanji": "務",
+  "on": "ム",
+  "kun": "",
+  "meaning": "duty",
+  "meaning_ne": "कर्तव्य",
+  "vocab": [
+    { "word": "業務", "reading": "ぎょうむ", "meaning": "business", "meaning_ne": "कार्य" },
+    { "word": "任務", "reading": "にんむ", "meaning": "mission", "meaning_ne": "कार्य" },
+    { "word": "務める", "reading": "つとめる", "meaning": "to serve", "meaning_ne": "काम गर्नु" },
+    { "word": "公務", "reading": "こうむ", "meaning": "official duty", "meaning_ne": "सार्वजनिक कार्य" },
+    { "word": "職務", "reading": "しょくむ", "meaning": "job duty", "meaning_ne": "पेशागत कार्य" },
+    { "word": "勤務", "reading": "きんむ", "meaning": "service", "meaning_ne": "सेवा" },
+    { "word": "本務", "reading": "ほんむ", "meaning": "main duty", "meaning_ne": "मुख्य कार्य" },
+    { "word": "事務", "reading": "じむ", "meaning": "office work", "meaning_ne": "कार्यालय कार्य" }
+  ]
+},
+{
+  "kanji": "夢",
+  "on": "ム",
+  "kun": "ゆめ",
+  "meaning": "dream",
+  "meaning_ne": "सपना",
+  "vocab": [
+    { "word": "夢", "reading": "ゆめ", "meaning": "dream", "meaning_ne": "सपना" },
+    { "word": "夢中", "reading": "むちゅう", "meaning": "absorbed", "meaning_ne": "मग्न" },
+    { "word": "夢見る", "reading": "ゆめみる", "meaning": "to dream", "meaning_ne": "सपना देख्नु" },
+    { "word": "白昼夢", "reading": "はくじゅうむ", "meaning": "daydream", "meaning_ne": "दिनको सपना" },
+    { "word": "夢物語", "reading": "ゆめものがたり", "meaning": "fantasy", "meaning_ne": "कल्पना" },
+    { "word": "夢想", "reading": "むそう", "meaning": "dreaming", "meaning_ne": "सपना देख्नु" },
+    { "word": "夢幻", "reading": "むげん", "meaning": "dreamlike", "meaning_ne": "सपनाजस्तो" },
+    { "word": "夢心地", "reading": "ゆめごこち", "meaning": "dreamland", "meaning_ne": "सपनाको संसार" }
+  ]
+},
+{
+  "kanji": "迷",
+  "on": "メイ",
+  "kun": "まよ",
+  "meaning": "lost",
+  "meaning_ne": "भुल्नु",
+  "vocab": [
+    { "word": "迷う", "reading": "まよう", "meaning": "to be lost", "meaning_ne": "भुल्नु" },
+    { "word": "迷信", "reading": "めいしん", "meaning": "superstition", "meaning_ne": "अन्धविश्वास" },
+    { "word": "迷路", "reading": "めいろ", "meaning": "maze", "meaning_ne": "भूलभुलैया" },
+    { "word": "迷子", "reading": "まいご", "meaning": "lost child", "meaning_ne": "भएको बच्चा" },
+    { "word": "困惑", "reading": "こんわく", "meaning": "confusion", "meaning_ne": "अस्मिता" },
+    { "word": "迷彩", "reading": "めいさい", "meaning": "camouflage", "meaning_ne": "छोपाइ" },
+    { "word": "迷走", "reading": "めいそう", "meaning": "wandering", "meaning_ne": "भट्किनु" },
+    { "word": "道迷い", "reading": "みちまよい", "meaning": "getting lost", "meaning_ne": "भूलभुलैया" }
+  ]
+},
+{
+  "kanji": "綿",
+  "on": "メン",
+  "kun": "わた",
+  "meaning": "cotton",
+  "meaning_ne": "कपास",
+  "vocab": [
+    { "word": "綿", "reading": "わた", "meaning": "cotton", "meaning_ne": "कपास" },
+    { "word": "綿菓子", "reading": "わたがし", "meaning": "cotton candy", "meaning_ne": "रेशम चिनी" },
+    { "word": "綿棒", "reading": "めんぼう", "meaning": "cotton swab", "meaning_ne": "कपास टाँका" },
+    { "word": "綿布", "reading": "めんぷ", "meaning": "cotton cloth", "meaning_ne": "कपास कपडा" },
+    { "word": "綿実油", "reading": "わたみつゆ", "meaning": "cottonseed oil", "meaning_ne": "कपास तेल" },
+    { "word": "綿毛", "reading": "わたげ", "meaning": "cotton fluff", "meaning_ne": "कपास रेशा" },
+    { "word": "綿糸", "reading": "めんいと", "meaning": "cotton thread", "meaning_ne": "कपास धागो" },
+    { "word": "純綿", "reading": "じゅんめん", "meaning": "pure cotton", "meaning_ne": "शुद्ध कपास" }
+  ]
+},
+{
+  "kanji": "輸",
+  "on": "ユ",
+  "kun": "",
+  "meaning": "transport",
+  "meaning_ne": "यातायात",
+  "vocab": [
+    { "word": "輸出", "reading": "ゆしゅつ", "meaning": "export", "meaning_ne": "निर्यात" },
+    { "word": "輸入", "reading": "ゆにゅう", "meaning": "import", "meaning_ne": "आयात" },
+    { "word": "輸送", "reading": "ゆそう", "meaning": "transportation", "meaning_ne": "यातायात" },
+    { "word": "移入", "reading": "いにゅう", "meaning": "import", "meaning_ne": "आयात" },
+    { "word": "輸血", "reading": "ゆけつ", "meaning": "blood transfusion", "meaning_ne": "रक्त सञ्चार" },
+    { "word": "輸送機", "reading": "ゆそうき", "meaning": "transport aircraft", "meaning_ne": "यातायात विमान" },
+    { "word": "輸出品", "reading": "ゆしゅつひん", "meaning": "export goods", "meaning_ne": "निर्यात वस्तु" },
+    { "word": "輸入制限", "reading": "ゆにゅうせいげん", "meaning": "import restriction", "meaning_ne": "आयात सीमा" }
+  ]
+},
+{
+  "kanji": "余",
+  "on": "ヨ",
+  "kun": "あま",
+  "meaning": "surplus",
+  "meaning_ne": "अतिरिक्त",
+  "vocab": [
+    { "word": "余る", "reading": "あまる", "meaning": "to remain", "meaning_ne": "बाँकी रहनु" },
+    { "word": "余裕", "reading": "よゆう", "meaning": "margin", "meaning_ne": "अतिरिक्त समय" },
+    { "word": "余地", "reading": "よじ", "meaning": "room", "meaning_ne": "स्थान" },
+    { "word": "余波", "reading": "よは", "meaning": "aftermath", "meaning_ne": "परिणाम" },
+    { "word": "余計", "reading": "よけい", "meaning": "unnecessary", "meaning_ne": "अनावश्यक" },
+    { "word": "余剰", "reading": "よじょう", "meaning": "surplus", "meaning_ne": "अतिरिक्त" },
+    { "word": "余白", "reading": "よはく", "meaning": "margin space", "meaning_ne": "खाली ठाउँ" },
+    { "word": "余談", "reading": "よだん", "meaning": "digression", "meaning_ne": "विषयान्तर" }
+  ]
+},
+{
+  "kanji": "預",
+  "on": "ヨ",
+  "kun": "",
+  "meaning": "deposit",
+  "meaning_ne": "जम्मा",
+  "vocab": [
+    { "word": "預ける", "reading": "あずける", "meaning": "to deposit", "meaning_ne": "जम्मा गर्नु" },
+    { "word": "預金", "reading": "よきん", "meaning": "deposit", "meaning_ne": "निक्षेप" },
+    { "word": "預貯金", "reading": "よちょきん", "meaning": "savings", "meaning_ne": "बचत" },
+    { "word": "保管", "reading": "ほかん", "meaning": "keeping", "meaning_ne": "संरक्षण" },
+    { "word": "預かり知らぬ", "reading": "あずかりしらぬ", "meaning": "not responsible", "meaning_ne": "जिम्मेवार छैन" },
+    { "word": "預金残高", "reading": "よきんざんだか", "meaning": "account balance", "meaning_ne": "बाँकी रकम" },
+    { "word": "定期預金", "reading": "ていきよきん", "meaning": "fixed deposit", "meaning_ne": "कालीनिक्षेप" },
+    { "word": "預金通帳", "reading": "よきんつうちょう", "meaning": "passbook", "meaning_ne": "पासबुक" }
+  ]
+},
+{
+  "kanji": "容",
+  "on": "ヨウ",
+  "kun": "",
+  "meaning": "contain",
+  "meaning_ne": "समावेश",
+  "vocab": [
+    { "word": "容易", "reading": "ようい", "meaning": "easy", "meaning_ne": "सजिलो" },
+    { "word": "内容", "reading": "ないよう", "meaning": "content", "meaning_ne": "विषयवस्तु" },
+    { "word": "容器", "reading": "ようき", "meaning": "container", "meaning_ne": "भाँडो" },
+    { "word": "容量", "reading": "ようりょう", "meaning": "capacity", "meaning_ne": "क्षमता" },
+    { "word": "容姿", "reading": "ようし", "meaning": "appearance", "meaning_ne": "रूप" },
+    { "word": "包含", "reading": "ほうがん", "meaning": "inclusion", "meaning_ne": "समावेश" },
+    { "word": "許可", "reading": "きょか", "meaning": "permission", "meaning_ne": "अनुमति" },
+    { "word": "容疑", "reading": "ようぎ", "meaning": "suspicion", "meaning_ne": "सन्देह" }
+  ]
+},
+{
+  "kanji": "略",
+  "on": "リャク",
+  "kun": "",
+  "meaning": "abbreviation",
+  "meaning_ne": "संक्षिप्त",
+  "vocab": [
+    { "word": "略す", "reading": "はぶく", "meaning": "to omit", "meaning_ne": "छोड्नु" },
+    { "word": "略語", "reading": "りゃくご", "meaning": "abbreviation", "meaning_ne": "संक्षिप्त शब्द" },
+    { "word": "略称", "reading": "りゃくしょう", "meaning": "abbreviation", "meaning_ne": "संक्षेप" },
+    { "word": "略図", "reading": "りゃくず", "meaning": "sketch", "meaning_ne": "रेखाचित्र" },
+    { "word": "略歴", "reading": "りゃくれき", "meaning": "brief history", "meaning_ne": "संक्षिप्त इतिहास" },
+    { "word": "略して", "reading": "りゃくして", "meaning": "abbreviated as", "meaning_ne": "संक्षेपमा" },
+    { "word": "大略", "reading": "だいりゃく", "meaning": "outline", "meaning_ne": "रूपरेखा" },
+    { "word": "略奪", "reading": "りゃくだつ", "meaning": "plunder", "meaning_ne": "लुट" }
+  ]
+},
+{
+  "kanji": "留",
+  "on": "リュウ",
+  "kun": "と",
+  "meaning": "stay",
+  "meaning_ne": "रहनु",
+  "vocab": [
+    { "word": "留守", "reading": "るす", "meaning": "absence", "meaning_ne": "बाहिर" },
+    { "word": "留学生", "reading": "りゅうがくせい", "meaning": "foreign student", "meaning_ne": "विदेशी विद्यार्थी" },
+    { "word": "留年", "reading": "りゅうねん", "meaning": "grade repetition", "meaning_ne": "पुनः पढाइ" },
+    { "word": "留める", "reading": "とめる", "meaning": "to stop", "meaning_ne": "रोक्नु" },
+    { "word": "保護", "reading": "ほご", "meaning": "protection", "meaning_ne": "रक्षा" },
+    { "word": "留置", "reading": "りゅうち", "meaning": "detention", "meaning_ne": "नजरबन्द" },
+    { "word": "留保", "reading": "りゅうほ", "meaning": "retention", "meaning_ne": "राख्नु" },
+    { "word": "留職", "reading": "りゅうしょく", "meaning": "leave of absence", "meaning_ne": "छुट्टी" }
+  ]
+},
+{
+  "kanji": "領",
+  "on": "リョウ",
+  "kun": "",
+  "meaning": "territory",
+  "meaning_ne": "क्षेत्र",
+  "vocab": [
+    { "word": "領土", "reading": "りょうど", "meaning": "territory", "meaning_ne": "क्षेत्र" },
+    { "word": "領収", "reading": "りょうしゅう", "meaning": "receipt", "meaning_ne": "रसिद" },
+    { "word": "領事", "reading": "りょうじ", "meaning": "consul", "meaning_ne": "कन्सुल" },
+    { "word": "領分", "reading": "りょうぶん", "meaning": "jurisdiction", "meaning_ne": "अधिकार क्षेत्र" },
+    { "word": "領有", "reading": "りょうゆう", "meaning": "possession", "meaning_ne": "कब्जा" },
+    { "word": "領袖", "reading": "りょうしゅ", "meaning": "leader", "meaning_ne": "नेता" },
+    { "word": "領収書", "reading": "りょうしゅうしょ", "meaning": "receipt", "meaning_ne": "रसिद पत्र" },
+    { "word": "領海", "reading": "りょうかい", "meaning": "territorial waters", "meaning_ne": "समुद्री क्षेत्र" }
+  ]
+},
+{
+  "kanji": "歴",
+  "on": "レキ",
+  "kun": "",
+  "meaning": "history",
+  "meaning_ne": "इतिहास",
+  "vocab": [
+    { "word": "歴史", "reading": "れきし", "meaning": "history", "meaning_ne": "इतिहास" },
+    { "word": "経験", "reading": "けいけん", "meaning": "experience", "meaning_ne": "अनुभव" },
+    { "word": "履歴", "reading": "りれき", "meaning": "career", "meaning_ne": "पृष्ठभूमि" },
+    { "word": "歴代", "reading": "れきだい", "meaning": "successive", "meaning_ne": "क्रमिक" },
+    { "word": "経歴", "reading": "けいれき", "meaning": "background", "meaning_ne": "जीवनी" },
+    { "word": "年歴", "reading": "ねんれき", "meaning": "years of service", "meaning_ne": "सेवा वर्ष" },
+    { "word": "学歴", "reading": "がくれき", "meaning": "education", "meaning_ne": "शिक्षा" },
+    { "word": "職歴", "reading": "しょくれき", "meaning": "work history", "meaning_ne": "काम इतिहास" }
+  ]
+},
+{
+  "kanji": "連",
+  "on": "レン",
+  "kun": "",
+  "meaning": "connect",
+  "meaning_ne": "जोड्नु",
+  "vocab": [
+    { "word": "連絡", "reading": "れんらく", "meaning": "contact", "meaning_ne": "सम्पर्क" },
+    { "word": "連続", "reading": "れんぞく", "meaning": "continuous", "meaning_ne": "लगातार" },
+    { "word": "連合", "reading": "れんごう", "meaning": "union", "meaning_ne": "संघ" },
+    { "word": "連載", "reading": "れんさい", "meaning": "serialization", "meaning_ne": "क्रमिक प्रकाशन" },
+    { "word": "連携", "reading": "れんけい", "meaning": "coordination", "meaning_ne": "समन्वय" },
+    { "word": "連日", "reading": "れんじつ", "meaning": "consecutive days", "meaning_ne": "लगातार दिन" },
+    { "word": "連敗", "reading": "れんぱい", "meaning": "losing streak", "meaning_ne": "लगातार हार" },
+    { "word": "連結", "reading": "れんけつ", "meaning": "connection", "meaning_ne": "जोडाइ" }
+  ]
+},
+{
+  "kanji": "老",
+  "on": "ロウ",
+  "kun": "ふ",
+  "meaning": "old",
+  "meaning_ne": "बूढो",
+  "vocab": [
+    { "word": "老人", "reading": "ろうじん", "meaning": "old person", "meaning_ne": "बूढो व्यक्ति" },
+    { "word": "老朽", "reading": "ろうきゅう", "meaning": "dilapidated", "meaning_ne": "पुरानो" },
+    { "word": "老化", "reading": "ろうか", "meaning": "aging", "meaning_ne": "बुढ्यौली" },
+    { "word": "老年", "reading": "ろうねん", "meaning": "old age", "meaning_ne": "बुढ्यौली" },
+    { "word": "老後", "reading": "ろうご", "meaning": "old age", "meaning_ne": "बुढ्यौली" },
+    { "word": "老舗", "reading": "しにせ", "meaning": "long-established", "meaning_ne": "पुरानो व्यवसाय" },
+    { "word": "老衰", "reading": "ろうすい", "meaning": "senility", "meaning_ne": "जिर्णावस्था" },
+    { "word": "長老", "reading": "ちょうろう", "meaning": "elder", "meaning_ne": "वृद्ध" }
+  ]
+},
+{
+  "kanji": "労",
+  "on": "ロウ",
+  "kun": "",
+  "meaning": "labor",
+  "meaning_ne": "श्रम",
+  "vocab": [
+    { "word": "労働", "reading": "ろうどう", "meaning": "labor", "meaning_ne": "श्रम" },
+    { "word": "労力", "reading": "ろうりょく", "meaning": "manpower", "meaning_ne": "श्रम शक्ति" },
+    { "word": "労う", "reading": "ねぎらう", "meaning": "to thank", "meaning_ne": "धन्यवाद दिनु" },
+    { "word": "労務", "reading": "ろうむ", "meaning": "labor affairs", "meaning_ne": "श्रम कार्य" },
+    { "word": "労災", "reading": "ろうさい", "meaning": "work injury", "meaning_ne": "काममा चोट" },
+    { "word": "労働者", "reading": "ろうどうしゃ", "meaning": "worker", "meaning_ne": "श्रमिक" },
+    { "word": "労苦", "reading": "ろうく", "meaning": "hardship", "meaning_ne": "कठिनाइ" },
+    { "word": "労組", "reading": "ろうそ", "meaning": "labor union", "meaning_ne": "ट्रेड युनियन" }
+  ]
+},
+{
+  "kanji": "録",
+  "on": "ロク",
+  "kun": "",
+  "meaning": "record",
+  "meaning_ne": "रिकर्ड",
+  "vocab": [
+    { "word": "記録", "reading": "きろく", "meaning": "record", "meaning_ne": "रिकर्ड" },
+    { "word": "録音", "reading": "ろくおん", "meaning": "recording", "meaning_ne": "रिकर्डिङ" },
+    { "word": "録画", "reading": "ろくが", "meaning": "video recording", "meaning_ne": "भिडियो रिकर्ड" },
+    { "word": "録再", "reading": "ろくさい", "meaning": "re-recording", "meaning_ne": "पुनः रिकर्ड" },
+    { "word": "記録簿", "reading": "きろくぼ", "meaning": "logbook", "meaning_ne": "लेखा पुस्तक" },
+    { "word": "世界記録", "reading": "せかいきろく", "meaning": "world record", "meaning_ne": "विश्व रिकर्ड" },
+    { "word": "記録者", "reading": "きろくしゃ", "meaning": "record holder", "meaning_ne": "रिकर्ड धारक" },
+    { "word": "録像", "reading": "ろくぞう", "meaning": "video recording", "meaning_ne": "भिडियो" }
+  ]
+}
+]
