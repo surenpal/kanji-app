@@ -1,3 +1,5 @@
+export type JLPTLevel = "n5" | "n4" | "n3";
+
 export interface VocabEntry {
   word: string;
   reading: string;

@@ -1,4 +1,4 @@
-import type { Kanji, DayGroup } from "@/types/kanji";
+import type { Kanji, DayGroup, JLPTLevel } from "@/types/kanji";
 import n5Data from "@/data/n5kanji.json";
 import n4Data from "@/data/n4kanji.json";
 import n3Data from "@/data/n3kanji.json";
@@ -8,6 +8,42 @@ export const N4_KANJI: Kanji[] = n4Data as Kanji[];
 export const N3_KANJI: Kanji[] = n3Data as Kanji[];
 
 export const ALL_KANJI: Kanji[] = [...N5_KANJI, ...N4_KANJI, ...N3_KANJI];
+
+export function getKanjiForLevel(level: JLPTLevel): Kanji[] {
+  if (level === "n5") return N5_KANJI;
+  if (level === "n4") return N4_KANJI;
+  return N3_KANJI;
+}
+
+export function getLevelOffset(level: JLPTLevel): number {
+  if (level === "n5") return 0;
+  if (level === "n4") return N5_KANJI.length;
+  return N5_KANJI.length + N4_KANJI.length;
+}
+
+export function getDayGroupsForLevel(level: JLPTLevel): DayGroup[] {
+  const kanji = getKanjiForLevel(level);
+  const offset = getLevelOffset(level);
+  const groups: DayGroup[] = [];
+  for (let i = 0; i < kanji.length; i += GROUP_SIZE) {
+    const day = Math.floor(i / GROUP_SIZE) + 1;
+    const start = offset + i;
+    const end = offset + Math.min(i + GROUP_SIZE, kanji.length);
+    groups.push({
+      day,
+      label: `Day ${day}`,
+      start,
+      end,
+      kanji: kanji.slice(i, i + GROUP_SIZE),
+    });
+  }
+  return groups;
+}
+
+export function getDayGroupForLevel(level: JLPTLevel, day: number): DayGroup | null {
+  const groups = getDayGroupsForLevel(level);
+  return groups.find((g) => g.day === day) ?? null;
+}
 
 const GROUP_SIZE = 30;
 
