@@ -1126,5 +1126,197 @@
     { "word": "無休", "reading": "むきゅう", "meaning": "no holiday", "meaning_ne": "बिदा बिना" },
     { "word": "夏休み", "reading": "なつやすみ", "meaning": "summer vacation", "meaning_ne": "गर्मी बिदा" }
   ]
-}
+},
+  {
+    "kanji": "大",
+    "on": "ダイ・タイ",
+    "kun": "おお(き)い",
+    "meaning": "big",
+    "meaning_ne": "ठूलो",
+    "vocab": [
+      { "word": "大きい", "reading": "おおきい", "meaning": "big", "meaning_ne": "ठूलो" },
+      { "word": "大学", "reading": "だいがく", "meaning": "university", "meaning_ne": "विश्वविद्यालय" },
+      { "word": "大人", "reading": "おとな", "meaning": "adult", "meaning_ne": "बयस्क" },
+      { "word": "大好き", "reading": "だいすき", "meaning": "love/like a lot", "meaning_ne": "धेरै मन पर्नु" },
+      { "word": "大きな声", "reading": "おおきなこえ", "meaning": "loud voice", "meaning_ne": "ठूलो आवाज" },
+      { "word": "大雨", "reading": "おおあめ", "meaning": "heavy rain", "meaning_ne": "मुसलधारे वर्षा" },
+      { "word": "大事", "reading": "だいじ", "meaning": "important", "meaning_ne": "महत्त्वपूर्ण" }
+    ]
+  },
+  {
+    "kanji": "小",
+    "on": "ショウ",
+    "kun": "ちい(さい)",
+    "meaning": "small",
+    "meaning_ne": "सानो",
+    "vocab": [
+      { "word": "小さい", "reading": "ちいさい", "meaning": "small", "meaning_ne": "सानो" },
+      { "word": "小学生", "reading": "しょうがくせい", "meaning": "elementary student", "meaning_ne": "प्राथमिक विद्यार्थी" },
+      { "word": "小雨", "reading": "こあめ", "meaning": "light rain", "meaning_ne": "हल्का वर्षा" },
+      { "word": "小声", "reading": "こごえ", "meaning": "small voice", "meaning_ne": "सानो आवाज" },
+      { "word": "小道", "reading": "こみち", "meaning": "small path", "meaning_ne": "सानो बाटो" },
+      { "word": "小屋", "reading": "こや", "meaning": "small hut", "meaning_ne": "सानो झुपडी" },
+      { "word": "小包", "reading": "こづつみ", "meaning": "small package", "meaning_ne": "सानो पार्सल" }
+    ]
+  },
+  {
+    "kanji": "長",
+    "on": "チョウ",
+    "kun": "なが(い)",
+    "meaning": "long",
+    "meaning_ne": "लामो",
+    "vocab": [
+      { "word": "長い", "reading": "ながい", "meaning": "long", "meaning_ne": "लामो" },
+      { "word": "長く", "reading": "ながく", "meaning": "for a long time", "meaning_ne": "लामो समय" },
+      { "word": "長所", "reading": "ちょうしょ", "meaning": "strong point", "meaning_ne": "सकारात्मक पक्ष" },
+      { "word": "長男", "reading": "ちょうなん", "meaning": "eldest son", "meaning_ne": "जेठो छोरा" },
+      { "word": "長さ", "reading": "ながさ", "meaning": "length", "meaning_ne": "लम्बाइ" },
+      { "word": "長時間", "reading": "ちょうじかん", "meaning": "long time", "meaning_ne": "लामो समय" },
+      { "word": "長生き", "reading": "ながいき", "meaning": "long life", "meaning_ne": "दीर्घायु" }
+    ]
+  },
+  {
+    "kanji": "高",
+    "on": "コウ",
+    "kun": "たか(い)",
+    "meaning": "tall/expensive",
+    "meaning_ne": "उच्च/महँगो",
+    "vocab": [
+      { "word": "高い", "reading": "たかい", "meaning": "tall/expensive", "meaning_ne": "उच्च/महँगो" },
+      { "word": "高校", "reading": "こうこう", "meaning": "high school", "meaning_ne": "उच्च माध्यमिक" },
+      { "word": "高山", "reading": "たかやま", "meaning": "high mountain", "meaning_ne": "उच्च पहाड" },
+      { "word": "高価", "reading": "こうか", "meaning": "high price", "meaning_ne": "महँगो" },
+      { "word": "高気圧", "reading": "こうきあつ", "meaning": "high pressure", "meaning_ne": "उच्च दबाब" },
+      { "word": "高台", "reading": "たかだい", "meaning": "high ground", "meaning_ne": "उच्च स्थान" },
+      { "word": "高音", "reading": "こうおん", "meaning": "high pitch", "meaning_ne": "उच्च स्वर" }
+    ]
+  },
+  {
+    "kanji": "安",
+    "on": "アン",
+    "kun": "やす(い)",
+    "meaning": "cheap/safe",
+    "meaning_ne": "सस्तो/सुरक्षित",
+    "vocab": [
+      { "word": "安い", "reading": "やすい", "meaning": "cheap", "meaning_ne": "सस्तो" },
+      { "word": "安全", "reading": "あんぜん", "meaning": "safe", "meaning_ne": "सुरक्षित" },
+      { "word": "安心", "reading": "あんしん", "meaning": "relief", "meaning_ne": "निश्चिन्त" },
+      { "word": "安定", "reading": "あんてい", "meaning": "stable", "meaning_ne": "स्थिर" },
+      { "word": "安物", "reading": "やすもの", "meaning": "cheap item", "meaning_ne": "सस्तो सामान" },
+      { "word": "安売り", "reading": "やすうり", "meaning": "discount sale", "meaning_ne": "छुट बिक्री" },
+      { "word": "安価", "reading": "あんか", "meaning": "low price", "meaning_ne": "कम मूल्य" }
+    ]
+  },
+  {
+    "kanji": "新",
+    "on": "シン",
+    "kun": "あたら(しい)",
+    "meaning": "new",
+    "meaning_ne": "नयाँ",
+    "vocab": [
+      { "word": "新しい", "reading": "あたらしい", "meaning": "new", "meaning_ne": "नयाँ" },
+      { "word": "新聞", "reading": "しんぶん", "meaning": "newspaper", "meaning_ne": "अखबार" },
+      { "word": "新人", "reading": "しんじん", "meaning": "new person", "meaning_ne": "नयाँ व्यक्ति" },
+      { "word": "新年", "reading": "しんねん", "meaning": "new year", "meaning_ne": "नयाँ वर्ष" },
+      { "word": "新作", "reading": "しんさく", "meaning": "new work", "meaning_ne": "नयाँ सिर्जना" },
+      { "word": "新車", "reading": "しんしゃ", "meaning": "new car", "meaning_ne": "नयाँ गाडी" },
+      { "word": "新学期", "reading": "しんがっき", "meaning": "new semester", "meaning_ne": "नयाँ सत्र" }
+    ]
+  },
+  {
+    "kanji": "古",
+    "on": "コ",
+    "kun": "ふる(い)",
+    "meaning": "old",
+    "meaning_ne": "पुरानो",
+    "vocab": [
+      { "word": "古い", "reading": "ふるい", "meaning": "old", "meaning_ne": "पुरानो" },
+      { "word": "古本", "reading": "ふるほん", "meaning": "used book", "meaning_ne": "पुरानो किताब" },
+      { "word": "中古", "reading": "ちゅうこ", "meaning": "second-hand", "meaning_ne": "पुरानो/सेकेन्ड-ह्यान्ड" },
+      { "word": "古代", "reading": "こだい", "meaning": "ancient times", "meaning_ne": "प्राचीन काल" },
+      { "word": "古道具", "reading": "こどうぐ", "meaning": "old tools", "meaning_ne": "पुरानो सामान" },
+      { "word": "古寺", "reading": "ふるでら", "meaning": "old temple", "meaning_ne": "पुरानो मन्दिर" },
+      { "word": "古着", "reading": "ふるぎ", "meaning": "used clothes", "meaning_ne": "पुरानो लुगा" }
+    ]
+  },
+  {
+    "kanji": "白",
+    "on": "ハク・ビャク",
+    "kun": "しろ(い)",
+    "meaning": "white",
+    "meaning_ne": "सेतो",
+    "vocab": [
+      { "word": "白い", "reading": "しろい", "meaning": "white", "meaning_ne": "सेतो" },
+      { "word": "白鳥", "reading": "はくちょう", "meaning": "swan", "meaning_ne": "हंस" },
+      { "word": "白紙", "reading": "はくし", "meaning": "blank paper", "meaning_ne": "सेतो कागज" },
+      { "word": "白飯", "reading": "しろごはん", "meaning": "white rice", "meaning_ne": "सेतो भात" },
+      { "word": "白人", "reading": "はくじん", "meaning": "white person", "meaning_ne": "सेतो मानिस" },
+      { "word": "白黒", "reading": "しろくろ", "meaning": "black and white", "meaning_ne": "सेतो–कालो" },
+      { "word": "真っ白", "reading": "まっしろ", "meaning": "pure white", "meaning_ne": "एकदम सेतो" }
+    ]
+  },
+  {
+    "kanji": "黒",
+    "on": "コク",
+    "kun": "くろ(い)",
+    "meaning": "black",
+    "meaning_ne": "कालो",
+    "vocab": [
+      { "word": "黒い", "reading": "くろい", "meaning": "black", "meaning_ne": "कालो" },
+      { "word": "黒猫", "reading": "くろねこ", "meaning": "black cat", "meaning_ne": "कालो बिरालो" },
+      { "word": "黒板", "reading": "こくばん", "meaning": "blackboard", "meaning_ne": "कालो बोर्ड" },
+      { "word": "黒髪", "reading": "くろかみ", "meaning": "black hair", "meaning_ne": "कालो कपाल" },
+      { "word": "黒色", "reading": "こくしょく", "meaning": "black color", "meaning_ne": "कालो रंग" },
+      { "word": "黒豆", "reading": "くろまめ", "meaning": "black beans", "meaning_ne": "कालो सिमी" },
+      { "word": "黒字", "reading": "くろじ", "meaning": "profit", "meaning_ne": "नाफा" }
+    ]
+  },
+  {
+    "kanji": "車",
+    "on": "シャ",
+    "kun": "くるま",
+    "meaning": "car",
+    "meaning_ne": "गाडी",
+    "vocab": [
+      { "word": "車", "reading": "くるま", "meaning": "car", "meaning_ne": "गाडी" },
+      { "word": "電車", "reading": "でんしゃ", "meaning": "train", "meaning_ne": "ट्रेन" },
+      { "word": "自動車", "reading": "じどうしゃ", "meaning": "automobile", "meaning_ne": "मोटर गाडी" },
+      { "word": "車内", "reading": "しゃない", "meaning": "inside the car", "meaning_ne": "गाडी भित्र" },
+      { "word": "車道", "reading": "しゃどう", "meaning": "roadway", "meaning_ne": "सडक" },
+      { "word": "車庫", "reading": "しゃこ", "meaning": "garage", "meaning_ne": "ग्यारेज" },
+      { "word": "新車", "reading": "しんしゃ", "meaning": "new car", "meaning_ne": "नयाँ गाडी" }
+    ]
+  },
+  {
+    "kanji": "電",
+    "on": "デン",
+    "kun": "",
+    "meaning": "electricity",
+    "meaning_ne": "विद्युत",
+    "vocab": [
+      { "word": "電気", "reading": "でんき", "meaning": "electricity", "meaning_ne": "विद्युत" },
+      { "word": "電話", "reading": "でんわ", "meaning": "telephone", "meaning_ne": "फोन" },
+      { "word": "電車", "reading": "でんしゃ", "meaning": "train", "meaning_ne": "ट्रेन" },
+      { "word": "電池", "reading": "でんち", "meaning": "battery", "meaning_ne": "ब्याट्री" },
+      { "word": "電灯", "reading": "でんとう", "meaning": "electric light", "meaning_ne": "बत्ती" },
+      { "word": "電子", "reading": "でんし", "meaning": "electronic", "meaning_ne": "इलेक्ट्रोनिक" },
+      { "word": "電力", "reading": "でんりょく", "meaning": "electric power", "meaning_ne": "विद्युत शक्ति" }
+    ]
+  },
+  {
+    "kanji": "語",
+    "on": "ゴ",
+    "kun": "",
+    "meaning": "language/word",
+    "meaning_ne": "भाषा/शब्द",
+    "vocab": [
+      { "word": "日本語", "reading": "にほんご", "meaning": "Japanese language", "meaning_ne": "जापानी भाषा" },
+      { "word": "英語", "reading": "えいご", "meaning": "English", "meaning_ne": "अंग्रेजी" },
+      { "word": "中国語", "reading": "ちゅうごくご", "meaning": "Chinese", "meaning_ne": "चिनियाँ भाषा" },
+      { "word": "単語", "reading": "たんご", "meaning": "word", "meaning_ne": "शब्द" },
+      { "word": "語学", "reading": "ごがく", "meaning": "language study", "meaning_ne": "भाषा अध्ययन" },
+      { "word": "会話", "reading": "かいわ", "meaning": "conversation", "meaning_ne": "बातचीत" },
+      { "word": "国語", "reading": "こくご", "meaning": "national language", "meaning_ne": "राष्ट्रिय भाषा" }
+    ]
+  }
 ]
