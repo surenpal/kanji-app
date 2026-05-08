@@ -1,47 +1,46 @@
-import { getDayGroups } from "@/lib/kanji";
-import { createClient } from "@/lib/supabase/server";
-import { DayGroupCard } from "@/components/home/DayGroupCard";
+import { LevelCard } from "@/components/home/LevelCard";
 
-export default async function HomePage() {
-  const supabase = await createClient();
-  const { data: { user } } = await supabase.auth.getUser();
+const LEVELS = [
+  {
+    id: "n5",
+    label: "JLPT N5",
+    description: "Beginner · 66 kanji · 3 day groups",
+    kanjiPreview: "一二三四五",
+    href: "/n5",
+  },
+  {
+    id: "n4",
+    label: "JLPT N4",
+    description: "Elementary · 116 kanji · 4 day groups",
+    kanjiPreview: "仕事大学友",
+    href: "/n4",
+  },
+  {
+    id: "n3",
+    label: "JLPT N3",
+    description: "Intermediate · 144 kanji · 5 day groups",
+    kanjiPreview: "感情映画旅",
+    href: "/n3",
+  },
+];
 
-  // Fetch which days the user has studied at least one kanji in
-  let studiedIndices: Set<number> = new Set();
-  if (user) {
-    const { data } = await supabase
-      .from("user_progress")
-      .select("kanji_index")
-      .eq("user_id", user.id);
-    if (data) studiedIndices = new Set(data.map((r) => r.kanji_index));
-  }
-
-  const groups = getDayGroups();
-
+export default function HomePage() {
   return (
-    <div className="max-w-3xl mx-auto px-4 py-10 pb-16">
-      <h1 className="text-center font-extrabold text-xl tracking-widest mb-1"
-          style={{ color: "var(--accent)" }}>
-        Dinuprastha <span className="font-kanji text-2xl">漢字</span> / 31 Day Challenge
+    <div className="max-w-2xl mx-auto px-4 py-10 pb-16">
+      <h1
+        className="text-center font-extrabold text-xl tracking-widest mb-1"
+        style={{ color: "var(--accent)" }}
+      >
+        Dinuprastha <span className="font-kanji text-2xl">漢字</span> Challenge
       </h1>
       <p className="text-center text-sm mb-10" style={{ color: "var(--text-sub)" }}>
-        Choose a group to start studying · 928 kanji · 31 groups
+        Choose a JLPT level to start studying
       </p>
 
-      <div className="grid grid-cols-[repeat(auto-fill,minmax(220px,1fr))] gap-4">
-        {groups.map((group) => {
-          const studiedCount = group.kanji.reduce((acc, _, i) => {
-            return studiedIndices.has(group.start + i) ? acc + 1 : acc;
-          }, 0);
-          return (
-            <DayGroupCard
-              key={group.day}
-              group={group}
-              studiedCount={studiedCount}
-              isLoggedIn={!!user}
-            />
-          );
-        })}
+      <div className="flex flex-col gap-5">
+        {LEVELS.map((level) => (
+          <LevelCard key={level.id} {...level} />
+        ))}
       </div>
     </div>
   );

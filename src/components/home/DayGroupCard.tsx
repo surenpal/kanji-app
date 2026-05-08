@@ -7,15 +7,16 @@ interface Props {
   group: DayGroup;
   studiedCount: number;
   isLoggedIn: boolean;
+  basePath?: string;
 }
 
-export function DayGroupCard({ group, studiedCount, isLoggedIn }: Props) {
+export function DayGroupCard({ group, studiedCount, isLoggedIn, basePath = "" }: Props) {
   const total = group.kanji.length;
   const pct = total > 0 ? Math.round((studiedCount / total) * 100) : 0;
   const done = studiedCount === total && total > 0;
 
   return (
-    <Link href={`/day/${group.day}`} className="block group">
+    <Link href={`${basePath}/day/${group.day}`} className="block group">
       <div
         className="rounded-2xl p-5 cursor-pointer transition-all duration-200 group-hover:-translate-y-1"
         style={{

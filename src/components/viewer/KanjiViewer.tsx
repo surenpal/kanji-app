@@ -12,11 +12,12 @@ interface Props {
   studiedIndices: number[];
   favoriteIndices: number[];
   isLoggedIn: boolean;
+  backHref?: string;
 }
 
 type SlideDir = "left" | "right" | "none";
 
-export function KanjiViewer({ group, studiedIndices, favoriteIndices, isLoggedIn }: Props) {
+export function KanjiViewer({ group, studiedIndices, favoriteIndices, isLoggedIn, backHref = "/" }: Props) {
   const { lang } = useLang();
   const [current, setCurrent] = useState(0);
   const [slideDir, setSlideDir] = useState<SlideDir>("none");
@@ -90,7 +91,7 @@ export function KanjiViewer({ group, studiedIndices, favoriteIndices, isLoggedIn
     <div className="flex flex-col items-center min-h-[calc(100vh-60px)] px-4 py-6 pb-10">
       {/* Back */}
       <Link
-        href="/"
+        href={backHref}
         className="self-start mb-5 px-4 py-1.5 rounded-lg text-sm font-bold tracking-wide transition-colors hover:opacity-80"
         style={{ border: "2px solid var(--accent)", color: "var(--accent)" }}
       >

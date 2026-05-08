@@ -84,7 +84,7 @@
     { "word": "五百", "reading": "ごひゃく", "meaning": "500", "meaning_ne": "५००" }
   ]
 }
-][
+,
 {
   "kanji": "六",
   "on": "ロク",
@@ -187,7 +187,7 @@
     { "word": "百点", "reading": "ひゃくてん", "meaning": "perfect score", "meaning_ne": "१०० अंक" }
   ]
 }
-][
+,
 {
   "kanji": "千",
   "on": "セン",
@@ -358,8 +358,7 @@
     { "word": "土台", "reading": "どだい", "meaning": "foundation", "meaning_ne": "आधार" }
   ]
 }
-]
-[
+,
 {
   "kanji": "年",
   "on": "ネン",
@@ -564,8 +563,7 @@
     { "word": "母校", "reading": "ぼこう", "meaning": "alma mater", "meaning_ne": "पुरानो विद्यालय" }
   ]
 }
-]
-[
+,
 {
   "kanji": "先",
   "on": "セン",
@@ -855,8 +853,7 @@
     { "word": "西日", "reading": "にしび", "meaning": "afternoon sun", "meaning_ne": "बेलुकी घाम" }
   ]
 }
-]
-[
+,
 {
   "kanji": "間",
   "on": "カン・ケン",
@@ -993,8 +990,7 @@
     { "word": "和食", "reading": "わしょく", "meaning": "Japanese food", "meaning_ne": "जापानी खाना" }
   ]
 }
-]
-[
+,
 {
   "kanji": "飲",
   "on": "イン",
