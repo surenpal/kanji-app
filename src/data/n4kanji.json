@@ -2335,5 +2335,347 @@
       {"word": "無許可", "reading": "むきょか", "meaning": "unauthorized", "meaning_ne": "अनुमतिबिना"},
       {"word": "無関係", "reading": "むかんけい", "meaning": "unrelated", "meaning_ne": "सम्बन्धरहित"}
     ]
+  },
+  [
+  {
+    "kanji": "心",
+    "on": "シン・ジン",
+    "kun": "こころ",
+    "meaning": "heart/mind",
+    "meaning_ne": "हृदय/मन",
+    "vocab": [
+      {"word": "心", "reading": "こころ", "meaning": "heart", "meaning_ne": "हृदय"},
+      {"word": "心配", "reading": "しんぱい", "meaning": "worry", "meaning_ne": "चिन्ता"},
+      {"word": "気持ち", "reading": "きもち", "meaning": "feeling", "meaning_ne": "भावना"},
+      {"word": "安心", "reading": "あんしん", "meaning": "relief", "meaning_ne": "निश्चिन्त"},
+      {"word": "用心", "reading": "ようじん", "meaning": "caution", "meaning_ne": "सावधानी"},
+      {"word": "中心", "reading": "ちゅうしん", "meaning": "center", "meaning_ne": "केन्द्र"},
+      {"word": "本心", "reading": "ほんしん", "meaning": "true feelings", "meaning_ne": "सच्चा मन"},
+      {"word": "狭い心", "reading": "せまいこころ", "meaning": "narrow mind", "meaning_ne": "साँघुरो मन"}
+    ]
+  },
+  {
+    "kanji": "意",
+    "on": "イ",
+    "kun": "",
+    "meaning": "meaning/intention",
+    "meaning_ne": "अर्थ/इरादा",
+    "vocab": [
+      {"word": "意味", "reading": "いみ", "meaning": "meaning", "meaning_ne": "अर्थ"},
+      {"word": "意見", "reading": "いけん", "meaning": "opinion", "meaning_ne": "विचार"},
+      {"word": "意志", "reading": "いし", "meaning": "will", "meaning_ne": "इच्छाशक्ति"},
+      {"word": "注意", "reading": "ちゅうい", "meaning": "attention", "meaning_ne": "ध्यान"},
+      {"word": "意外", "reading": "いがい", "meaning": "unexpected", "meaning_ne": "अप्रत्याशित"},
+      {"word": "意識", "reading": "いしき", "meaning": "consciousness", "meaning_ne": "चेतना"},
+      {"word": "意向", "reading": "いこう", "meaning": "intention", "meaning_ne": "इच्छा"},
+      {"word": "意味深長", "reading": "いみぶかちょう", "meaning": "profound meaning", "meaning_ne": "गहिरो अर्थ"}
+    ]
+  },
+  {
+    "kanji": "悪",
+    "on": "アク・オ",
+    "kun": "わる",
+    "meaning": "bad/evil",
+    "meaning_ne": "खराब/दुष्ट",
+    "vocab": [
+      {"word": "悪い", "reading": "わるい", "meaning": "bad", "meaning_ne": "खराब"},
+      {"word": "悪化", "reading": "あっか", "meaning": "worsening", "meaning_ne": "बिग्रनु"},
+      {"word": "病気", "reading": "びょうき", "meaning": "illness", "meaning_ne": "रोग"},
+      {"word": "邪魔", "reading": "じゃま", "meaning": "nuisance", "meaning_ne": "अडचन"},
+      {"word": "悪夢", "reading": "あくむ", "meaning": "nightmare", "meaning_ne": "डरलाग्दो सपना"},
+      {"word": "悪口", "reading": "わるくち", "meaning": "abuse", "meaning_ne": "गाली"},
+      {"word": "悪影響", "reading": "あくえいきょう", "meaning": "bad influence", "meaning_ne": "खराब प्रभाव"},
+      {"word": "悪天候", "reading": "あくてんこう", "meaning": "bad weather", "meaning_ne": "खराब मौसम"}
+    ]
+  },
+  {
+    "kanji": "良",
+    "on": "リョウ",
+    "kun": "よ",
+    "meaning": "good",
+    "meaning_ne": "राम्रो",
+    "vocab": [
+      {"word": "良い", "reading": "よい・いい", "meaning": "good", "meaning_ne": "राम्रो"},
+      {"word": "良好", "reading": "りょうこう", "meaning": "excellent", "meaning_ne": "उत्तम"},
+      {"word": "良心", "reading": "りょうしん", "meaning": "conscience", "meaning_ne": "विवेक"},
+      {"word": "良質", "reading": "りょうしつ", "meaning": "high quality", "meaning_ne": "उच्च गुणस्तर"},
+      {"word": "料理", "reading": "りょうり", "meaning": "cooking", "meaning_ne": "खाना"},
+      {"word": "良薬", "reading": "りょうやく", "meaning": "good medicine", "meaning_ne": "राम्रो औषधि"},
+      {"word": "良識", "reading": "りょうしき", "meaning": "common sense", "meaning_ne": "सामान्य बुद्धि"},
+      {"word": "良品", "reading": "りょうひん", "meaning": "quality goods", "meaning_ne": "राम्रो सामान"}
+    ]
+  },
+  {
+    "kanji": "特",
+    "on": "トク",
+    "kun": "",
+    "meaning": "special",
+    "meaning_ne": "विशेष",
+    "vocab": [
+      {"word": "特別", "reading": "とくべつ", "meaning": "special", "meaning_ne": "विशेष"},
+      {"word": "特徴", "reading": "とくちょう", "meaning": "characteristic", "meaning_ne": "विशेषता"},
+      {"word": "特技", "reading": "とっくぎ", "meaning": "special skill", "meaning_ne": "विशेष सीप"},
+      {"word": "特価", "reading": "とっか", "meaning": "special price", "meaning_ne": "विशेष मूल्य"},
+      {"word": "特急", "reading": "とっきゅう", "meaning": "express train", "meaning_ne": "छिटो गाडी"},
+      {"word": "特典", "reading": "とくてん", "meaning": "bonus", "meaning_ne": "लाभ"},
+      {"word": "特色", "reading": "とくしょく", "meaning": "feature", "meaning_ne": "विशेष गुण"},
+      {"word": "特産", "reading": "とくさん", "meaning": "local product", "meaning_ne": "स्थानीय उत्पादन"}
+    ]
+  },
+  {
+    "kanji": "別",
+    "on": "ベツ",
+    "kun": "わか",
+    "meaning": "separate/different",
+    "meaning_ne": "अलग/भिन्न",
+    "vocab": [
+      {"word": "別", "reading": "べつ", "meaning": "separate", "meaning_ne": "अलग"},
+      {"word": "別れる", "reading": "わかれる", "meaning": "to separate", "meaning_ne": "अलग हुनु"},
+      {"word": "別々", "reading": "べつべつ", "meaning": "separately", "meaning_ne": "अलग-अलग"},
+      {"word": "別居", "reading": "べっきょ", "meaning": "living apart", "meaning_ne": "अलग बसाइ"},
+      {"word": "別名", "reading": "べつめい", "meaning": "another name", "meaning_ne": "अर्को नाम"},
+      {"word": "別料金", "reading": "べつりょうきん", "meaning": "separate charge", "meaning_ne": "अलग शुल्क"},
+      {"word": "別紙", "reading": "べっし", "meaning": "separate sheet", "meaning_ne": "अलग कागज"},
+      {"word": "別荘", "reading": "べっそう", "meaning": "vacation home", "meaning_ne": "ग्रीष्म सदन"}
+    ]
+  },
+  {
+    "kanji": "不",
+    "on": "フ",
+    "kun": "",
+    "meaning": "un-/not",
+    "meaning_ne": "न-",
+    "vocab": [
+      {"word": "不安", "reading": "ふあん", "meaning": "anxiety", "meaning_ne": "चिन्ता"},
+      {"word": "不便", "reading": "ふべん", "meaning": "inconvenient", "meaning_ne": "असुविधाजनक"},
+      {"word": "不可能", "reading": "ふかのう", "meaning": "impossible", "meaning_ne": "असम्भव"},
+      {"word": "不良", "reading": "ふりょう", "meaning": "defective", "meaning_ne": "खराब"},
+      {"word": "不満", "reading": "ふまん", "meaning": "dissatisfaction", "meaning_ne": "असन्तुष्टि"},
+      {"word": "不明", "reading": "ふめい", "meaning": "unclear", "meaning_ne": "अस्पष्ट"},
+      {"word": "不正", "reading": "ふせい", "meaning": "irregular", "meaning_ne": "गलत"},
+      {"word": "不注意", "reading": "ふちゅうい", "meaning": "carelessness", "meaning_ne": "लापरवाही"}
+    ]
+  },
+  {
+    "kanji": "早",
+    "on": "ソウ",
+    "kun": "はや",
+    "meaning": "early/fast",
+    "meaning_ne": "छिटो/अगाडि",
+    "vocab": [
+      {"word": "早い", "reading": "はやい", "meaning": "early/fast", "meaning_ne": "छिटो"},
+      {"word": "早朝", "reading": "そうちょう", "meaning": "early morning", "meaning_ne": "बिहान चाँडै"},
+      {"word": "早退", "reading": "そうたい", "meaning": "leave early", "meaning_ne": "छिटो छोड्नु"},
+      {"word": "早起き", "reading": "はやおき", "meaning": "early riser", "meaning_ne": "चाँडै उठ्ने"},
+      {"word": "早口", "reading": "はやぐち", "meaning": "fast talking", "meaning_ne": "छिटो बोल्ने"},
+      {"word": "早春", "reading": "そうしゅん", "meaning": "early spring", "meaning_ne": "वसन्तको सुरु"},
+      {"word": "早締め", "reading": "はやじめ", "meaning": "early closing", "meaning_ne": "छिटो बन्द"},
+      {"word": "早産", "reading": "そうさん", "meaning": "premature birth", "meaning_ne": "अकाल जन्म"}
+    ]
+  },
+  {
+    "kanji": "低",
+    "on": "テイ",
+    "kun": "",
+    "meaning": "low",
+    "meaning_ne": "निम्न",
+    "vocab": [
+      {"word": "低い", "reading": "ひくい", "meaning": "low", "meaning_ne": "निम्न"},
+      {"word": "低音", "reading": "ていおん", "meaning": "low tone", "meaning_ne": "निम्न स्वर"},
+      {"word": "低下", "reading": "ていか", "meaning": "decline", "meaning_ne": "ह्रास"},
+      {"word": "低気圧", "reading": "ていきあつ", "meaning": "low pressure", "meaning_ne": "निम्न दबाब"},
+      {"word": "低所得", "reading": "ていしょとく", "meaning": "low income", "meaning_ne": "कम आय"},
+      {"word": "低速", "reading": "ていそく", "meaning": "low speed", "meaning_ne": "निम्न गति"},
+      {"word": "低温", "reading": "ていおん", "meaning": "low temperature", "meaning_ne": "निम्न तापक्रम"},
+      {"word": "低層", "reading": "ていそう", "meaning": "low-rise", "meaning_ne": "निम्न तह"}
+    ]
+  },
+  {
+    "kanji": "広",
+    "on": "コウ",
+    "kun": "ひろ",
+    "meaning": "wide/spacious",
+    "meaning_ne": "फराकिलो",
+    "vocab": [
+      {"word": "広い", "reading": "ひろい", "meaning": "wide", "meaning_ne": "फराकिलो"},
+      {"word": "広告", "reading": "こうこく", "meaning": "advertisement", "meaning_ne": "विज्ञापन"},
+      {"word": "広場", "reading": "ひろば", "meaning": "plaza", "meaning_ne": "चौक"},
+      {"word": "広がる", "reading": "ひろがる", "meaning": "to spread", "meaning_ne": "फैलिनु"},
+      {"word": "広さ", "reading": "ひろさ", "meaning": "width", "meaning_ne": "फराकिलोपन"},
+      {"word": "広報", "reading": "こうほう", "meaning": "publicity", "meaning_ne": "प्रचार"},
+      {"word": "広範囲", "reading": "こうはんい", "meaning": "wide area", "meaning_ne": "विस्तृत क्षेत्र"},
+      {"word": "広域", "reading": "こういき", "meaning": "wide area", "meaning_ne": "फराकिलो क्षेत्र"}
+    ]
+  },
+  {
+    "kanji": "心",
+    "on": "シン・ジン",
+    "kun": "こころ",
+    "meaning": "heart/mind",
+    "meaning_ne": "हृदय/मन",
+    "vocab": [
+      {"word": "心", "reading": "こころ", "meaning": "heart", "meaning_ne": "हृदय"},
+      {"word": "心配", "reading": "しんぱい", "meaning": "worry", "meaning_ne": "चिन्ता"},
+      {"word": "気持ち", "reading": "きもち", "meaning": "feeling", "meaning_ne": "भावना"},
+      {"word": "安心", "reading": "あんしん", "meaning": "relief", "meaning_ne": "निश्चिन्त"},
+      {"word": "用心", "reading": "ようじん", "meaning": "caution", "meaning_ne": "सावधानी"},
+      {"word": "中心", "reading": "ちゅうしん", "meaning": "center", "meaning_ne": "केन्द्र"},
+      {"word": "本心", "reading": "ほんしん", "meaning": "true feelings", "meaning_ne": "सच्चा मन"},
+      {"word": "狭い心", "reading": "せまいこころ", "meaning": "narrow mind", "meaning_ne": "साँघुरो मन"}
+    ]
+  },
+  {
+    "kanji": "意",
+    "on": "イ",
+    "kun": "",
+    "meaning": "meaning/intention",
+    "meaning_ne": "अर्थ/इरादा",
+    "vocab": [
+      {"word": "意味", "reading": "いみ", "meaning": "meaning", "meaning_ne": "अर्थ"},
+      {"word": "意見", "reading": "いけん", "meaning": "opinion", "meaning_ne": "विचार"},
+      {"word": "意志", "reading": "いし", "meaning": "will", "meaning_ne": "इच्छाशक्ति"},
+      {"word": "注意", "reading": "ちゅうい", "meaning": "attention", "meaning_ne": "ध्यान"},
+      {"word": "意外", "reading": "いがい", "meaning": "unexpected", "meaning_ne": "अप्रत्याशित"},
+      {"word": "意識", "reading": "いしき", "meaning": "consciousness", "meaning_ne": "चेतना"},
+      {"word": "意向", "reading": "いこう", "meaning": "intention", "meaning_ne": "इच्छा"},
+      {"word": "意味深長", "reading": "いみぶかちょう", "meaning": "profound meaning", "meaning_ne": "गहिरो अर्थ"}
+    ]
+  },
+  {
+    "kanji": "悪",
+    "on": "アク・オ",
+    "kun": "わる",
+    "meaning": "bad/evil",
+    "meaning_ne": "खराब/दुष्ट",
+    "vocab": [
+      {"word": "悪い", "reading": "わるい", "meaning": "bad", "meaning_ne": "खराब"},
+      {"word": "悪化", "reading": "あっか", "meaning": "worsening", "meaning_ne": "बिग्रनु"},
+      {"word": "病気", "reading": "びょうき", "meaning": "illness", "meaning_ne": "रोग"},
+      {"word": "邪魔", "reading": "じゃま", "meaning": "nuisance", "meaning_ne": "अडचन"},
+      {"word": "悪夢", "reading": "あくむ", "meaning": "nightmare", "meaning_ne": "डरलाग्दो सपना"},
+      {"word": "悪口", "reading": "わるくち", "meaning": "abuse", "meaning_ne": "गाली"},
+      {"word": "悪影響", "reading": "あくえいきょう", "meaning": "bad influence", "meaning_ne": "खराब प्रभाव"},
+      {"word": "悪天候", "reading": "あくてんこう", "meaning": "bad weather", "meaning_ne": "खराब मौसम"}
+    ]
+  },
+  {
+    "kanji": "良",
+    "on": "リョウ",
+    "kun": "よ",
+    "meaning": "good",
+    "meaning_ne": "राम्रो",
+    "vocab": [
+      {"word": "良い", "reading": "よい・いい", "meaning": "good", "meaning_ne": "राम्रो"},
+      {"word": "良好", "reading": "りょうこう", "meaning": "excellent", "meaning_ne": "उत्तम"},
+      {"word": "良心", "reading": "りょうしん", "meaning": "conscience", "meaning_ne": "विवेक"},
+      {"word": "良質", "reading": "りょうしつ", "meaning": "high quality", "meaning_ne": "उच्च गुणस्तर"},
+      {"word": "料理", "reading": "りょうり", "meaning": "cooking", "meaning_ne": "खाना"},
+      {"word": "良薬", "reading": "りょうやく", "meaning": "good medicine", "meaning_ne": "राम्रो औषधि"},
+      {"word": "良識", "reading": "りょうしき", "meaning": "common sense", "meaning_ne": "सामान्य बुद्धि"},
+      {"word": "良品", "reading": "りょうひん", "meaning": "quality goods", "meaning_ne": "राम्रो सामान"}
+    ]
+  },
+  {
+    "kanji": "特",
+    "on": "トク",
+    "kun": "",
+    "meaning": "special",
+    "meaning_ne": "विशेष",
+    "vocab": [
+      {"word": "特別", "reading": "とくべつ", "meaning": "special", "meaning_ne": "विशेष"},
+      {"word": "特徴", "reading": "とくちょう", "meaning": "characteristic", "meaning_ne": "विशेषता"},
+      {"word": "特技", "reading": "とっくぎ", "meaning": "special skill", "meaning_ne": "विशेष सीप"},
+      {"word": "特価", "reading": "とっか", "meaning": "special price", "meaning_ne": "विशेष मूल्य"},
+      {"word": "特急", "reading": "とっきゅう", "meaning": "express train", "meaning_ne": "छिटो गाडी"},
+      {"word": "特典", "reading": "とくてん", "meaning": "bonus", "meaning_ne": "लाभ"},
+      {"word": "特色", "reading": "とくしょく", "meaning": "feature", "meaning_ne": "विशेष गुण"},
+      {"word": "特産", "reading": "とくさん", "meaning": "local product", "meaning_ne": "स्थानीय उत्पादन"}
+    ]
+  },
+  {
+    "kanji": "別",
+    "on": "ベツ",
+    "kun": "わか",
+    "meaning": "separate/different",
+    "meaning_ne": "अलग/भिन्न",
+    "vocab": [
+      {"word": "別", "reading": "べつ", "meaning": "separate", "meaning_ne": "अलग"},
+      {"word": "別れる", "reading": "わかれる", "meaning": "to separate", "meaning_ne": "अलग हुनु"},
+      {"word": "別々", "reading": "べつべつ", "meaning": "separately", "meaning_ne": "अलग-अलग"},
+      {"word": "別居", "reading": "べっきょ", "meaning": "living apart", "meaning_ne": "अलग बसाइ"},
+      {"word": "別名", "reading": "べつめい", "meaning": "another name", "meaning_ne": "अर्को नाम"},
+      {"word": "別料金", "reading": "べつりょうきん", "meaning": "separate charge", "meaning_ne": "अलग शुल्क"},
+      {"word": "別紙", "reading": "べっし", "meaning": "separate sheet", "meaning_ne": "अलग कागज"},
+      {"word": "別荘", "reading": "べっそう", "meaning": "vacation home", "meaning_ne": "ग्रीष्म सदन"}
+    ]
+  },
+  {
+    "kanji": "不",
+    "on": "フ",
+    "kun": "",
+    "meaning": "un-/not",
+    "meaning_ne": "न-",
+    "vocab": [
+      {"word": "不安", "reading": "ふあん", "meaning": "anxiety", "meaning_ne": "चिन्ता"},
+      {"word": "不便", "reading": "ふべん", "meaning": "inconvenient", "meaning_ne": "असुविधाजनक"},
+      {"word": "不可能", "reading": "ふかのう", "meaning": "impossible", "meaning_ne": "असम्भव"},
+      {"word": "不良", "reading": "ふりょう", "meaning": "defective", "meaning_ne": "खराब"},
+      {"word": "不満", "reading": "ふまん", "meaning": "dissatisfaction", "meaning_ne": "असन्तुष्टि"},
+      {"word": "不明", "reading": "ふめい", "meaning": "unclear", "meaning_ne": "अस्पष्ट"},
+      {"word": "不正", "reading": "ふせい", "meaning": "irregular", "meaning_ne": "गलत"},
+      {"word": "不注意", "reading": "ふちゅうい", "meaning": "carelessness", "meaning_ne": "लापरवाही"}
+    ]
+  },
+  {
+    "kanji": "早",
+    "on": "ソウ",
+    "kun": "はや",
+    "meaning": "early/fast",
+    "meaning_ne": "छिटो/अगाडि",
+    "vocab": [
+      {"word": "早い", "reading": "はやい", "meaning": "early/fast", "meaning_ne": "छिटो"},
+      {"word": "早朝", "reading": "そうちょう", "meaning": "early morning", "meaning_ne": "बिहान चाँडै"},
+      {"word": "早退", "reading": "そうたい", "meaning": "leave early", "meaning_ne": "छिटो छोड्नु"},
+      {"word": "早起き", "reading": "はやおき", "meaning": "early riser", "meaning_ne": "चाँडै उठ्ने"},
+      {"word": "早口", "reading": "はやぐち", "meaning": "fast talking", "meaning_ne": "छिटो बोल्ने"},
+      {"word": "早春", "reading": "そうしゅん", "meaning": "early spring", "meaning_ne": "वसन्तको सुरु"},
+      {"word": "早締め", "reading": "はやじめ", "meaning": "early closing", "meaning_ne": "छिटो बन्द"},
+      {"word": "早産", "reading": "そうさん", "meaning": "premature birth", "meaning_ne": "अकाल जन्म"}
+    ]
+  },
+  {
+    "kanji": "低",
+    "on": "テイ",
+    "kun": "",
+    "meaning": "low",
+    "meaning_ne": "निम्न",
+    "vocab": [
+      {"word": "低い", "reading": "ひくい", "meaning": "low", "meaning_ne": "निम्न"},
+      {"word": "低音", "reading": "ていおん", "meaning": "low tone", "meaning_ne": "निम्न स्वर"},
+      {"word": "低下", "reading": "ていか", "meaning": "decline", "meaning_ne": "ह्रास"},
+      {"word": "低気圧", "reading": "ていきあつ", "meaning": "low pressure", "meaning_ne": "निम्न दबाब"},
+      {"word": "低所得", "reading": "ていしょとく", "meaning": "low income", "meaning_ne": "कम आय"},
+      {"word": "低速", "reading": "ていそく", "meaning": "low speed", "meaning_ne": "निम्न गति"},
+      {"word": "低温", "reading": "ていおん", "meaning": "low temperature", "meaning_ne": "निम्न तापक्रम"},
+      {"word": "低層", "reading": "ていそう", "meaning": "low-rise", "meaning_ne": "निम्न तह"}
+    ]
+  },
+  {
+    "kanji": "広",
+    "on": "コウ",
+    "kun": "ひろ",
+    "meaning": "wide/spacious",
+    "meaning_ne": "फराकिलो",
+    "vocab": [
+      {"word": "広い", "reading": "ひろい", "meaning": "wide", "meaning_ne": "फराकिलो"},
+      {"word": "広告", "reading": "こうこく", "meaning": "advertisement", "meaning_ne": "विज्ञापन"},
+      {"word": "広場", "reading": "ひろば", "meaning": "plaza", "meaning_ne": "चौक"},
+      {"word": "広がる", "reading": "ひろがる", "meaning": "to spread", "meaning_ne": "फैलिनु"},
+      {"word": "広さ", "reading": "ひろさ", "meaning": "width", "meaning_ne": "फराकिलोपन"},
+      {"word": "広報", "reading": "こうほう", "meaning": "publicity", "meaning_ne": "प्रचार"},
+      {"word": "広範囲", "reading": "こうはんい", "meaning": "wide area", "meaning_ne": "विस्तृत क्षेत्र"},
+      {"word": "広域", "reading": "こういき", "meaning": "wide area", "meaning_ne": "फराकिलो क्षेत्र"}
+    ]
   }
+]
 ]
