@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import Image from "next/image";
+import { useState } from "react";
 import { useTheme } from "./ThemeProvider";
 import { createClient } from "@/lib/supabase/client";
 import { useRouter } from "next/navigation";
@@ -14,6 +15,11 @@ export function HeaderClient({ user }: Props) {
   const { theme, toggle } = useTheme();
   const router = useRouter();
   const supabase = createClient();
+  const [lang, setLang] = useState<"en" | "ne">("en");
+
+  const toggleLang = () => {
+    setLang((prev) => (prev === "en" ? "ne" : "en"));
+  };
 
   const signOut = async () => {
     await supabase.auth.signOut();
@@ -65,6 +71,16 @@ export function HeaderClient({ user }: Props) {
             Sign In
           </Link>
         )}
+
+        {/* Language toggle */}
+        <button
+          onClick={toggleLang}
+          className="text-xs font-bold tracking-wider px-3 py-1.5 rounded-lg transition-all hover:scale-105 cursor-pointer"
+          style={{ border: "1.5px solid var(--border-group)", color: "var(--text-sub)", background: "var(--bg-card)" }}
+          title="Toggle language"
+        >
+          {lang === "en" ? "EN" : "नेपाली"}
+        </button>
 
         {/* Theme toggle */}
         <button
