@@ -1978,5 +1978,362 @@
     { "word": "資料", "reading": "しりょう", "meaning": "data/material", "meaning_ne": "सामग्री" },
     { "word": "原料", "reading": "げんりょう", "meaning": "raw material", "meaning_ne": "कच्चा पदार्थ" }
   ]
-}
+},
+ {
+    "kanji": "待",
+    "on": "タイ",
+    "kun": "ま",
+    "meaning": "wait",
+    "meaning_ne": "पर्खनु",
+    "vocab": [
+      {"word": "待つ", "reading": "まつ", "meaning": "to wait", "meaning_ne": "पर्खनु"},
+      {"word": "待ち合わせ", "reading": "まちあわせ", "meaning": "meeting place", "meaning_ne": "भेट स्थान"},
+      {"word": "待機", "reading": "たいき", "meaning": "standby", "meaning_ne": "प्रतीक्षा"},
+      {"word": "待合室", "reading": "まちあいしつ", "meaning": "waiting room", "meaning_ne": "प्रतीक्षा कक्ष"},
+      {"word": "お待ちください", "reading": "おまちください", "meaning": "please wait", "meaning_ne": "कृपया पर्खनुहोस्"},
+      {"word": "待ち時間", "reading": "まちじかん", "meaning": "waiting time", "meaning_ne": "प्रतीक्षा समय"},
+      {"word": "待機中", "reading": "たいきちゅう", "meaning": "on standby", "meaning_ne": "प्रतीक्षामा"},
+      {"word": "遅刻待ち", "reading": "ちこくまち", "meaning": "waiting for latecomer", "meaning_ne": "ढिलोको प्रतीक्षा"}
+    ]
+  },
+  {
+    "kanji": "習",
+    "on": "シュウ",
+    "kun": "なら",
+    "meaning": "learn/practice",
+    "meaning_ne": "सिक्नु/अभ्यास",
+    "vocab": [
+      {"word": "習う", "reading": "ならう", "meaning": "to learn", "meaning_ne": "सिक्नु"},
+      {"word": "習慣", "reading": "しゅうかん", "meaning": "habit", "meaning_ne": "बानी"},
+      {"word": "学習", "reading": "がくしゅう", "meaning": "learning", "meaning_ne": "अध्ययन"},
+      {"word": "練習", "reading": "れんしゅう", "meaning": "practice", "meaning_ne": "अभ्यास"},
+      {"word": "習字", "reading": "しゅうじ", "meaning": "calligraphy", "meaning_ne": "अक्षर लेखन"},
+      {"word": "習得", "reading": "しゅうとく", "meaning": "acquisition", "meaning_ne": "प्राप्ति"},
+      {"word": "反復練習", "reading": "はんぷくれんしゅう", "meaning": "repeated practice", "meaning_ne": "पुनरावृत्ति अभ्यास"},
+      {"word": "習慣化", "reading": "しゅうかんか", "meaning": "habit formation", "meaning_ne": "बानी निर्माण"}
+    ]
+  },
+  {
+    "kanji": "勉",
+    "on": "ベン",
+    "kun": "",
+    "meaning": "study hard",
+    "meaning_ne": "कडा अध्ययन",
+    "vocab": [
+      {"word": "勉強", "reading": "べんきょう", "meaning": "study", "meaning_ne": "अध्ययन"},
+      {"word": "勉める", "reading": "つとめる", "meaning": "to endeavor", "meaning_ne": "प्रयास गर्नु"},
+      {"word": "努力", "reading": "どりょく", "meaning": "effort", "meaning_ne": "प्रयास"},
+      {"word": "勤勉", "reading": "きんべん", "meaning": "diligence", "meaning_ne": "कठोर परिश्रम"},
+      {"word": "勉強家", "reading": "べんきょうか", "meaning": "studious person", "meaning_ne": "पढ्ने व्यक्ति"},
+      {"word": "勉強中", "reading": "べんきょうちゅう", "meaning": "studying now", "meaning_ne": "पढ्दै"},
+      {"word": "熱心勉強", "reading": "ねっしんべんきょう", "meaning": "earnest study", "meaning_ne": "गम्भीर अध्ययन"},
+      {"word": "勉強会", "reading": "べんきょうかい", "meaning": "study group", "meaning_ne": "अध्ययन समूह"}
+    ]
+  },
+  {
+    "kanji": "研",
+    "on": "ケン",
+    "kun": "",
+    "meaning": "research/polish",
+    "meaning_ne": "अनुसन्धान/चम्काउनु",
+    "vocab": [
+      {"word": "研究", "reading": "けんきゅう", "meaning": "research", "meaning_ne": "अनुसन्धान"},
+      {"word": "訓練", "reading": "くんれん", "meaning": "training", "meaning_ne": "प्रशिक्षण"},
+      {"word": "研ぐ", "reading": "とぐ", "meaning": "to sharpen", "meaning_ne": "चम्काउनु"},
+      {"word": "研究室", "reading": "けんきゅうしつ", "meaning": "laboratory", "meaning_ne": "अनुसन्धान कक्ष"},
+      {"word": "研究生", "reading": "けんきゅうせい", "meaning": "research student", "meaning_ne": "अनुसन्धान विद्यार्थी"},
+      {"word": "精密", "reading": "せいみつ", "meaning": "precision", "meaning_ne": "सटीकता"},
+      {"word": "研鑽", "reading": "けんさん", "meaning": "self-improvement", "meaning_ne": "आत्म-सुधार"},
+      {"word": "研究者", "reading": "けんきゅうしゃ", "meaning": "researcher", "meaning_ne": "अनुसन्धानकर्ता"}
+    ]
+  },
+  {
+    "kanji": "取",
+    "on": "シュ",
+    "kun": "と",
+    "meaning": "take",
+    "meaning_ne": "लिनु",
+    "vocab": [
+      {"word": "取る", "reading": "とる", "meaning": "to take", "meaning_ne": "लिनु"},
+      {"word": "取得", "reading": "しゅとく", "meaning": "acquisition", "meaning_ne": "प्राप्ति"},
+      {"word": "取扱", "reading": "とりあつかい", "meaning": "handling", "meaning_ne": "व्यवहार"},
+      {"word": "写真を取る", "reading": "しゃしんをとる", "meaning": "take photo", "meaning_ne": "फोटो लिनु"},
+      {"word": "取材", "reading": "しゅざい", "meaning": "coverage", "meaning_ne": "रिपोर्टिङ"},
+      {"word": "取り消し", "reading": "とりけし", "meaning": "cancellation", "meaning_ne": "रद्द"},
+      {"word": "取次", "reading": "とりつぎ", "meaning": "transmission", "meaning_ne": "पारवहन"},
+      {"word": "取り扱い説明書", "reading": "とりあつかいいいやくしょう", "meaning": "instruction manual", "meaning_ne": "निर्देशन पुस्तिका"}
+    ]
+  },
+  {
+    "kanji": "注",
+    "on": "チュウ",
+    "kun": "そそ",
+    "meaning": "pour/note",
+    "meaning_ne": "खन्याउनु/नोट",
+    "vocab": [
+      {"word": "注意", "reading": "ちゅうい", "meaning": "attention", "meaning_ne": "ध्यान"},
+      {"word": "注ぐ", "reading": "そそぐ", "meaning": "to pour", "meaning_ne": "खन्याउनु"},
+      {"word": "注文", "reading": "ちゅうもん", "meaning": "order", "meaning_ne": "अर्डर"},
+      {"word": "注目", "reading": "ちゅうもく", "meaning": "focus", "meaning_ne": "ध्यानाकर्षण"},
+      {"word": "注解", "reading": "ちゅうかい", "meaning": "annotation", "meaning_ne": "टिप्पणी"},
+      {"word": "注入", "reading": "ちゅうにゅう", "meaning": "injection", "meaning_ne": "इन्जेक्सन"},
+      {"word": "注釈", "reading": "ちゅうしゃく", "meaning": "commentary", "meaning_ne": "व्याख्या"},
+      {"word": "重点", "reading": "じゅうてん", "meaning": "emphasis", "meaning_ne": "मुख्य बिन्दु"}
+    ]
+  },
+  {
+    "kanji": "長",
+    "on": "チョウ・ジョウ",
+    "kun": "なが",
+    "meaning": "long/leader",
+    "meaning_ne": "लामो/नेता",
+    "vocab": [
+      {"word": "長い", "reading": "ながい", "meaning": "long", "meaning_ne": "लामो"},
+      {"word": "部長", "reading": "ぶちょう", "meaning": "section chief", "meaning_ne": "विभाग प्रमुख"},
+      {"word": "社長", "reading": "しゃちょう", "meaning": "president", "meaning_ne": "अध्यक्ष"},
+      {"word": "長所", "reading": "ちょうしょ", "meaning": "strong point", "meaning_ne": "गुण"},
+      {"word": "成長", "reading": "せいちょう", "meaning": "growth", "meaning_ne": "वृद्धि"},
+      {"word": "時間長", "reading": "じかんなが", "meaning": "long time", "meaning_ne": "लामो समय"},
+      {"word": "長距離", "reading": "ちょうきょり", "meaning": "long distance", "meaning_ne": "लामो दूरी"},
+      {"word": "校長", "reading": "こうちょう", "meaning": "principal", "meaning_ne": "प्रधानाध्यापक"}
+    ]
+  },
+  {
+    "kanji": "短",
+    "on": "タン",
+    "kun": "みじか",
+    "meaning": "short",
+    "meaning_ne": "छोटो",
+    "vocab": [
+      {"word": "短い", "reading": "みじかい", "meaning": "short", "meaning_ne": "छोटो"},
+      {"word": "短所", "reading": "たんしょ", "meaning": "weak point", "meaning_ne": "दोष"},
+      {"word": "短期間", "reading": "たんきかん", "meaning": "short term", "meaning_ne": "छोटो अवधि"},
+      {"word": "短距離", "reading": "たんきょり", "meaning": "short distance", "meaning_ne": "छोटो दूरी"},
+      {"word": "短気", "reading": "たんき", "meaning": "impatient", "meaning_ne": "चिडचिडे"},
+      {"word": "短時間", "reading": "たんじかん", "meaning": "short time", "meaning_ne": "छोटो समय"},
+      {"word": "短編", "reading": "たんぺん", "meaning": "short story", "meaning_ne": "लघु कथा"},
+      {"word": "短大", "reading": "たんだい", "meaning": "junior college", "meaning_ne": "छोटो कलेज"}
+    ]
+  },
+  {
+    "kanji": "漢",
+    "on": "カン",
+    "kun": "",
+    "meaning": "China/kanji",
+    "meaning_ne": "चीन/हान्जी",
+    "vocab": [
+      {"word": "漢字", "reading": "かんじ", "meaning": "kanji", "meaning_ne": "हान्जी"},
+      {"word": "漢方", "reading": "かんぽう", "meaning": "Chinese medicine", "meaning_ne": "चिनियाँ औषधि"},
+      {"word": "漢詩", "reading": "かんし", "meaning": "Chinese poetry", "meaning_ne": "चिनियाँ कविता"},
+      {"word": "漢語", "reading": "かんご", "meaning": "Chinese word", "meaning_ne": "चिनियाँ शब्द"},
+      {"word": "漢籍", "reading": "かんせき", "meaning": "Chinese classics", "meaning_ne": "चिनियाँ ग्रन्थ"},
+      {"word": "漢字学習", "reading": "かんじがくしゅう", "meaning": "kanji study", "meaning_ne": "हान्जी अध्ययन"},
+      {"word": "漢文化", "reading": "かんぶんか", "meaning": "Chinese culture", "meaning_ne": "चिनियाँ संस्कृति"},
+      {"word": "漢字辞典", "reading": "かんじじてん", "meaning": "kanji dictionary", "meaning_ne": "हान्जी शब्दकोश"}
+    ]
+  },
+  {
+    "kanji": "字",
+    "on": "ジ",
+    "kun": "あざ",
+    "meaning": "character/letter",
+    "meaning_ne": "अक्षर/पत्र",
+    "vocab": [
+      {"word": "文字", "reading": "もじ", "meaning": "character", "meaning_ne": "अक्षर"},
+      {"word": "字幕", "reading": "じまく", "meaning": "subtitle", "meaning_ne": "उपशीर्षक"},
+      {"word": "筆字", "reading": "ひつじ", "meaning": "handwriting", "meaning_ne": "हस्तलेखन"},
+      {"word": "字体", "reading": "じたい", "meaning": "font", "meaning_ne": "अक्षर शैली"},
+      {"word": "住所", "reading": "じゅうしょ", "meaning": "address", "meaning_ne": "ठेगाना"},
+      {"word": "習字", "reading": "しゅうじ", "meaning": "calligraphy", "meaning_ne": "लेख कलाँ"},
+      {"word": "字違い", "reading": "じちがい", "meaning": "wrong character", "meaning_ne": "गलत अक्षर"},
+      {"word": "印刷文字", "reading": "いんさつもじ", "meaning": "printed text", "meaning_ne": "मुद्रित अक्षर"}
+    ]
+  },
+  {
+    "kanji": "文",
+    "on": "ブン・モン",
+    "kun": "",
+    "meaning": "writing/sentence",
+    "meaning_ne": "लेखन/वाक्य",
+    "vocab": [
+      {"word": "文章", "reading": "ぶんしょう", "meaning": "writing", "meaning_ne": "लेखन"},
+      {"word": "文化", "reading": "ぶんか", "meaning": "culture", "meaning_ne": "संस्कृति"},
+      {"word": "文法", "reading": "ぶんぽう", "meaning": "grammar", "meaning_ne": "व्याकरण"},
+      {"word": "作文", "reading": "さくぶん", "meaning": "composition", "meaning_ne": "रचना"},
+      {"word": "文献", "reading": "ぶんけん", "meaning": "document", "meaning_ne": "साहित्य"},
+      {"word": "文句", "reading": "もんく", "meaning": "complaint", "meaning_ne": "गुनासो"},
+      {"word": "文学", "reading": "ぶんがく", "meaning": "literature", "meaning_ne": "साहित्य"},
+      {"word": "文房具", "reading": "ぶんぼうぐ", "meaning": "stationery", "meaning_ne": "लेखन सामग्री"}
+    ]
+  },
+  {
+    "kanji": "化",
+    "on": "カ・ケ",
+    "kun": "",
+    "meaning": "change/culture",
+    "meaning_ne": "परिवर्तन/संस्कृति",
+    "vocab": [
+      {"word": "化ける", "reading": "ばける", "meaning": "to transform", "meaning_ne": "रूपान्तरण"},
+      {"word": "変化", "reading": "へんか", "meaning": "change", "meaning_ne": "परिवर्तन"},
+      {"word": "文化", "reading": "ぶんか", "meaning": "culture", "meaning_ne": "संस्कृति"},
+      {"word": "化学", "reading": "かがく", "meaning": "chemistry", "meaning_ne": "रसायनशास्त्र"},
+      {"word": "化粧", "reading": "けしょう", "meaning": "makeup", "meaning_ne": "सौन्दर्य प्रसाधन"},
+      {"word": "自然化", "reading": "しぜんか", "meaning": "naturalization", "meaning_ne": "प्राकृतिकीकरण"},
+      {"word": "危険化", "reading": "きけんか", "meaning": "dangerous", "meaning_ne": "खतरनाक"},
+      {"word": "近代化", "reading": "きんだいか", "meaning": "modernization", "meaning_ne": "आधुनिकीकरण"}
+    ]
+  },
+  {
+    "kanji": "英",
+    "on": "エイ",
+    "kun": "",
+    "meaning": "England/excellent",
+    "meaning_ne": "इङ्ल्याण्ड/उत्तम",
+    "vocab": [
+      {"word": "英語", "reading": "えいご", "meaning": "English", "meaning_ne": "अंग्रेजी"},
+      {"word": "英雄", "reading": "えいゆう", "meaning": "hero", "meaning_ne": "नायक"},
+      {"word": "英国", "reading": "えいこく", "meaning": "England", "meaning_ne": "इङ्ल्याण्ड"},
+      {"word": "優秀", "reading": "ゆうしゅう", "meaning": "excellent", "meaning_ne": "उत्तम"},
+      {"word": "英会話", "reading": "えいかいわ", "meaning": "English conversation", "meaning_ne": "अंग्रेजी बोलचाल"},
+      {"word": "英単語", "reading": "えいたんご", "meaning": "English word", "meaning_ne": "अंग्रेजी शब्द"},
+      {"word": "英才", "reading": "えいさい", "meaning": "prodigy", "meaning_ne": "प्रतिभाशाली"},
+      {"word": "英語力", "reading": "えいごりょく", "meaning": "English ability", "meaning_ne": "अंग्रेजी क्षमता"}
+    ]
+  },
+  {
+    "kanji": "語",
+    "on": "ゴ",
+    "kun": "",
+    "meaning": "language/word",
+    "meaning_ne": "भाषा/शब्द",
+    "vocab": [
+      {"word": "言語", "reading": "げんご", "meaning": "language", "meaning_ne": "भाषा"},
+      {"word": "言葉", "reading": "ことば", "meaning": "word", "meaning_ne": "शब्द"},
+      {"word": "英語", "reading": "えいご", "meaning": "English", "meaning_ne": "अंग्रेजी"},
+      {"word": "国語", "reading": "こくご", "meaning": "national language", "meaning_ne": "राष्ट्रिय भाषा"},
+      {"word": "語学", "reading": "ごがく", "meaning": "linguistics", "meaning_ne": "भाषाविज्ञान"},
+      {"word": "会話", "reading": "かいわ", "meaning": "conversation", "meaning_ne": "बातचित"},
+      {"word": "語源", "reading": "ごげん", "meaning": "etymology", "meaning_ne": "शब्द उत्पत्ति"},
+      {"word": "方言", "reading": "ほうげん", "meaning": "dialect", "meaning_ne": "उपभाषा"}
+    ]
+  },
+  {
+    "kanji": "説",
+    "on": "セツ・ゼツ",
+    "kun": "と",
+    "meaning": "explain/theory",
+    "meaning_ne": "बुझाउनु/सिद्धान्त",
+    "vocab": [
+      {"word": "説明", "reading": "せつめい", "meaning": "explanation", "meaning_ne": "ब्याख्या"},
+      {"word": "説得", "reading": "せっとく", "meaning": "persuasion", "meaning_ne": "बुझाउनु"},
+      {"word": "理論", "reading": "りろん", "meaning": "theory", "meaning_ne": "सिद्धान्त"},
+      {"word": "説く", "reading": "とく", "meaning": "to explain", "meaning_ne": "बुझाउनु"},
+      {"word": "主張", "reading": "しゅちょう", "meaning": "assertion", "meaning_ne": "दावा"},
+      {"word": "解説", "reading": "かいせつ", "meaning": "commentary", "meaning_ne": "टिप्पणी"},
+      {"word": "仮説", "reading": "かせつ", "meaning": "hypothesis", "meaning_ne": "अनुमान"},
+      {"word": "議論", "reading": "ぎろん", "meaning": "discussion", "meaning_ne": "बहस"}
+    ]
+  },
+  {
+    "kanji": "話",
+    "on": "ワ",
+    "kun": "はな",
+    "meaning": "talk/story",
+    "meaning_ne": "बात/कथा",
+    "vocab": [
+      {"word": "話す", "reading": "はなす", "meaning": "to speak", "meaning_ne": "बोल्नु"},
+      {"word": "話", "reading": "はなし", "meaning": "story", "meaning_ne": "कथा"},
+      {"word": "会話", "reading": "かいわ", "meaning": "conversation", "meaning_ne": "बातचित"},
+      {"word": "話し合い", "reading": "はなしあい", "meaning": "discussion", "meaning_ne": "छलफल"},
+      {"word": "小話", "reading": "じょうわ", "meaning": "anecdote", "meaning_ne": "सानो कथा"},
+      {"word": "話題", "reading": "わだい", "meaning": "topic", "meaning_ne": "विषय"},
+      {"word": "おしゃべり", "reading": "おしゃべり", "meaning": "chatting", "meaning_ne": "गफगाफ"},
+      {"word": "話術", "reading": "わじゅつ", "meaning": "speaking skill", "meaning_ne": "बोल्ने कला"}
+    ]
+  },
+  {
+    "kanji": "記",
+    "on": "キ",
+    "kun": "",
+    "meaning": "record/note",
+    "meaning_ne": "लेख्नु/नोट",
+    "vocab": [
+      {"word": "記録", "reading": "きろく", "meaning": "record", "meaning_ne": "रिकर्ड"},
+      {"word": "記事", "reading": "きじ", "meaning": "article", "meaning_ne": "लेख"},
+      {"word": "書記", "reading": "しょき", "meaning": "secretary", "meaning_ne": "लेखापाल"},
+      {"word": "記念", "reading": "きねん", "meaning": "commemoration", "meaning_ne": "स्मरण"},
+      {"word": "記述", "reading": "きじゅつ", "meaning": "description", "meaning_ne": "वर्णन"},
+      {"word": "日記", "reading": "にっき", "meaning": "diary", "meaning_ne": "डायरी"},
+      {"word": "記入", "reading": "きにゅう", "meaning": "entry", "meaning_ne": "भर्ना"},
+      {"word": "記録簿", "reading": "きろくぼ", "meaning": "logbook", "meaning_ne": "लेखा पुस्तक"}
+    ]
+  },
+  {
+    "kanji": "計",
+    "on": "ケイ",
+    "kun": "はか",
+    "meaning": "measure/plan",
+    "meaning_ne": "मापन/योजना",
+    "vocab": [
+      {"word": "計画", "reading": "けいかく", "meaning": "plan", "meaning_ne": "योजना"},
+      {"word": "計算", "reading": "けいさん", "meaning": "calculation", "meaning_ne": "गणना"},
+      {"word": "計る", "reading": "はかる", "meaning": "to measure", "meaning_ne": "नाप्नु"},
+      {"word": "時間計", "reading": "じかんけい", "meaning": "timer", "meaning_ne": "समय मापन"},
+      {"word": "設計", "reading": "せっけい", "meaning": "design", "meaning_ne": "डिजाइन"},
+      {"word": "計測", "reading": "けいそく", "meaning": "measurement", "meaning_ne": "मापन"},
+      {"word": "予算", "reading": "よさん", "meaning": "budget", "meaning_ne": "बजेट"},
+      {"word": "統計", "reading": "とうけい", "meaning": "statistics", "meaning_ne": "तथ्यांक"}
+    ]
+  },
+  {
+    "kanji": "界",
+    "on": "カイ・ケ",
+    "kun": "",
+    "meaning": "world/boundary",
+    "meaning_ne": "विश्व/सीमा",
+    "vocab": [
+      {"word": "世界", "reading": "せかい", "meaning": "world", "meaning_ne": "विश्व"},
+      {"word": "社会", "reading": "しゃかい", "meaning": "society", "meaning_ne": "समाज"},
+      {"word": "業界", "reading": "ぎょうかい", "meaning": "industry", "meaning_ne": "उद्योग"},
+      {"word": "自然界", "reading": "しぜんかい", "meaning": "nature", "meaning_ne": "प्रकृति"},
+      {"word": "学界", "reading": "がっかい", "meaning": "academic world", "meaning_ne": "शैक्षिक क्षेत्र"},
+      {"word": "境界", "reading": "きょうかい", "meaning": "boundary", "meaning_ne": "सीमा"},
+      {"word": "芸能界", "reading": "げいのうかい", "meaning": "entertainment world", "meaning_ne": "मनोरञ्जन क्षेत्र"},
+      {"word": "スポーツ界", "reading": "スポーツかい", "meaning": "sports world", "meaning_ne": "खेल क्षेत्र"}
+    ]
+  },
+  {
+    "kanji": "有",
+    "on": "ユウ",
+    "kun": "あ",
+    "meaning": "exist/have",
+    "meaning_ne": "हुनु/राख्नु",
+    "vocab": [
+      {"word": "有名", "reading": "ゆうめい", "meaning": "famous", "meaning_ne": "प्रसिद्ध"},
+      {"word": "有る", "reading": "ある", "meaning": "to exist", "meaning_ne": "हुनु"},
+      {"word": "有効", "reading": "ゆうこう", "meaning": "valid", "meaning_ne": "मान्य"},
+      {"word": "存在", "reading": "そんざい", "meaning": "existence", "meaning_ne": "अस्तित्व"},
+      {"word": "有料", "reading": "ゆうりょう", "meaning": "paid", "meaning_ne": "शुल्कयुक्त"},
+      {"word": "所有", "reading": "しょゆう", "meaning": "ownership", "meaning_ne": "मालिकाना"},
+      {"word": "有用", "reading": "ゆうよう", "meaning": "useful", "meaning_ne": "उपयोगी"},
+      {"word": "有難い", "reading": "ありがたい", "meaning": "grateful", "meaning_ne": "कृतज्ञ"}
+    ]
+  },
+  {
+    "kanji": "無",
+    "on": "ム・ブ",
+    "kun": "",
+    "meaning": "nothing/without",
+    "meaning_ne": "नहि/बिना",
+    "vocab": [
+      {"word": "無", "reading": "なし", "meaning": "without", "meaning_ne": "बिना"},
+      {"word": "無料", "reading": "むりょう", "meaning": "free", "meaning_ne": "निःशुल्क"},
+      {"word": "無事", "reading": "ぶじ", "meaning": "safe", "meaning_ne": "सुरक्षित"},
+      {"word": "無意味", "reading": "むいみ", "meaning": "meaningless", "meaning_ne": "अर्थहीन"},
+      {"word": "無人", "reading": "むじん", "meaning": "unmanned", "meaning_ne": "मानवरहित"},
+      {"word": "無線", "reading": "むせん", "meaning": "wireless", "meaning_ne": "ताररहित"},
+      {"word": "無許可", "reading": "むきょか", "meaning": "unauthorized", "meaning_ne": "अनुमतिबिना"},
+      {"word": "無関係", "reading": "むかんけい", "meaning": "unrelated", "meaning_ne": "सम्बन्धरहित"}
+    ]
+  }
 ]

@@ -1,30 +1,35 @@
 import { LevelCard } from "@/components/home/LevelCard";
+import { N5_KANJI, N4_KANJI, N3_KANJI, getDayGroupsForLevel } from "@/lib/kanji";
+import type { JLPTLevel } from "@/types/kanji";
 
-const LEVELS = [
-  {
-    id: "n5",
-    label: "JLPT N5",
-    description: "Beginner · 66 kanji · 3 day groups",
-    kanjiPreview: "一二三四五",
-    href: "/n5",
-  },
-  {
-    id: "n4",
-    label: "JLPT N4",
-    description: "Elementary · 116 kanji · 4 day groups",
-    kanjiPreview: "仕事大学友",
-    href: "/n4",
-  },
-  {
-    id: "n3",
-    label: "JLPT N3",
-    description: "Intermediate · 144 kanji · 5 day groups",
-    kanjiPreview: "感情映画旅",
-    href: "/n3",
-  },
+const LEVEL_META: { id: JLPTLevel; label: string; kanjiPreview: string; href: string }[] = [
+  { id: "n5", label: "JLPT N5", kanjiPreview: "一二三四五", href: "/n5" },
+  { id: "n4", label: "JLPT N4", kanjiPreview: "仕事大学友", href: "/n4" },
+  { id: "n3", label: "JLPT N3", kanjiPreview: "感情映画旅", href: "/n3" },
 ];
 
+const DIFFICULTY: Record<JLPTLevel, string> = {
+  n5: "Beginner",
+  n4: "Elementary",
+  n3: "Intermediate",
+};
+
+const KANJI_DATA: Record<JLPTLevel, unknown[]> = {
+  n5: N5_KANJI,
+  n4: N4_KANJI,
+  n3: N3_KANJI,
+};
+
 export default function HomePage() {
+  const levels = LEVEL_META.map((meta) => {
+    const count = KANJI_DATA[meta.id].length;
+    const days = getDayGroupsForLevel(meta.id).length;
+    return {
+      ...meta,
+      description: `${DIFFICULTY[meta.id]} · ${count} kanji · ${days} day groups`,
+    };
+  });
+
   return (
     <div className="max-w-2xl mx-auto px-4 py-10 pb-16">
       <h1
@@ -38,7 +43,7 @@ export default function HomePage() {
       </p>
 
       <div className="flex flex-col gap-5">
-        {LEVELS.map((level) => (
+        {levels.map((level) => (
           <LevelCard key={level.id} {...level} />
         ))}
       </div>
