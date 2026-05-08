@@ -1,7 +1,13 @@
 import type { Kanji, DayGroup } from "@/types/kanji";
-import kanjiData from "@/data/kanji.json";
+import n5Data from "@/data/n5kanji.json";
+import n4Data from "@/data/n4kanji.json";
+import n3Data from "@/data/n3kanji.json";
 
-export const ALL_KANJI: Kanji[] = kanjiData as Kanji[];
+export const N5_KANJI: Kanji[] = n5Data as Kanji[];
+export const N4_KANJI: Kanji[] = n4Data as Kanji[];
+export const N3_KANJI: Kanji[] = n3Data as Kanji[];
+
+export const ALL_KANJI: Kanji[] = [...N5_KANJI, ...N4_KANJI, ...N3_KANJI];
 
 const GROUP_SIZE = 30;
 

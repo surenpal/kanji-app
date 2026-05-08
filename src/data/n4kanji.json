@@ -1,0 +1,1990 @@
+[
+{
+  "kanji": "仕",
+  "on": "シ",
+  "kun": "つか",
+  "meaning": "serve / do",
+  "meaning_ne": "सेवा गर्नु",
+  "vocab": [
+    { "word": "仕事", "reading": "しごと", "meaning": "work/job", "meaning_ne": "काम" },
+    { "word": "仕方", "reading": "しかた", "meaning": "way/method", "meaning_ne": "तरिका" },
+    { "word": "仕上げる", "reading": "しあげる", "meaning": "to finish", "meaning_ne": "पूरा गर्नु" },
+    { "word": "仕入れ", "reading": "しいれ", "meaning": "purchase stock", "meaning_ne": "किनमेल" },
+    { "word": "仕組み", "reading": "しくみ", "meaning": "structure", "meaning_ne": "संरचना" },
+    { "word": "仕返し", "reading": "しかえし", "meaning": "revenge", "meaning_ne": "बदला" },
+    { "word": "仕切る", "reading": "しきる", "meaning": "to manage", "meaning_ne": "व्यवस्थापन गर्नु" },
+    { "word": "仕立てる", "reading": "したてる", "meaning": "to tailor", "meaning_ne": "सिलाउनु" }
+  ]
+},
+{
+  "kanji": "事",
+  "on": "ジ",
+  "kun": "こと",
+  "meaning": "thing",
+  "meaning_ne": "कुरा",
+  "vocab": [
+    { "word": "仕事", "reading": "しごと", "meaning": "job", "meaning_ne": "काम" },
+    { "word": "大事", "reading": "だいじ", "meaning": "important", "meaning_ne": "महत्त्वपूर्ण" },
+    { "word": "事故", "reading": "じこ", "meaning": "accident", "meaning_ne": "दुर्घटना" },
+    { "word": "用事", "reading": "ようじ", "meaning": "errand", "meaning_ne": "काम" },
+    { "word": "事情", "reading": "じじょう", "meaning": "circumstances", "meaning_ne": "परिस्थिति" },
+    { "word": "記事", "reading": "きじ", "meaning": "article", "meaning_ne": "लेख" },
+    { "word": "無事", "reading": "ぶじ", "meaning": "safe", "meaning_ne": "सुरक्षित" },
+    { "word": "食事", "reading": "しょくじ", "meaning": "meal", "meaning_ne": "भोजन" }
+  ]
+},
+{
+  "kanji": "代",
+  "on": "ダイ・タイ",
+  "kun": "か",
+  "meaning": "substitute / generation",
+  "meaning_ne": "प्रतिनिधि",
+  "vocab": [
+    { "word": "時代", "reading": "じだい", "meaning": "era", "meaning_ne": "युग" },
+    { "word": "代表", "reading": "だいひょう", "meaning": "representative", "meaning_ne": "प्रतिनिधि" },
+    { "word": "代わり", "reading": "かわり", "meaning": "substitute", "meaning_ne": "सट्टा" },
+    { "word": "現代", "reading": "げんだい", "meaning": "modern times", "meaning_ne": "आधुनिक समय" },
+    { "word": "交代", "reading": "こうたい", "meaning": "alternation", "meaning_ne": "परिवर्तन" },
+    { "word": "世代", "reading": "せだい", "meaning": "generation", "meaning_ne": "पुस्ता" },
+    { "word": "代理", "reading": "だいり", "meaning": "proxy", "meaning_ne": "प्रतिनिधि" },
+    { "word": "代金", "reading": "だいきん", "meaning": "price", "meaning_ne": "भुक्तानी" }
+  ]
+},
+{
+  "kanji": "以",
+  "on": "イ",
+  "kun": "",
+  "meaning": "by means of",
+  "meaning_ne": "बाट",
+  "vocab": [
+    { "word": "以上", "reading": "いじょう", "meaning": "more than", "meaning_ne": "भन्दा बढी" },
+    { "word": "以下", "reading": "いか", "meaning": "less than", "meaning_ne": "भन्दा कम" },
+    { "word": "以内", "reading": "いない", "meaning": "within", "meaning_ne": "भित्र" },
+    { "word": "以外", "reading": "いがい", "meaning": "except", "meaning_ne": "बाहेक" },
+    { "word": "以前", "reading": "いぜん", "meaning": "before", "meaning_ne": "पहिले" },
+    { "word": "以後", "reading": "いご", "meaning": "after this", "meaning_ne": "पछि" },
+    { "word": "以上に", "reading": "いじょうに", "meaning": "more than", "meaning_ne": "अझ बढी" },
+    { "word": "以内に", "reading": "いないに", "meaning": "within (time)", "meaning_ne": "भित्र" }
+  ]
+},
+{
+  "kanji": "住",
+  "on": "ジュウ",
+  "kun": "す",
+  "meaning": "live",
+  "meaning_ne": "बस्नु",
+  "vocab": [
+    { "word": "住む", "reading": "すむ", "meaning": "to live", "meaning_ne": "बस्नु" },
+    { "word": "住所", "reading": "じゅうしょ", "meaning": "address", "meaning_ne": "ठेगाना" },
+    { "word": "住宅", "reading": "じゅうたく", "meaning": "housing", "meaning_ne": "आवास" },
+    { "word": "居住", "reading": "きょじゅう", "meaning": "residence", "meaning_ne": "बसोबास" },
+    { "word": "移住", "reading": "いじゅう", "meaning": "migration", "meaning_ne": "बसाइँ सराइ" },
+    { "word": "在住", "reading": "ざいじゅう", "meaning": "living in", "meaning_ne": "बसिरहेको" },
+    { "word": "永住", "reading": "えいじゅう", "meaning": "permanent residence", "meaning_ne": "स्थायी बसोबास" },
+    { "word": "同居", "reading": "どうきょ", "meaning": "living together", "meaning_ne": "सँगै बस्नु" }
+  ]
+}
+]
+[
+{
+  "kanji": "使",
+  "on": "シ",
+  "kun": "つか",
+  "meaning": "use",
+  "meaning_ne": "प्रयोग गर्नु",
+  "vocab": [
+    { "word": "使う", "reading": "つかう", "meaning": "to use", "meaning_ne": "प्रयोग गर्नु" },
+    { "word": "使用", "reading": "しよう", "meaning": "usage", "meaning_ne": "प्रयोग" },
+    { "word": "大使", "reading": "たいし", "meaning": "ambassador", "meaning_ne": "राजदूत" },
+    { "word": "使い方", "reading": "つかいかた", "meaning": "how to use", "meaning_ne": "प्रयोग गर्ने तरिका" },
+    { "word": "使命", "reading": "しめい", "meaning": "mission", "meaning_ne": "कार्य" },
+    { "word": "使者", "reading": "ししゃ", "meaning": "messenger", "meaning_ne": "सन्देशवाहक" },
+    { "word": "無駄使い", "reading": "むだづかい", "meaning": "wasteful use", "meaning_ne": "फजुल खर्च" },
+    { "word": "使役", "reading": "しえき", "meaning": "causative use", "meaning_ne": "कारण प्रयोग" }
+  ]
+},
+{
+  "kanji": "作",
+  "on": "サク・サ",
+  "kun": "つく",
+  "meaning": "make",
+  "meaning_ne": "बनाउनु",
+  "vocab": [
+    { "word": "作る", "reading": "つくる", "meaning": "to make", "meaning_ne": "बनाउनु" },
+    { "word": "作品", "reading": "さくひん", "meaning": "work/art", "meaning_ne": "कृति" },
+    { "word": "作業", "reading": "さぎょう", "meaning": "task/work", "meaning_ne": "काम" },
+    { "word": "作家", "reading": "さっか", "meaning": "author", "meaning_ne": "लेखक" },
+    { "word": "製作", "reading": "せいさく", "meaning": "production", "meaning_ne": "निर्माण" },
+    { "word": "動作", "reading": "どうさ", "meaning": "movement", "meaning_ne": "चाल" },
+    { "word": "創作", "reading": "そうさく", "meaning": "creation", "meaning_ne": "सिर्जना" },
+    { "word": "農作物", "reading": "のうさくぶつ", "meaning": "crops", "meaning_ne": "बाली" }
+  ]
+},
+{
+  "kanji": "係",
+  "on": "ケイ",
+  "kun": "かか",
+  "meaning": "relation / staff",
+  "meaning_ne": "सम्बन्ध",
+  "vocab": [
+    { "word": "関係", "reading": "かんけい", "meaning": "relationship", "meaning_ne": "सम्बन्ध" },
+    { "word": "係員", "reading": "かかりいん", "meaning": "staff", "meaning_ne": "कर्मचारी" },
+    { "word": "係長", "reading": "かかりちょう", "meaning": "section chief", "meaning_ne": "अधिकारी" },
+    { "word": "無関係", "reading": "むかんけい", "meaning": "unrelated", "meaning_ne": "असम्बन्धित" },
+    { "word": "関係者", "reading": "かんけいしゃ", "meaning": "related person", "meaning_ne": "सम्बन्धित व्यक्ति" },
+    { "word": "係る", "reading": "かかる", "meaning": "to concern", "meaning_ne": "सम्बन्ध हुनु" },
+    { "word": "担当係", "reading": "たんとうがかり", "meaning": "person in charge", "meaning_ne": "जिम्मेवार व्यक्ति" },
+    { "word": "係数", "reading": "けいすう", "meaning": "coefficient", "meaning_ne": "गुणांक" }
+  ]
+},
+{
+  "kanji": "兄",
+  "on": "ケイ・キョウ",
+  "kun": "あに",
+  "meaning": "older brother",
+  "meaning_ne": "दाजु",
+  "vocab": [
+    { "word": "兄", "reading": "あに", "meaning": "older brother", "meaning_ne": "दाजु" },
+    { "word": "お兄さん", "reading": "おにいさん", "meaning": "older brother", "meaning_ne": "दाजु" },
+    { "word": "兄弟", "reading": "きょうだい", "meaning": "siblings", "meaning_ne": "दाजुभाइ" },
+    { "word": "長兄", "reading": "ちょうけい", "meaning": "eldest brother", "meaning_ne": "जेठो दाजु" },
+    { "word": "兄妹", "reading": "けいまい", "meaning": "brother and sister", "meaning_ne": "दाजुबहिनी" },
+    { "word": "兄上", "reading": "あにうえ", "meaning": "honorable brother", "meaning_ne": "आदरणीय दाजु" },
+    { "word": "実兄", "reading": "じっけい", "meaning": "real older brother", "meaning_ne": "सच्चा दाजु" },
+    { "word": "義兄", "reading": "ぎけい", "meaning": "brother-in-law", "meaning_ne": "दाजु (सम्बन्ध)" }
+  ]
+},
+{
+  "kanji": "姉",
+  "on": "シ",
+  "kun": "あね",
+  "meaning": "older sister",
+  "meaning_ne": "दिदी",
+  "vocab": [
+    { "word": "姉", "reading": "あね", "meaning": "older sister", "meaning_ne": "दिदी" },
+    { "word": "お姉さん", "reading": "おねえさん", "meaning": "older sister", "meaning_ne": "दिदी" },
+    { "word": "姉妹", "reading": "しまい", "meaning": "sisters", "meaning_ne": "दिदीबहिनी" },
+    { "word": "長姉", "reading": "ちょうし", "meaning": "eldest sister", "meaning_ne": "जेठी दिदी" },
+    { "word": "実姉", "reading": "じっし", "meaning": "real older sister", "meaning_ne": "सच्ची दिदी" },
+    { "word": "義姉", "reading": "ぎし", "meaning": "sister-in-law", "meaning_ne": "दिदी (सम्बन्ध)" },
+    { "word": "姉弟", "reading": "してい", "meaning": "older sister and younger brother", "meaning_ne": "दिदीभाइ" },
+    { "word": "姉上", "reading": "あねうえ", "meaning": "honorable sister", "meaning_ne": "आदरणीय दिदी" }
+  ]
+},
+{
+  "kanji": "弟",
+  "on": "テイ・ダイ",
+  "kun": "おとうと",
+  "meaning": "younger brother",
+  "meaning_ne": "भाइ",
+  "vocab": [
+    { "word": "弟", "reading": "おとうと", "meaning": "younger brother", "meaning_ne": "भाइ" },
+    { "word": "兄弟", "reading": "きょうだい", "meaning": "siblings", "meaning_ne": "दाजुभाइ" },
+    { "word": "弟子", "reading": "でし", "meaning": "disciple", "meaning_ne": "शिष्य" },
+    { "word": "義弟", "reading": "ぎてい", "meaning": "brother-in-law", "meaning_ne": "भाइ (सम्बन्ध)" },
+    { "word": "実弟", "reading": "じってい", "meaning": "real younger brother", "meaning_ne": "सच्चा भाइ" },
+    { "word": "兄弟関係", "reading": "きょうだいかんけい", "meaning": "sibling relation", "meaning_ne": "दाजुभाइ सम्बन्ध" },
+    { "word": "末弟", "reading": "まってい", "meaning": "youngest brother", "meaning_ne": "सबैभन्दा सानो भाइ" },
+    { "word": "弟分", "reading": "おとうとぶん", "meaning": "like a younger brother", "meaning_ne": "भाइजस्तो" }
+  ]
+},
+{
+  "kanji": "妹",
+  "on": "マイ",
+  "kun": "いもうと",
+  "meaning": "younger sister",
+  "meaning_ne": "बहिनी",
+  "vocab": [
+    { "word": "妹", "reading": "いもうと", "meaning": "younger sister", "meaning_ne": "बहिनी" },
+    { "word": "姉妹", "reading": "しまい", "meaning": "sisters", "meaning_ne": "दिदीबहिनी" },
+    { "word": "義妹", "reading": "ぎまい", "meaning": "sister-in-law", "meaning_ne": "बहिनी (सम्बन्ध)" },
+    { "word": "実妹", "reading": "じつまい", "meaning": "real younger sister", "meaning_ne": "सच्ची बहिनी" },
+    { "word": "兄妹", "reading": "けいまい", "meaning": "siblings", "meaning_ne": "दाजुबहिनी" },
+    { "word": "妹分", "reading": "いもうとぶん", "meaning": "like a younger sister", "meaning_ne": "बहिनी जस्तो" },
+    { "word": "末妹", "reading": "まつまい", "meaning": "youngest sister", "meaning_ne": "सानो बहिनी" },
+    { "word": "姉妹校", "reading": "しまいこう", "meaning": "sister school", "meaning_ne": "सहयोगी विद्यालय" }
+  ]
+},
+{
+  "kanji": "主",
+  "on": "シュ",
+  "kun": "ぬし",
+  "meaning": "main / master",
+  "meaning_ne": "मुख्य",
+  "vocab": [
+    { "word": "主人", "reading": "しゅじん", "meaning": "husband", "meaning_ne": "पति" },
+    { "word": "主に", "reading": "おもに", "meaning": "mainly", "meaning_ne": "मुख्य रूपमा" },
+    { "word": "主張", "reading": "しゅちょう", "meaning": "claim", "meaning_ne": "दाबी" },
+    { "word": "主義", "reading": "しゅぎ", "meaning": "principle", "meaning_ne": "सिद्धान्त" },
+    { "word": "主役", "reading": "しゅやく", "meaning": "main role", "meaning_ne": "मुख्य भूमिका" },
+    { "word": "主催", "reading": "しゅさい", "meaning": "host", "meaning_ne": "आयोजक" },
+    { "word": "主観", "reading": "しゅかん", "meaning": "subjective", "meaning_ne": "व्यक्तिगत दृष्टिकोण" },
+    { "word": "民主", "reading": "みんしゅ", "meaning": "democracy", "meaning_ne": "लोकतन्त्र" }
+  ]
+},
+{
+  "kanji": "夫",
+  "on": "フ",
+  "kun": "おっと",
+  "meaning": "husband",
+  "meaning_ne": "पति",
+  "vocab": [
+    { "word": "夫", "reading": "おっと", "meaning": "husband", "meaning_ne": "पति" },
+    { "word": "夫婦", "reading": "ふうふ", "meaning": "married couple", "meaning_ne": "दम्पती" },
+    { "word": "農夫", "reading": "のうふ", "meaning": "farmer", "meaning_ne": "किसान" },
+    { "word": "丈夫", "reading": "じょうぶ", "meaning": "strong", "meaning_ne": "बलियो" },
+    { "word": "工夫", "reading": "くふう", "meaning": "device/idea", "meaning_ne": "उपाय" },
+    { "word": "夫人", "reading": "ふじん", "meaning": "wife (formal)", "meaning_ne": "पत्नी" },
+    { "word": "漁夫", "reading": "ぎょふ", "meaning": "fisherman", "meaning_ne": "माछा मार्ने" },
+    { "word": "夫婦関係", "reading": "ふうふかんけい", "meaning": "marital relation", "meaning_ne": "वैवाहिक सम्बन्ध" }
+  ]
+},
+{
+  "kanji": "婦",
+  "on": "フ",
+  "kun": "",
+  "meaning": "wife / lady",
+  "meaning_ne": "महिला",
+  "vocab": [
+    { "word": "夫婦", "reading": "ふうふ", "meaning": "married couple", "meaning_ne": "दम्पती" },
+    { "word": "主婦", "reading": "しゅふ", "meaning": "housewife", "meaning_ne": "गृहिणी" },
+    { "word": "婦人", "reading": "ふじん", "meaning": "lady", "meaning_ne": "महिला" },
+    { "word": "看護婦", "reading": "かんごふ", "meaning": "nurse", "meaning_ne": "नर्स" },
+    { "word": "新婦", "reading": "しんぷ", "meaning": "bride", "meaning_ne": "दुलही" },
+    { "word": "婦人科", "reading": "ふじんか", "meaning": "gynecology", "meaning_ne": "महिला चिकित्सा" },
+    { "word": "既婚婦人", "reading": "きこんふじん", "meaning": "married woman", "meaning_ne": "विवाहित महिला" },
+    { "word": "婦人服", "reading": "ふじんふく", "meaning": "women’s clothing", "meaning_ne": "महिला लुगा" }
+  ]
+},
+{
+  "kanji": "医",
+  "on": "イ",
+  "kun": "",
+  "meaning": "medical",
+  "meaning_ne": "चिकित्सा",
+  "vocab": [
+    { "word": "医者", "reading": "いしゃ", "meaning": "doctor", "meaning_ne": "डाक्टर" },
+    { "word": "医学", "reading": "いがく", "meaning": "medical science", "meaning_ne": "चिकित्सा विज्ञान" },
+    { "word": "医療", "reading": "いりょう", "meaning": "medical care", "meaning_ne": "उपचार" },
+    { "word": "医師", "reading": "いし", "meaning": "physician", "meaning_ne": "चिकित्सक" },
+    { "word": "医院", "reading": "いいん", "meaning": "clinic", "meaning_ne": "क्लिनिक" },
+    { "word": "歯医者", "reading": "はいしゃ", "meaning": "dentist", "meaning_ne": "दन्त चिकित्सक" },
+    { "word": "名医", "reading": "めいい", "meaning": "famous doctor", "meaning_ne": "प्रसिद्ध डाक्टर" },
+    { "word": "医薬品", "reading": "いやくひん", "meaning": "medicine", "meaning_ne": "औषधि" }
+  ]
+},
+{
+  "kanji": "者",
+  "on": "シャ",
+  "kun": "もの",
+  "meaning": "person",
+  "meaning_ne": "व्यक्ति",
+  "vocab": [
+    { "word": "医者", "reading": "いしゃ", "meaning": "doctor", "meaning_ne": "डाक्टर" },
+    { "word": "記者", "reading": "きしゃ", "meaning": "reporter", "meaning_ne": "पत्रकार" },
+    { "word": "学者", "reading": "がくしゃ", "meaning": "scholar", "meaning_ne": "विद्वान" },
+    { "word": "読者", "reading": "どくしゃ", "meaning": "reader", "meaning_ne": "पाठक" },
+    { "word": "利用者", "reading": "りようしゃ", "meaning": "user", "meaning_ne": "प्रयोगकर्ता" },
+    { "word": "初心者", "reading": "しょしんしゃ", "meaning": "beginner", "meaning_ne": "सुरुआती" },
+    { "word": "関係者", "reading": "かんけいしゃ", "meaning": "related person", "meaning_ne": "सम्बन्धित व्यक्ति" },
+    { "word": "被害者", "reading": "ひがいしゃ", "meaning": "victim", "meaning_ne": "पीडित" }
+  ]
+},
+{
+  "kanji": "民",
+  "on": "ミン",
+  "kun": "",
+  "meaning": "people / nation",
+  "meaning_ne": "जनता",
+  "vocab": [
+    { "word": "国民", "reading": "こくみん", "meaning": "citizen", "meaning_ne": "नागरिक" },
+    { "word": "市民", "reading": "しみん", "meaning": "citizen", "meaning_ne": "नागरिक" },
+    { "word": "人民", "reading": "じんみん", "meaning": "people", "meaning_ne": "जनता" },
+    { "word": "農民", "reading": "のうみん", "meaning": "farmer", "meaning_ne": "किसान" },
+    { "word": "住民", "reading": "じゅうみん", "meaning": "resident", "meaning_ne": "बासिन्दा" },
+    { "word": "民族", "reading": "みんぞく", "meaning": "ethnic group", "meaning_ne": "जाति" },
+    { "word": "民主主義", "reading": "みんしゅしゅぎ", "meaning": "democracy", "meaning_ne": "लोकतन्त्र" },
+    { "word": "市民生活", "reading": "しみんせいかつ", "meaning": "civil life", "meaning_ne": "नागरिक जीवन" }
+  ]
+}
+]
+[
+{
+  "kanji": "光",
+  "on": "コウ",
+  "kun": "ひかり",
+  "meaning": "light",
+  "meaning_ne": "प्रकाश",
+  "vocab": [
+    { "word": "光", "reading": "ひかり", "meaning": "light", "meaning_ne": "प्रकाश" },
+    { "word": "光る", "reading": "ひかる", "meaning": "to shine", "meaning_ne": "चम्किनु" },
+    { "word": "観光", "reading": "かんこう", "meaning": "tourism", "meaning_ne": "पर्यटन" },
+    { "word": "光景", "reading": "こうけい", "meaning": "scene", "meaning_ne": "दृश्य" },
+    { "word": "光線", "reading": "こうせん", "meaning": "ray", "meaning_ne": "किरण" },
+    { "word": "日光", "reading": "にっこう", "meaning": "sunlight", "meaning_ne": "घाम" },
+    { "word": "発光", "reading": "はっこう", "meaning": "emission of light", "meaning_ne": "प्रकाश उत्सर्जन" },
+    { "word": "光栄", "reading": "こうえい", "meaning": "honor", "meaning_ne": "सम्मान" }
+  ]
+},
+{
+  "kanji": "風",
+  "on": "フウ・フ",
+  "kun": "かぜ",
+  "meaning": "wind",
+  "meaning_ne": "हावा",
+  "vocab": [
+    { "word": "風", "reading": "かぜ", "meaning": "wind", "meaning_ne": "हावा" },
+    { "word": "台風", "reading": "たいふう", "meaning": "typhoon", "meaning_ne": "आँधी" },
+    { "word": "風景", "reading": "ふうけい", "meaning": "scenery", "meaning_ne": "दृश्य" },
+    { "word": "風邪", "reading": "かぜ", "meaning": "cold (illness)", "meaning_ne": "रुघा" },
+    { "word": "和風", "reading": "わふう", "meaning": "Japanese style", "meaning_ne": "जापानी शैली" },
+    { "word": "洋風", "reading": "ようふう", "meaning": "Western style", "meaning_ne": "पश्चिमी शैली" },
+    { "word": "風力", "reading": "ふうりょく", "meaning": "wind power", "meaning_ne": "हावा शक्ति" },
+    { "word": "強風", "reading": "きょうふう", "meaning": "strong wind", "meaning_ne": "बलियो हावा" }
+  ]
+},
+{
+  "kanji": "雲",
+  "on": "ウン",
+  "kun": "くも",
+  "meaning": "cloud",
+  "meaning_ne": "बादल",
+  "vocab": [
+    { "word": "雲", "reading": "くも", "meaning": "cloud", "meaning_ne": "बादल" },
+    { "word": "雲海", "reading": "うんかい", "meaning": "sea of clouds", "meaning_ne": "बादल समुद्र" },
+    { "word": "積雲", "reading": "せきうん", "meaning": "cumulus cloud", "meaning_ne": "बादल प्रकार" },
+    { "word": "暗雲", "reading": "あんうん", "meaning": "dark clouds", "meaning_ne": "कालो बादल" },
+    { "word": "雲行き", "reading": "くもゆき", "meaning": "weather condition", "meaning_ne": "मौसम अवस्था" },
+    { "word": "高層雲", "reading": "こうそううん", "meaning": "high clouds", "meaning_ne": "उच्च बादल" },
+    { "word": "入道雲", "reading": "にゅうどうぐも", "meaning": "thundercloud", "meaning_ne": "बिजुली बादल" },
+    { "word": "雲量", "reading": "うんりょう", "meaning": "cloud amount", "meaning_ne": "बादल मात्रा" }
+  ]
+},
+{
+  "kanji": "空",
+  "on": "クウ",
+  "kun": "そら・あ",
+  "meaning": "sky / empty",
+  "meaning_ne": "आकाश",
+  "vocab": [
+    { "word": "空", "reading": "そら", "meaning": "sky", "meaning_ne": "आकाश" },
+    { "word": "空気", "reading": "くうき", "meaning": "air", "meaning_ne": "हावा" },
+    { "word": "空港", "reading": "くうこう", "meaning": "airport", "meaning_ne": "विमानस्थल" },
+    { "word": "空間", "reading": "くうかん", "meaning": "space", "meaning_ne": "स्थान" },
+    { "word": "航空", "reading": "こうくう", "meaning": "aviation", "meaning_ne": "हवाई" },
+    { "word": "空席", "reading": "くうせき", "meaning": "vacant seat", "meaning_ne": "खाली सिट" },
+    { "word": "空想", "reading": "くうそう", "meaning": "fantasy", "meaning_ne": "कल्पना" },
+    { "word": "空腹", "reading": "くうふく", "meaning": "hunger", "meaning_ne": "भोक" }
+  ]
+},
+{
+  "kanji": "星",
+  "on": "セイ",
+  "kun": "ほし",
+  "meaning": "star",
+  "meaning_ne": "तारा",
+  "vocab": [
+    { "word": "星", "reading": "ほし", "meaning": "star", "meaning_ne": "तारा" },
+    { "word": "星空", "reading": "ほしぞら", "meaning": "starry sky", "meaning_ne": "ताराले भरिएको आकाश" },
+    { "word": "惑星", "reading": "わくせい", "meaning": "planet", "meaning_ne": "ग्रह" },
+    { "word": "衛星", "reading": "えいせい", "meaning": "satellite", "meaning_ne": "उपग्रह" },
+    { "word": "流星", "reading": "りゅうせい", "meaning": "shooting star", "meaning_ne": "उल्का" },
+    { "word": "星座", "reading": "せいざ", "meaning": "constellation", "meaning_ne": "नक्षत्र" },
+    { "word": "恒星", "reading": "こうせい", "meaning": "fixed star", "meaning_ne": "तारा" },
+    { "word": "星形", "reading": "ほしがた", "meaning": "star shape", "meaning_ne": "तारा आकार" }
+  ]
+},
+{
+  "kanji": "雨",
+  "on": "ウ",
+  "kun": "あめ",
+  "meaning": "rain",
+  "meaning_ne": "पानी (वर्षा)",
+  "vocab": [
+    { "word": "雨", "reading": "あめ", "meaning": "rain", "meaning_ne": "पानी" },
+    { "word": "大雨", "reading": "おおあめ", "meaning": "heavy rain", "meaning_ne": "ठूलो वर्षा" },
+    { "word": "雨天", "reading": "うてん", "meaning": "rainy weather", "meaning_ne": "वर्षा मौसम" },
+    { "word": "雨量", "reading": "うりょう", "meaning": "rainfall", "meaning_ne": "वर्षा मात्रा" },
+    { "word": "梅雨", "reading": "つゆ", "meaning": "rainy season", "meaning_ne": "वर्षा ऋतु" },
+    { "word": "雨水", "reading": "あまみず", "meaning": "rainwater", "meaning_ne": "वर्षाको पानी" },
+    { "word": "小雨", "reading": "こさめ", "meaning": "light rain", "meaning_ne": "सानो वर्षा" },
+    { "word": "雨具", "reading": "あまぐ", "meaning": "rain gear", "meaning_ne": "वर्षा सामग्री" }
+  ]
+},
+{
+  "kanji": "雪",
+  "on": "セツ",
+  "kun": "ゆき",
+  "meaning": "snow",
+  "meaning_ne": "हिउँ",
+  "vocab": [
+    { "word": "雪", "reading": "ゆき", "meaning": "snow", "meaning_ne": "हिउँ" },
+    { "word": "大雪", "reading": "おおゆき", "meaning": "heavy snow", "meaning_ne": "धेरै हिउँ" },
+    { "word": "雪山", "reading": "ゆきやま", "meaning": "snow mountain", "meaning_ne": "हिउँ पहाड" },
+    { "word": "雪国", "reading": "ゆきぐに", "meaning": "snow country", "meaning_ne": "हिउँ देश" },
+    { "word": "降雪", "reading": "こうせつ", "meaning": "snowfall", "meaning_ne": "हिउँ पर्नु" },
+    { "word": "積雪", "reading": "せきせつ", "meaning": "snow accumulation", "meaning_ne": "हिउँ जम्मा" },
+    { "word": "雪道", "reading": "ゆきみち", "meaning": "snowy road", "meaning_ne": "हिउँ बाटो" },
+    { "word": "初雪", "reading": "はつゆき", "meaning": "first snow", "meaning_ne": "पहिलो हिउँ" }
+  ]
+},
+{
+  "kanji": "池",
+  "on": "チ",
+  "kun": "いけ",
+  "meaning": "pond",
+  "meaning_ne": "पोखरी",
+  "vocab": [
+    { "word": "池", "reading": "いけ", "meaning": "pond", "meaning_ne": "पोखरी" },
+    { "word": "電池", "reading": "でんち", "meaning": "battery", "meaning_ne": "ब्याट्री" },
+    { "word": "貯水池", "reading": "ちょすいち", "meaning": "reservoir", "meaning_ne": "जलाशय" },
+    { "word": "養殖池", "reading": "ようしょくいけ", "meaning": "fish pond", "meaning_ne": "माछा पोखरी" },
+    { "word": "池水", "reading": "ちすい", "meaning": "pond water", "meaning_ne": "पोखरी पानी" },
+    { "word": "人工池", "reading": "じんこういけ", "meaning": "artificial pond", "meaning_ne": "कृत्रिम पोखरी" },
+    { "word": "池辺", "reading": "いけべ", "meaning": "pond side", "meaning_ne": "पोखरी किनार" },
+    { "word": "庭池", "reading": "にわいけ", "meaning": "garden pond", "meaning_ne": "बगैंचा पोखरी" }
+  ]
+},
+{
+  "kanji": "海",
+  "on": "カイ",
+  "kun": "うみ",
+  "meaning": "sea",
+  "meaning_ne": "समुद्र",
+  "vocab": [
+    { "word": "海", "reading": "うみ", "meaning": "sea", "meaning_ne": "समुद्र" },
+    { "word": "海外", "reading": "かいがい", "meaning": "overseas", "meaning_ne": "विदेश" },
+    { "word": "海岸", "reading": "かいがん", "meaning": "coast", "meaning_ne": "समुद्र किनार" },
+    { "word": "海洋", "reading": "かいよう", "meaning": "ocean", "meaning_ne": "महासागर" },
+    { "word": "海水", "reading": "かいすい", "meaning": "seawater", "meaning_ne": "नुनिलो पानी" },
+    { "word": "海底", "reading": "かいてい", "meaning": "seabed", "meaning_ne": "समुद्र तल" },
+    { "word": "深海", "reading": "しんかい", "meaning": "deep sea", "meaning_ne": "गहिरो समुद्र" },
+    { "word": "海流", "reading": "かいりゅう", "meaning": "ocean current", "meaning_ne": "समुद्री धारा" }
+  ]
+},
+{
+  "kanji": "湖",
+  "on": "コ",
+  "kun": "みずうみ",
+  "meaning": "lake",
+  "meaning_ne": "ताल",
+  "vocab": [
+    { "word": "湖", "reading": "みずうみ", "meaning": "lake", "meaning_ne": "ताल" },
+    { "word": "湖水", "reading": "こすい", "meaning": "lake water", "meaning_ne": "ताल पानी" },
+    { "word": "湖畔", "reading": "こはん", "meaning": "lakeside", "meaning_ne": "ताल किनार" },
+    { "word": "人工湖", "reading": "じんこうこ", "meaning": "artificial lake", "meaning_ne": "कृत्रिम ताल" },
+    { "word": "淡水湖", "reading": "たんすいこ", "meaning": "freshwater lake", "meaning_ne": "मीठो पानी ताल" },
+    { "word": "湖底", "reading": "こてい", "meaning": "lake bottom", "meaning_ne": "ताल तल" },
+    { "word": "湖岸", "reading": "こがん", "meaning": "lake shore", "meaning_ne": "ताल किनार" },
+    { "word": "湖面", "reading": "こめん", "meaning": "lake surface", "meaning_ne": "ताल सतह" }
+  ]
+},
+{
+  "kanji": "洋",
+  "on": "ヨウ",
+  "kun": "",
+  "meaning": "ocean / western",
+  "meaning_ne": "पश्चिमी",
+  "vocab": [
+    { "word": "洋服", "reading": "ようふく", "meaning": "Western clothes", "meaning_ne": "पश्चिमी लुगा" },
+    { "word": "西洋", "reading": "せいよう", "meaning": "the West", "meaning_ne": "पश्चिम" },
+    { "word": "太平洋", "reading": "たいへいよう", "meaning": "Pacific Ocean", "meaning_ne": "प्रशान्त महासागर" },
+    { "word": "洋食", "reading": "ようしょく", "meaning": "Western food", "meaning_ne": "पश्चिमी खाना" },
+    { "word": "洋風", "reading": "ようふう", "meaning": "Western style", "meaning_ne": "पश्चिमी शैली" },
+    { "word": "洋画", "reading": "ようが", "meaning": "Western painting/movie", "meaning_ne": "पश्चिमी चित्र" },
+    { "word": "洋室", "reading": "ようしつ", "meaning": "Western-style room", "meaning_ne": "पश्चिमी कोठा" },
+    { "word": "東洋", "reading": "とうよう", "meaning": "the East", "meaning_ne": "पूर्व" }
+  ]
+},
+{
+  "kanji": "島",
+  "on": "トウ",
+  "kun": "しま",
+  "meaning": "island",
+  "meaning_ne": "टापु",
+  "vocab": [
+    { "word": "島", "reading": "しま", "meaning": "island", "meaning_ne": "टापु" },
+    { "word": "半島", "reading": "はんとう", "meaning": "peninsula", "meaning_ne": "प्रायद्वीप" },
+    { "word": "無人島", "reading": "むじんとう", "meaning": "uninhabited island", "meaning_ne": "मानिस नभएको टापु" },
+    { "word": "列島", "reading": "れっとう", "meaning": "archipelago", "meaning_ne": "टापु समूह" },
+    { "word": "離島", "reading": "りとう", "meaning": "remote island", "meaning_ne": "टाढाको टापु" },
+    { "word": "南島", "reading": "なんとう", "meaning": "southern island", "meaning_ne": "दक्षिण टापु" },
+    { "word": "島国", "reading": "しまぐに", "meaning": "island country", "meaning_ne": "टापु देश" },
+    { "word": "火山島", "reading": "かざんとう", "meaning": "volcanic island", "meaning_ne": "ज्वालामुखी टापु" }
+  ]
+},
+{
+  "kanji": "野",
+  "on": "ヤ",
+  "kun": "の",
+  "meaning": "field",
+  "meaning_ne": "मैदान",
+  "vocab": [
+    { "word": "野球", "reading": "やきゅう", "meaning": "baseball", "meaning_ne": "बेसबल" },
+    { "word": "野原", "reading": "のはら", "meaning": "field", "meaning_ne": "मैदान" },
+    { "word": "野生", "reading": "やせい", "meaning": "wild", "meaning_ne": "जंगली" },
+    { "word": "分野", "reading": "ぶんや", "meaning": "field (area)", "meaning_ne": "क्षेत्र" },
+    { "word": "野菜", "reading": "やさい", "meaning": "vegetable", "meaning_ne": "तरकारी" },
+    { "word": "野外", "reading": "やがい", "meaning": "outdoors", "meaning_ne": "बाहिर" },
+    { "word": "野鳥", "reading": "やちょう", "meaning": "wild bird", "meaning_ne": "जंगली चरा" },
+    { "word": "野党", "reading": "やとう", "meaning": "opposition party", "meaning_ne": "विपक्ष" }
+  ]
+},
+{
+  "kanji": "原",
+  "on": "ゲン",
+  "kun": "はら",
+  "meaning": "plain / origin",
+  "meaning_ne": "मैदान / मूल",
+  "vocab": [
+    { "word": "原因", "reading": "げんいん", "meaning": "cause", "meaning_ne": "कारण" },
+    { "word": "原料", "reading": "げんりょう", "meaning": "raw material", "meaning_ne": "कच्चा पदार्थ" },
+    { "word": "草原", "reading": "そうげん", "meaning": "grassland", "meaning_ne": "घाँसे मैदान" },
+    { "word": "平原", "reading": "へいげん", "meaning": "plain", "meaning_ne": "समथर भूभाग" },
+    { "word": "原始", "reading": "げんし", "meaning": "primitive", "meaning_ne": "प्राचीन" },
+    { "word": "原子", "reading": "げんし", "meaning": "atom", "meaning_ne": "परमाणु" },
+    { "word": "原作", "reading": "げんさく", "meaning": "original work", "meaning_ne": "मूल कृति" },
+    { "word": "原点", "reading": "げんてん", "meaning": "origin point", "meaning_ne": "सुरु बिन्दु" }
+  ]
+},
+{
+  "kanji": "草",
+  "on": "ソウ",
+  "kun": "くさ",
+  "meaning": "grass",
+  "meaning_ne": "घाँस",
+  "vocab": [
+    { "word": "草", "reading": "くさ", "meaning": "grass", "meaning_ne": "घाँस" },
+    { "word": "草原", "reading": "そうげん", "meaning": "grassland", "meaning_ne": "घाँसे मैदान" },
+    { "word": "草花", "reading": "くさばな", "meaning": "plants and flowers", "meaning_ne": "बिरुवा" },
+    { "word": "雑草", "reading": "ざっそう", "meaning": "weed", "meaning_ne": "झार" },
+    { "word": "薬草", "reading": "やくそう", "meaning": "medicinal plant", "meaning_ne": "औषधीय बिरुवा" },
+    { "word": "草地", "reading": "そうち", "meaning": "grassland", "meaning_ne": "घाँसे भूमि" },
+    { "word": "草食", "reading": "そうしょく", "meaning": "herbivorous", "meaning_ne": "घाँस खाने" },
+    { "word": "草木", "reading": "そうもく", "meaning": "plants", "meaning_ne": "बोटबिरुवा" }
+  ]
+},
+{
+  "kanji": "花",
+  "on": "カ",
+  "kun": "はな",
+  "meaning": "flower",
+  "meaning_ne": "फूल",
+  "vocab": [
+    { "word": "花", "reading": "はな", "meaning": "flower", "meaning_ne": "फूल" },
+    { "word": "花見", "reading": "はなみ", "meaning": "flower viewing", "meaning_ne": "फूल हेर्ने" },
+    { "word": "花火", "reading": "はなび", "meaning": "fireworks", "meaning_ne": "पटाका" },
+    { "word": "花束", "reading": "はなたば", "meaning": "bouquet", "meaning_ne": "फूल गुच्छा" },
+    { "word": "花粉", "reading": "かふん", "meaning": "pollen", "meaning_ne": "पराग" },
+    { "word": "花屋", "reading": "はなや", "meaning": "flower shop", "meaning_ne": "फूल पसल" },
+    { "word": "開花", "reading": "かいか", "meaning": "blooming", "meaning_ne": "फूल फुल्नु" },
+    { "word": "花形", "reading": "はながた", "meaning": "star role", "meaning_ne": "मुख्य भूमिका" }
+  ]
+},
+{
+  "kanji": "林",
+  "on": "リン",
+  "kun": "はやし",
+  "meaning": "woods",
+  "meaning_ne": "जंगल (सानो)",
+  "vocab": [
+    { "word": "林", "reading": "はやし", "meaning": "woods", "meaning_ne": "जंगल" },
+    { "word": "森林", "reading": "しんりん", "meaning": "forest", "meaning_ne": "जंगल" },
+    { "word": "林業", "reading": "りんぎょう", "meaning": "forestry", "meaning_ne": "वन व्यवसाय" },
+    { "word": "竹林", "reading": "ちくりん", "meaning": "bamboo forest", "meaning_ne": "बाँस जंगल" },
+    { "word": "山林", "reading": "さんりん", "meaning": "mountain forest", "meaning_ne": "पहाडी जंगल" },
+    { "word": "密林", "reading": "みつりん", "meaning": "dense forest", "meaning_ne": "घना जंगल" },
+    { "word": "林間", "reading": "りんかん", "meaning": "in woods", "meaning_ne": "जंगल भित्र" },
+    { "word": "林道", "reading": "りんどう", "meaning": "forest road", "meaning_ne": "जंगल बाटो" }
+  ]
+},
+{
+  "kanji": "森",
+  "on": "シン",
+  "kun": "もり",
+  "meaning": "forest",
+  "meaning_ne": "ठूलो जंगल",
+  "vocab": [
+    { "word": "森", "reading": "もり", "meaning": "forest", "meaning_ne": "जंगल" },
+    { "word": "森林", "reading": "しんりん", "meaning": "forest", "meaning_ne": "जंगल" },
+    { "word": "森田", "reading": "もりた", "meaning": "surname", "meaning_ne": "नाम" },
+    { "word": "原始林", "reading": "げんしりん", "meaning": "virgin forest", "meaning_ne": "प्राकृतिक जंगल" },
+    { "word": "森の中", "reading": "もりのなか", "meaning": "inside forest", "meaning_ne": "जंगल भित्र" },
+    { "word": "森川", "reading": "もりかわ", "meaning": "name", "meaning_ne": "नाम" },
+    { "word": "森羅万象", "reading": "しんらばんしょう", "meaning": "all nature", "meaning_ne": "संसार" },
+    { "word": "森林資源", "reading": "しんりんしげん", "meaning": "forest resources", "meaning_ne": "वन स्रोत" }
+  ]
+},
+{
+  "kanji": "石",
+  "on": "セキ・シャク",
+  "kun": "いし",
+  "meaning": "stone",
+  "meaning_ne": "ढुंगा",
+  "vocab": [
+    { "word": "石", "reading": "いし", "meaning": "stone", "meaning_ne": "ढुंगा" },
+    { "word": "石油", "reading": "せきゆ", "meaning": "oil", "meaning_ne": "तेल" },
+    { "word": "宝石", "reading": "ほうせき", "meaning": "jewel", "meaning_ne": "रत्न" },
+    { "word": "石炭", "reading": "せきたん", "meaning": "coal", "meaning_ne": "कोइला" },
+    { "word": "岩石", "reading": "がんせき", "meaning": "rock", "meaning_ne": "ढुंगा" },
+    { "word": "石材", "reading": "せきざい", "meaning": "stone material", "meaning_ne": "ढुंगा सामग्री" },
+    { "word": "化石", "reading": "かせき", "meaning": "fossil", "meaning_ne": "जीवाश्म" },
+    { "word": "石像", "reading": "せきぞう", "meaning": "stone statue", "meaning_ne": "मूर्ति" }
+  ]
+}
+]
+[
+{
+  "kanji": "春",
+  "on": "シュン",
+  "kun": "はる",
+  "meaning": "spring",
+  "meaning_ne": "वसन्त",
+  "vocab": [
+    { "word": "春", "reading": "はる", "meaning": "spring", "meaning_ne": "वसन्त" },
+    { "word": "春休み", "reading": "はるやすみ", "meaning": "spring vacation", "meaning_ne": "वसन्त बिदा" },
+    { "word": "春風", "reading": "しゅんぷう", "meaning": "spring breeze", "meaning_ne": "वसन्त हावा" },
+    { "word": "青春", "reading": "せいしゅん", "meaning": "youth", "meaning_ne": "युवा अवस्था" },
+    { "word": "春先", "reading": "はるさき", "meaning": "early spring", "meaning_ne": "वसन्त सुरु" },
+    { "word": "春分", "reading": "しゅんぶん", "meaning": "spring equinox", "meaning_ne": "वसन्त दिनरात बराबर" },
+    { "word": "初春", "reading": "しょしゅん", "meaning": "early spring", "meaning_ne": "प्रारम्भिक वसन्त" },
+    { "word": "春景色", "reading": "はるげしき", "meaning": "spring scenery", "meaning_ne": "वसन्त दृश्य" }
+  ]
+},
+{
+  "kanji": "夏",
+  "on": "カ・ゲ",
+  "kun": "なつ",
+  "meaning": "summer",
+  "meaning_ne": "गर्मी",
+  "vocab": [
+    { "word": "夏", "reading": "なつ", "meaning": "summer", "meaning_ne": "गर्मी" },
+    { "word": "夏休み", "reading": "なつやすみ", "meaning": "summer vacation", "meaning_ne": "गर्मी बिदा" },
+    { "word": "真夏", "reading": "まなつ", "meaning": "midsummer", "meaning_ne": "तीव्र गर्मी" },
+    { "word": "夏服", "reading": "なつふく", "meaning": "summer clothes", "meaning_ne": "गर्मी लुगा" },
+    { "word": "初夏", "reading": "しょか", "meaning": "early summer", "meaning_ne": "गर्मी सुरु" },
+    { "word": "夏場", "reading": "なつば", "meaning": "summer season", "meaning_ne": "गर्मी समय" },
+    { "word": "夏日", "reading": "かじつ", "meaning": "summer day", "meaning_ne": "गर्मी दिन" },
+    { "word": "冷夏", "reading": "れいか", "meaning": "cool summer", "meaning_ne": "चिसो गर्मी" }
+  ]
+},
+{
+  "kanji": "秋",
+  "on": "シュウ",
+  "kun": "あき",
+  "meaning": "autumn",
+  "meaning_ne": "शरद",
+  "vocab": [
+    { "word": "秋", "reading": "あき", "meaning": "autumn", "meaning_ne": "शरद" },
+    { "word": "秋分", "reading": "しゅうぶん", "meaning": "autumn equinox", "meaning_ne": "शरद दिनरात बराबर" },
+    { "word": "秋風", "reading": "あきかぜ", "meaning": "autumn breeze", "meaning_ne": "शरद हावा" },
+    { "word": "秋空", "reading": "あきぞら", "meaning": "autumn sky", "meaning_ne": "शरद आकाश" },
+    { "word": "初秋", "reading": "しょしゅう", "meaning": "early autumn", "meaning_ne": "शरद सुरु" },
+    { "word": "晩秋", "reading": "ばんしゅう", "meaning": "late autumn", "meaning_ne": "शरद अन्त्य" },
+    { "word": "秋季", "reading": "しゅうき", "meaning": "autumn season", "meaning_ne": "शरद ऋतु" },
+    { "word": "秋雨", "reading": "あきさめ", "meaning": "autumn rain", "meaning_ne": "शरद वर्षा" }
+  ]
+},
+{
+  "kanji": "冬",
+  "on": "トウ",
+  "kun": "ふゆ",
+  "meaning": "winter",
+  "meaning_ne": "जाडो",
+  "vocab": [
+    { "word": "冬", "reading": "ふゆ", "meaning": "winter", "meaning_ne": "जाडो" },
+    { "word": "冬休み", "reading": "ふゆやすみ", "meaning": "winter vacation", "meaning_ne": "जाडो बिदा" },
+    { "word": "真冬", "reading": "まふゆ", "meaning": "midwinter", "meaning_ne": "कडा जाडो" },
+    { "word": "冬服", "reading": "ふゆふく", "meaning": "winter clothes", "meaning_ne": "जाडो लुगा" },
+    { "word": "初冬", "reading": "しょとう", "meaning": "early winter", "meaning_ne": "जाडो सुरु" },
+    { "word": "冬季", "reading": "とうき", "meaning": "winter season", "meaning_ne": "जाडो ऋतु" },
+    { "word": "越冬", "reading": "えっとう", "meaning": "pass winter", "meaning_ne": "जाडो पार गर्नु" },
+    { "word": "冬眠", "reading": "とうみん", "meaning": "hibernation", "meaning_ne": "शीत निद्रा" }
+  ]
+},
+{
+  "kanji": "昼",
+  "on": "チュウ",
+  "kun": "ひる",
+  "meaning": "daytime",
+  "meaning_ne": "दिन",
+  "vocab": [
+    { "word": "昼", "reading": "ひる", "meaning": "daytime", "meaning_ne": "दिन" },
+    { "word": "昼食", "reading": "ちゅうしょく", "meaning": "lunch", "meaning_ne": "दिउँसोको खाना" },
+    { "word": "真昼", "reading": "まひる", "meaning": "midday", "meaning_ne": "दिउँसो बीच" },
+    { "word": "昼間", "reading": "ひるま", "meaning": "during day", "meaning_ne": "दिनमा" },
+    { "word": "昼休み", "reading": "ひるやすみ", "meaning": "lunch break", "meaning_ne": "दिउँसो बिदा" },
+    { "word": "白昼", "reading": "はくちゅう", "meaning": "broad daylight", "meaning_ne": "दिनको उज्यालो" },
+    { "word": "昼夜", "reading": "ちゅうや", "meaning": "day and night", "meaning_ne": "दिनरात" },
+    { "word": "昼寝", "reading": "ひるね", "meaning": "nap", "meaning_ne": "दिउँसो सुताइ" }
+  ]
+},
+{
+  "kanji": "夜",
+  "on": "ヤ",
+  "kun": "よる",
+  "meaning": "night",
+  "meaning_ne": "रात",
+  "vocab": [
+    { "word": "夜", "reading": "よる", "meaning": "night", "meaning_ne": "रात" },
+    { "word": "今夜", "reading": "こんや", "meaning": "tonight", "meaning_ne": "आज रात" },
+    { "word": "深夜", "reading": "しんや", "meaning": "late night", "meaning_ne": "रात ढिलो" },
+    { "word": "夜間", "reading": "やかん", "meaning": "nighttime", "meaning_ne": "रात समय" },
+    { "word": "夜中", "reading": "よなか", "meaning": "midnight", "meaning_ne": "आधी रात" },
+    { "word": "徹夜", "reading": "てつや", "meaning": "all night", "meaning_ne": "रातभर" },
+    { "word": "夜景", "reading": "やけい", "meaning": "night view", "meaning_ne": "रात दृश्य" },
+    { "word": "夜行", "reading": "やこう", "meaning": "night travel", "meaning_ne": "रात यात्रा" }
+  ]
+},
+{
+  "kanji": "夕",
+  "on": "セキ",
+  "kun": "ゆう",
+  "meaning": "evening",
+  "meaning_ne": "साँझ",
+  "vocab": [
+    { "word": "夕方", "reading": "ゆうがた", "meaning": "evening", "meaning_ne": "साँझ" },
+    { "word": "夕日", "reading": "ゆうひ", "meaning": "sunset", "meaning_ne": "सूर्यास्त" },
+    { "word": "夕食", "reading": "ゆうしょく", "meaning": "dinner", "meaning_ne": "बेलुकाको खाना" },
+    { "word": "夕焼け", "reading": "ゆうやけ", "meaning": "sunset glow", "meaning_ne": "साँझको रङ" },
+    { "word": "夕刊", "reading": "ゆうかん", "meaning": "evening paper", "meaning_ne": "साँझ पत्रिका" },
+    { "word": "夕立", "reading": "ゆうだち", "meaning": "evening rain", "meaning_ne": "साँझ वर्षा" },
+    { "word": "夕暮れ", "reading": "ゆうぐれ", "meaning": "dusk", "meaning_ne": "साँझ समय" },
+    { "word": "朝夕", "reading": "あさゆう", "meaning": "morning and evening", "meaning_ne": "बिहान साँझ" }
+  ]
+},
+{
+  "kanji": "方",
+  "on": "ホウ",
+  "kun": "かた",
+  "meaning": "direction / way",
+  "meaning_ne": "दिशा",
+  "vocab": [
+    { "word": "方法", "reading": "ほうほう", "meaning": "method", "meaning_ne": "तरिका" },
+    { "word": "地方", "reading": "ちほう", "meaning": "region", "meaning_ne": "क्षेत्र" },
+    { "word": "方向", "reading": "ほうこう", "meaning": "direction", "meaning_ne": "दिशा" },
+    { "word": "見方", "reading": "みかた", "meaning": "viewpoint", "meaning_ne": "दृष्टिकोण" },
+    { "word": "考え方", "reading": "かんがえかた", "meaning": "way of thinking", "meaning_ne": "सोच्ने तरिका" },
+    { "word": "使い方", "reading": "つかいかた", "meaning": "how to use", "meaning_ne": "प्रयोग गर्ने तरिका" },
+    { "word": "生き方", "reading": "いきかた", "meaning": "way of life", "meaning_ne": "जीवन शैली" },
+    { "word": "行き方", "reading": "いきかた", "meaning": "way to go", "meaning_ne": "जाने तरिका" }
+  ]
+},
+{
+  "kanji": "朝",
+  "on": "チョウ",
+  "kun": "あさ",
+  "meaning": "morning",
+  "meaning_ne": "बिहान",
+  "vocab": [
+    { "word": "朝", "reading": "あさ", "meaning": "morning", "meaning_ne": "बिहान" },
+    { "word": "朝食", "reading": "ちょうしょく", "meaning": "breakfast", "meaning_ne": "बिहानको खाना" },
+    { "word": "今朝", "reading": "けさ", "meaning": "this morning", "meaning_ne": "आज बिहान" },
+    { "word": "毎朝", "reading": "まいあさ", "meaning": "every morning", "meaning_ne": "हरेक बिहान" },
+    { "word": "早朝", "reading": "そうちょう", "meaning": "early morning", "meaning_ne": "बिहान चाँडो" },
+    { "word": "朝日", "reading": "あさひ", "meaning": "morning sun", "meaning_ne": "बिहान घाम" },
+    { "word": "朝刊", "reading": "ちょうかん", "meaning": "morning paper", "meaning_ne": "बिहान पत्रिका" },
+    { "word": "朝礼", "reading": "ちょうれい", "meaning": "morning assembly", "meaning_ne": "बिहान सभा" }
+  ]
+},
+{
+  "kanji": "昨",
+  "on": "サク",
+  "kun": "",
+  "meaning": "previous",
+  "meaning_ne": "अघिल्लो",
+  "vocab": [
+    { "word": "昨日", "reading": "きのう", "meaning": "yesterday", "meaning_ne": "हिजो" },
+    { "word": "昨年", "reading": "さくねん", "meaning": "last year", "meaning_ne": "गत वर्ष" },
+    { "word": "昨夜", "reading": "さくや", "meaning": "last night", "meaning_ne": "हिजो रात" },
+    { "word": "昨今", "reading": "さっこん", "meaning": "recently", "meaning_ne": "हालै" },
+    { "word": "昨月", "reading": "さくげつ", "meaning": "last month", "meaning_ne": "गत महिना" },
+    { "word": "一昨日", "reading": "おととい", "meaning": "day before yesterday", "meaning_ne": "अस्ति" },
+    { "word": "昨朝", "reading": "さくちょう", "meaning": "yesterday morning", "meaning_ne": "हिजो बिहान" },
+    { "word": "昨秋", "reading": "さくしゅう", "meaning": "last autumn", "meaning_ne": "गत शरद" }
+  ]
+},
+{
+  "kanji": "去",
+  "on": "キョ・コ",
+  "kun": "さ",
+  "meaning": "past / leave",
+  "meaning_ne": "जानु",
+  "vocab": [
+    { "word": "去年", "reading": "きょねん", "meaning": "last year", "meaning_ne": "गत वर्ष" },
+    { "word": "過去", "reading": "かこ", "meaning": "past", "meaning_ne": "अतीत" },
+    { "word": "去る", "reading": "さる", "meaning": "to leave", "meaning_ne": "छोड्नु" },
+    { "word": "去来", "reading": "きょらい", "meaning": "coming and going", "meaning_ne": "आवागमन" },
+    { "word": "除去", "reading": "じょきょ", "meaning": "removal", "meaning_ne": "हटाउनु" },
+    { "word": "去勢", "reading": "きょせい", "meaning": "castration", "meaning_ne": "नियन्त्रण" },
+    { "word": "過ぎ去る", "reading": "すぎさる", "meaning": "to pass", "meaning_ne": "बित्नु" },
+    { "word": "立ち去る", "reading": "たちさる", "meaning": "to leave", "meaning_ne": "छोडेर जानु" }
+  ]
+},
+{
+  "kanji": "来",
+  "on": "ライ",
+  "kun": "く",
+  "meaning": "come",
+  "meaning_ne": "आउनु",
+  "vocab": [
+    { "word": "来年", "reading": "らいねん", "meaning": "next year", "meaning_ne": "अर्को वर्ष" },
+    { "word": "来月", "reading": "らいげつ", "meaning": "next month", "meaning_ne": "अर्को महिना" },
+    { "word": "来週", "reading": "らいしゅう", "meaning": "next week", "meaning_ne": "अर्को हप्ता" },
+    { "word": "未来", "reading": "みらい", "meaning": "future", "meaning_ne": "भविष्य" },
+    { "word": "来日", "reading": "らいにち", "meaning": "visit Japan", "meaning_ne": "जापान आउनु" },
+    { "word": "来場", "reading": "らいじょう", "meaning": "attendance", "meaning_ne": "उपस्थिति" },
+    { "word": "来客", "reading": "らいきゃく", "meaning": "visitor", "meaning_ne": "अतिथि" },
+    { "word": "出来事", "reading": "できごと", "meaning": "event", "meaning_ne": "घटना" }
+  ]
+},
+{
+  "kanji": "週",
+  "on": "シュウ",
+  "kun": "",
+  "meaning": "week",
+  "meaning_ne": "हप्ता",
+  "vocab": [
+    { "word": "今週", "reading": "こんしゅう", "meaning": "this week", "meaning_ne": "यो हप्ता" },
+    { "word": "来週", "reading": "らいしゅう", "meaning": "next week", "meaning_ne": "अर्को हप्ता" },
+    { "word": "先週", "reading": "せんしゅう", "meaning": "last week", "meaning_ne": "गत हप्ता" },
+    { "word": "毎週", "reading": "まいしゅう", "meaning": "every week", "meaning_ne": "हरेक हप्ता" },
+    { "word": "週末", "reading": "しゅうまつ", "meaning": "weekend", "meaning_ne": "हप्ताको अन्त्य" },
+    { "word": "週刊", "reading": "しゅうかん", "meaning": "weekly publication", "meaning_ne": "साप्ताहिक" },
+    { "word": "週休", "reading": "しゅうきゅう", "meaning": "weekly holiday", "meaning_ne": "हप्ताको बिदा" },
+    { "word": "一週間", "reading": "いっしゅうかん", "meaning": "one week", "meaning_ne": "एक हप्ता" }
+  ]
+},
+{
+  "kanji": "末",
+  "on": "マツ・バツ",
+  "kun": "すえ",
+  "meaning": "end",
+  "meaning_ne": "अन्त्य",
+  "vocab": [
+    { "word": "週末", "reading": "しゅうまつ", "meaning": "weekend", "meaning_ne": "हप्ताको अन्त्य" },
+    { "word": "月末", "reading": "げつまつ", "meaning": "end of month", "meaning_ne": "महिनाको अन्त्य" },
+    { "word": "年末", "reading": "ねんまつ", "meaning": "year end", "meaning_ne": "वर्ष अन्त्य" },
+    { "word": "期末", "reading": "きまつ", "meaning": "end of term", "meaning_ne": "अन्तिम समय" },
+    { "word": "末期", "reading": "まっき", "meaning": "final stage", "meaning_ne": "अन्तिम चरण" },
+    { "word": "末尾", "reading": "まつび", "meaning": "end part", "meaning_ne": "अन्तिम भाग" },
+    { "word": "結末", "reading": "けつまつ", "meaning": "conclusion", "meaning_ne": "अन्त्य" },
+    { "word": "末日", "reading": "まつじつ", "meaning": "last day", "meaning_ne": "अन्तिम दिन" }
+  ]
+},
+{
+  "kanji": "期",
+  "on": "キ",
+  "kun": "",
+  "meaning": "period",
+  "meaning_ne": "अवधि",
+  "vocab": [
+    { "word": "期間", "reading": "きかん", "meaning": "period", "meaning_ne": "अवधि" },
+    { "word": "学期", "reading": "がっき", "meaning": "school term", "meaning_ne": "शैक्षिक सत्र" },
+    { "word": "時期", "reading": "じき", "meaning": "time/season", "meaning_ne": "समय" },
+    { "word": "長期", "reading": "ちょうき", "meaning": "long term", "meaning_ne": "दीर्घकालीन" },
+    { "word": "短期", "reading": "たんき", "meaning": "short term", "meaning_ne": "छोटो समय" },
+    { "word": "最終期", "reading": "さいしゅうき", "meaning": "final stage", "meaning_ne": "अन्तिम चरण" },
+    { "word": "初期", "reading": "しょき", "meaning": "initial stage", "meaning_ne": "प्रारम्भिक चरण" },
+    { "word": "予定期間", "reading": "よていきかん", "meaning": "planned period", "meaning_ne": "योजना अवधि" }
+  ]
+}
+]
+[
+{
+  "kanji": "国",
+  "on": "コク",
+  "kun": "くに",
+  "meaning": "country",
+  "meaning_ne": "देश",
+  "vocab": [
+    { "word": "国", "reading": "くに", "meaning": "country", "meaning_ne": "देश" },
+    { "word": "外国", "reading": "がいこく", "meaning": "foreign country", "meaning_ne": "विदेश" },
+    { "word": "国際", "reading": "こくさい", "meaning": "international", "meaning_ne": "अन्तर्राष्ट्रिय" },
+    { "word": "国民", "reading": "こくみん", "meaning": "citizen", "meaning_ne": "नागरिक" },
+    { "word": "帰国", "reading": "きこく", "meaning": "return to country", "meaning_ne": "देश फर्कनु" },
+    { "word": "国語", "reading": "こくご", "meaning": "national language", "meaning_ne": "राष्ट्रिय भाषा" },
+    { "word": "国内", "reading": "こくない", "meaning": "domestic", "meaning_ne": "देशभित्र" },
+    { "word": "国境", "reading": "こっきょう", "meaning": "border", "meaning_ne": "सीमा" }
+  ]
+},
+{
+  "kanji": "市",
+  "on": "シ",
+  "kun": "いち",
+  "meaning": "city",
+  "meaning_ne": "सहर",
+  "vocab": [
+    { "word": "市", "reading": "し", "meaning": "city", "meaning_ne": "सहर" },
+    { "word": "市民", "reading": "しみん", "meaning": "citizen", "meaning_ne": "नागरिक" },
+    { "word": "市長", "reading": "しちょう", "meaning": "mayor", "meaning_ne": "मेयर" },
+    { "word": "都市", "reading": "とし", "meaning": "city", "meaning_ne": "सहर" },
+    { "word": "市場", "reading": "しじょう", "meaning": "market", "meaning_ne": "बजार" },
+    { "word": "市内", "reading": "しない", "meaning": "within city", "meaning_ne": "सहरभित्र" },
+    { "word": "市外", "reading": "しがい", "meaning": "outside city", "meaning_ne": "सहर बाहिर" },
+    { "word": "市役所", "reading": "しやくしょ", "meaning": "city hall", "meaning_ne": "नगरपालिका" }
+  ]
+},
+{
+  "kanji": "町",
+  "on": "チョウ",
+  "kun": "まち",
+  "meaning": "town",
+  "meaning_ne": "सहर / टोल",
+  "vocab": [
+    { "word": "町", "reading": "まち", "meaning": "town", "meaning_ne": "टोल" },
+    { "word": "町内", "reading": "ちょうない", "meaning": "within town", "meaning_ne": "टोल भित्र" },
+    { "word": "町長", "reading": "ちょうちょう", "meaning": "town mayor", "meaning_ne": "टोल प्रमुख" },
+    { "word": "下町", "reading": "したまち", "meaning": "downtown", "meaning_ne": "पुरानो सहर" },
+    { "word": "町外れ", "reading": "まちはずれ", "meaning": "outskirts", "meaning_ne": "किनार" },
+    { "word": "商店街", "reading": "しょうてんがい", "meaning": "shopping street", "meaning_ne": "बजार क्षेत्र" },
+    { "word": "町並み", "reading": "まちなみ", "meaning": "townscape", "meaning_ne": "सहर दृश्य" },
+    { "word": "町人", "reading": "ちょうにん", "meaning": "townspeople", "meaning_ne": "सहरका मानिस" }
+  ]
+},
+{
+  "kanji": "村",
+  "on": "ソン",
+  "kun": "むら",
+  "meaning": "village",
+  "meaning_ne": "गाउँ",
+  "vocab": [
+    { "word": "村", "reading": "むら", "meaning": "village", "meaning_ne": "गाउँ" },
+    { "word": "農村", "reading": "のうそん", "meaning": "rural village", "meaning_ne": "गाउँ क्षेत्र" },
+    { "word": "山村", "reading": "さんそん", "meaning": "mountain village", "meaning_ne": "पहाडी गाउँ" },
+    { "word": "村民", "reading": "そんみん", "meaning": "villagers", "meaning_ne": "गाउँले" },
+    { "word": "村長", "reading": "そんちょう", "meaning": "village head", "meaning_ne": "गाउँ प्रमुख" },
+    { "word": "村落", "reading": "そんらく", "meaning": "settlement", "meaning_ne": "बसोबास" },
+    { "word": "漁村", "reading": "ぎょそん", "meaning": "fishing village", "meaning_ne": "माछा गाउँ" },
+    { "word": "寒村", "reading": "かんそん", "meaning": "poor village", "meaning_ne": "गरिब गाउँ" }
+  ]
+},
+{
+  "kanji": "区",
+  "on": "ク",
+  "kun": "",
+  "meaning": "ward / district",
+  "meaning_ne": "क्षेत्र",
+  "vocab": [
+    { "word": "区", "reading": "く", "meaning": "ward", "meaning_ne": "क्षेत्र" },
+    { "word": "地区", "reading": "ちく", "meaning": "area", "meaning_ne": "क्षेत्र" },
+    { "word": "区分", "reading": "くぶん", "meaning": "classification", "meaning_ne": "वर्गीकरण" },
+    { "word": "区域", "reading": "くいき", "meaning": "zone", "meaning_ne": "क्षेत्र" },
+    { "word": "行政区", "reading": "ぎょうせいく", "meaning": "administrative district", "meaning_ne": "प्रशासनिक क्षेत्र" },
+    { "word": "特区", "reading": "とっく", "meaning": "special zone", "meaning_ne": "विशेष क्षेत्र" },
+    { "word": "区画", "reading": "くかく", "meaning": "division", "meaning_ne": "भाग" },
+    { "word": "区役所", "reading": "くやくしょ", "meaning": "ward office", "meaning_ne": "कार्यालय" }
+  ]
+},
+{
+  "kanji": "都",
+  "on": "ト・ツ",
+  "kun": "みやこ",
+  "meaning": "metropolis",
+  "meaning_ne": "राजधानी",
+  "vocab": [
+    { "word": "東京都", "reading": "とうきょうと", "meaning": "Tokyo Metropolis", "meaning_ne": "टोकियो" },
+    { "word": "都心", "reading": "としん", "meaning": "city center", "meaning_ne": "केन्द्र" },
+    { "word": "都合", "reading": "つごう", "meaning": "circumstances", "meaning_ne": "स्थिति" },
+    { "word": "首都", "reading": "しゅと", "meaning": "capital", "meaning_ne": "राजधानी" },
+    { "word": "都内", "reading": "とない", "meaning": "within Tokyo", "meaning_ne": "टोकियो भित्र" },
+    { "word": "都民", "reading": "とみん", "meaning": "Tokyo residents", "meaning_ne": "टोकियो बासिन्दा" },
+    { "word": "都会", "reading": "とかい", "meaning": "city", "meaning_ne": "सहर" },
+    { "word": "都立", "reading": "とりつ", "meaning": "metropolitan", "meaning_ne": "सरकारी" }
+  ]
+},
+{
+  "kanji": "府",
+  "on": "フ",
+  "kun": "",
+  "meaning": "urban prefecture",
+  "meaning_ne": "प्रदेश",
+  "vocab": [
+    { "word": "大阪府", "reading": "おおさかふ", "meaning": "Osaka Prefecture", "meaning_ne": "ओसाका" },
+    { "word": "府立", "reading": "ふりつ", "meaning": "prefectural", "meaning_ne": "प्रदेश स्तर" },
+    { "word": "府民", "reading": "ふみん", "meaning": "prefecture residents", "meaning_ne": "प्रदेश बासिन्दा" },
+    { "word": "政府", "reading": "せいふ", "meaning": "government", "meaning_ne": "सरकार" },
+    { "word": "府庁", "reading": "ふちょう", "meaning": "prefectural office", "meaning_ne": "कार्यालय" },
+    { "word": "府議会", "reading": "ふぎかい", "meaning": "prefectural assembly", "meaning_ne": "सभा" },
+    { "word": "都道府県", "reading": "とどうふけん", "meaning": "prefectures", "meaning_ne": "प्रदेशहरू" },
+    { "word": "府警", "reading": "ふけい", "meaning": "prefectural police", "meaning_ne": "प्रहरी" }
+  ]
+},
+{
+  "kanji": "県",
+  "on": "ケン",
+  "kun": "",
+  "meaning": "prefecture",
+  "meaning_ne": "प्रदेश",
+  "vocab": [
+    { "word": "県", "reading": "けん", "meaning": "prefecture", "meaning_ne": "प्रदेश" },
+    { "word": "県民", "reading": "けんみん", "meaning": "prefecture residents", "meaning_ne": "प्रदेश बासिन्दा" },
+    { "word": "県立", "reading": "けんりつ", "meaning": "prefectural", "meaning_ne": "प्रदेश स्तर" },
+    { "word": "県庁", "reading": "けんちょう", "meaning": "prefectural office", "meaning_ne": "कार्यालय" },
+    { "word": "県内", "reading": "けんない", "meaning": "within prefecture", "meaning_ne": "प्रदेश भित्र" },
+    { "word": "県外", "reading": "けんがい", "meaning": "outside prefecture", "meaning_ne": "प्रदेश बाहिर" },
+    { "word": "愛知県", "reading": "あいちけん", "meaning": "Aichi Prefecture", "meaning_ne": "आइची" },
+    { "word": "県道", "reading": "けんどう", "meaning": "prefectural road", "meaning_ne": "प्रदेश सडक" }
+  ]
+},
+{
+  "kanji": "場",
+  "on": "ジョウ",
+  "kun": "ば",
+  "meaning": "place",
+  "meaning_ne": "स्थान",
+  "vocab": [
+    { "word": "場所", "reading": "ばしょ", "meaning": "place", "meaning_ne": "स्थान" },
+    { "word": "会場", "reading": "かいじょう", "meaning": "venue", "meaning_ne": "स्थान" },
+    { "word": "工場", "reading": "こうじょう", "meaning": "factory", "meaning_ne": "कारखाना" },
+    { "word": "現場", "reading": "げんば", "meaning": "site", "meaning_ne": "स्थान" },
+    { "word": "立場", "reading": "たちば", "meaning": "position", "meaning_ne": "स्थिति" },
+    { "word": "市場", "reading": "しじょう", "meaning": "market", "meaning_ne": "बजार" },
+    { "word": "登場", "reading": "とうじょう", "meaning": "appearance", "meaning_ne": "प्रवेश" },
+    { "word": "駐車場", "reading": "ちゅうしゃじょう", "meaning": "parking lot", "meaning_ne": "पार्किङ" }
+  ]
+},
+{
+  "kanji": "所",
+  "on": "ショ",
+  "kun": "ところ",
+  "meaning": "place",
+  "meaning_ne": "ठाउँ",
+  "vocab": [
+    { "word": "場所", "reading": "ばしょ", "meaning": "place", "meaning_ne": "ठाउँ" },
+    { "word": "住所", "reading": "じゅうしょ", "meaning": "address", "meaning_ne": "ठेगाना" },
+    { "word": "台所", "reading": "だいどころ", "meaning": "kitchen", "meaning_ne": "भान्सा" },
+    { "word": "役所", "reading": "やくしょ", "meaning": "government office", "meaning_ne": "कार्यालय" },
+    { "word": "研究所", "reading": "けんきゅうじょ", "meaning": "laboratory", "meaning_ne": "अनुसन्धान केन्द्र" },
+    { "word": "事務所", "reading": "じむしょ", "meaning": "office", "meaning_ne": "कार्यालय" },
+    { "word": "名所", "reading": "めいしょ", "meaning": "famous place", "meaning_ne": "प्रसिद्ध ठाउँ" },
+    { "word": "診療所", "reading": "しんりょうじょ", "meaning": "clinic", "meaning_ne": "उपचार केन्द्र" }
+  ]
+},
+{
+  "kanji": "屋",
+  "on": "オク",
+  "kun": "や",
+  "meaning": "shop / roof",
+  "meaning_ne": "पसल",
+  "vocab": [
+    { "word": "本屋", "reading": "ほんや", "meaning": "bookstore", "meaning_ne": "पुस्तक पसल" },
+    { "word": "花屋", "reading": "はなや", "meaning": "flower shop", "meaning_ne": "फूल पसल" },
+    { "word": "魚屋", "reading": "さかなや", "meaning": "fish shop", "meaning_ne": "माछा पसल" },
+    { "word": "八百屋", "reading": "やおや", "meaning": "vegetable shop", "meaning_ne": "तरकारी पसल" },
+    { "word": "屋上", "reading": "おくじょう", "meaning": "rooftop", "meaning_ne": "छत" },
+    { "word": "居酒屋", "reading": "いざかや", "meaning": "Japanese pub", "meaning_ne": "बार" },
+    { "word": "屋内", "reading": "おくない", "meaning": "indoors", "meaning_ne": "भित्र" },
+    { "word": "屋外", "reading": "おくがい", "meaning": "outdoors", "meaning_ne": "बाहिर" }
+  ]
+},
+{
+  "kanji": "店",
+  "on": "テン",
+  "kun": "みせ",
+  "meaning": "shop",
+  "meaning_ne": "पसल",
+  "vocab": [
+    { "word": "店", "reading": "みせ", "meaning": "shop", "meaning_ne": "पसल" },
+    { "word": "開店", "reading": "かいてん", "meaning": "opening shop", "meaning_ne": "पसल खोल्नु" },
+    { "word": "閉店", "reading": "へいてん", "meaning": "closing shop", "meaning_ne": "पसल बन्द" },
+    { "word": "書店", "reading": "しょてん", "meaning": "bookstore", "meaning_ne": "पुस्तक पसल" },
+    { "word": "飲食店", "reading": "いんしょくてん", "meaning": "restaurant", "meaning_ne": "खाना पसल" },
+    { "word": "専門店", "reading": "せんもんてん", "meaning": "specialty store", "meaning_ne": "विशेष पसल" },
+    { "word": "支店", "reading": "してん", "meaning": "branch office", "meaning_ne": "शाखा" },
+    { "word": "本店", "reading": "ほんてん", "meaning": "main store", "meaning_ne": "मुख्य पसल" }
+  ]
+},
+{
+  "kanji": "駅",
+  "on": "エキ",
+  "kun": "",
+  "meaning": "station",
+  "meaning_ne": "स्टेशन",
+  "vocab": [
+    { "word": "駅", "reading": "えき", "meaning": "station", "meaning_ne": "स्टेशन" },
+    { "word": "駅前", "reading": "えきまえ", "meaning": "in front of station", "meaning_ne": "स्टेशन अगाडि" },
+    { "word": "駅員", "reading": "えきいん", "meaning": "station staff", "meaning_ne": "कर्मचारी" },
+    { "word": "終点駅", "reading": "しゅうてんえき", "meaning": "last station", "meaning_ne": "अन्तिम स्टेशन" },
+    { "word": "始発駅", "reading": "しはつえき", "meaning": "first station", "meaning_ne": "पहिलो स्टेशन" },
+    { "word": "地下鉄駅", "reading": "ちかてつえき", "meaning": "subway station", "meaning_ne": "मेट्रो स्टेशन" },
+    { "word": "駅構内", "reading": "えきこうない", "meaning": "inside station", "meaning_ne": "स्टेशन भित्र" },
+    { "word": "無人駅", "reading": "むじんえき", "meaning": "unmanned station", "meaning_ne": "कर्मचारी नभएको स्टेशन" }
+  ]
+},
+{
+  "kanji": "道",
+  "on": "ドウ",
+  "kun": "みち",
+  "meaning": "road",
+  "meaning_ne": "बाटो",
+  "vocab": [
+    { "word": "道", "reading": "みち", "meaning": "road", "meaning_ne": "बाटो" },
+    { "word": "道路", "reading": "どうろ", "meaning": "road", "meaning_ne": "सडक" },
+    { "word": "鉄道", "reading": "てつどう", "meaning": "railway", "meaning_ne": "रेलमार्ग" },
+    { "word": "歩道", "reading": "ほどう", "meaning": "sidewalk", "meaning_ne": "पैदल बाटो" },
+    { "word": "道具", "reading": "どうぐ", "meaning": "tool", "meaning_ne": "औजार" },
+    { "word": "水道", "reading": "すいどう", "meaning": "water supply", "meaning_ne": "धारा" },
+    { "word": "近道", "reading": "ちかみち", "meaning": "shortcut", "meaning_ne": "छोटो बाटो" },
+    { "word": "遠回り道", "reading": "とおまわりみち", "meaning": "detour", "meaning_ne": "लामो बाटो" }
+  ]
+},
+{
+  "kanji": "旅",
+  "on": "リョ",
+  "kun": "たび",
+  "meaning": "travel",
+  "meaning_ne": "यात्रा",
+  "vocab": [
+    { "word": "旅行", "reading": "りょこう", "meaning": "travel", "meaning_ne": "यात्रा" },
+    { "word": "旅館", "reading": "りょかん", "meaning": "Japanese inn", "meaning_ne": "होटल" },
+    { "word": "旅客", "reading": "りょかく", "meaning": "passenger", "meaning_ne": "यात्री" },
+    { "word": "旅費", "reading": "りょひ", "meaning": "travel expenses", "meaning_ne": "यात्रा खर्च" },
+    { "word": "海外旅行", "reading": "かいがいりょこう", "meaning": "overseas travel", "meaning_ne": "विदेश यात्रा" },
+    { "word": "出張旅行", "reading": "しゅっちょうりょこう", "meaning": "business trip", "meaning_ne": "व्यापार यात्रा" },
+    { "word": "旅先", "reading": "たびさき", "meaning": "destination", "meaning_ne": "यात्रा स्थान" },
+    { "word": "一人旅", "reading": "ひとりたび", "meaning": "solo travel", "meaning_ne": "एक्लै यात्रा" }
+  ]
+},
+{
+  "kanji": "室",
+  "on": "シツ",
+  "kun": "むろ",
+  "meaning": "room",
+  "meaning_ne": "कोठा",
+  "vocab": [
+    { "word": "教室", "reading": "きょうしつ", "meaning": "classroom", "meaning_ne": "कक्षा" },
+    { "word": "研究室", "reading": "けんきゅうしつ", "meaning": "laboratory", "meaning_ne": "अनुसन्धान कक्ष" },
+    { "word": "会議室", "reading": "かいぎしつ", "meaning": "meeting room", "meaning_ne": "बैठक कोठा" },
+    { "word": "寝室", "reading": "しんしつ", "meaning": "bedroom", "meaning_ne": "सुत्ने कोठा" },
+    { "word": "温室", "reading": "おんしつ", "meaning": "greenhouse", "meaning_ne": "ग्रीनहाउस" },
+    { "word": "室内", "reading": "しつない", "meaning": "indoors", "meaning_ne": "भित्र" },
+    { "word": "室外", "reading": "しつがい", "meaning": "outdoors", "meaning_ne": "बाहिर" },
+    { "word": "資料室", "reading": "しりょうしつ", "meaning": "archive room", "meaning_ne": "दस्तावेज कक्ष" }
+  ]
+},
+{
+  "kanji": "家",
+  "on": "カ・ケ",
+  "kun": "いえ",
+  "meaning": "house",
+  "meaning_ne": "घर",
+  "vocab": [
+    { "word": "家", "reading": "いえ", "meaning": "house", "meaning_ne": "घर" },
+    { "word": "家庭", "reading": "かてい", "meaning": "household", "meaning_ne": "परिवार" },
+    { "word": "作家", "reading": "さっか", "meaning": "writer", "meaning_ne": "लेखक" },
+    { "word": "専門家", "reading": "せんもんか", "meaning": "expert", "meaning_ne": "विशेषज्ञ" },
+    { "word": "家族", "reading": "かぞく", "meaning": "family", "meaning_ne": "परिवार" },
+    { "word": "国家", "reading": "こっか", "meaning": "nation", "meaning_ne": "राष्ट्र" },
+    { "word": "実家", "reading": "じっか", "meaning": "parents' home", "meaning_ne": "मूल घर" },
+    { "word": "家計", "reading": "かけい", "meaning": "household finances", "meaning_ne": "घर खर्च" }
+  ]
+},
+{
+  "kanji": "院",
+  "on": "イン",
+  "kun": "",
+  "meaning": "institution",
+  "meaning_ne": "संस्था",
+  "vocab": [
+    { "word": "病院", "reading": "びょういん", "meaning": "hospital", "meaning_ne": "अस्पताल" },
+    { "word": "大学院", "reading": "だいがくいん", "meaning": "graduate school", "meaning_ne": "उच्च शिक्षा" },
+    { "word": "入院", "reading": "にゅういん", "meaning": "hospitalization", "meaning_ne": "अस्पताल भर्ना" },
+    { "word": "退院", "reading": "たいいん", "meaning": "leave hospital", "meaning_ne": "अस्पताल छोड्नु" },
+    { "word": "研究院", "reading": "けんきゅういん", "meaning": "research institute", "meaning_ne": "अनुसन्धान संस्था" },
+    { "word": "法院", "reading": "ほういん", "meaning": "court", "meaning_ne": "अदालत" },
+    { "word": "議院", "reading": "ぎいん", "meaning": "parliament", "meaning_ne": "संसद" },
+    { "word": "学院", "reading": "がくいん", "meaning": "academy", "meaning_ne": "शैक्षिक संस्था" }
+  ]
+}
+]
+[
+{
+  "kanji": "走",
+  "on": "ソウ",
+  "kun": "はし",
+  "meaning": "run",
+  "meaning_ne": "दौडनु",
+  "vocab": [
+    { "word": "走る", "reading": "はしる", "meaning": "to run", "meaning_ne": "दौडनु" },
+    { "word": "競走", "reading": "きょうそう", "meaning": "race", "meaning_ne": "दौड" },
+    { "word": "暴走", "reading": "ぼうそう", "meaning": "reckless driving", "meaning_ne": "अनियन्त्रित दौड" },
+    { "word": "逃走", "reading": "とうそう", "meaning": "escape", "meaning_ne": "भाग्नु" },
+    { "word": "走行", "reading": "そうこう", "meaning": "running (vehicle)", "meaning_ne": "चल्नु" },
+    { "word": "疾走", "reading": "しっそう", "meaning": "sprint", "meaning_ne": "छिटो दौड" },
+    { "word": "全力疾走", "reading": "ぜんりょくしっそう", "meaning": "full sprint", "meaning_ne": "पूर्ण गति" },
+    { "word": "走者", "reading": "そうしゃ", "meaning": "runner", "meaning_ne": "दौडने व्यक्ति" }
+  ]
+},
+{
+  "kanji": "歩",
+  "on": "ホ・ブ",
+  "kun": "ある",
+  "meaning": "walk",
+  "meaning_ne": "हिँड्नु",
+  "vocab": [
+    { "word": "歩く", "reading": "あるく", "meaning": "to walk", "meaning_ne": "हिँड्नु" },
+    { "word": "散歩", "reading": "さんぽ", "meaning": "walk", "meaning_ne": "घुम्नु" },
+    { "word": "歩道", "reading": "ほどう", "meaning": "sidewalk", "meaning_ne": "पैदल बाटो" },
+    { "word": "進歩", "reading": "しんぽ", "meaning": "progress", "meaning_ne": "प्रगति" },
+    { "word": "徒歩", "reading": "とほ", "meaning": "on foot", "meaning_ne": "पैदल" },
+    { "word": "歩数", "reading": "ほすう", "meaning": "step count", "meaning_ne": "कदम संख्या" },
+    { "word": "一歩", "reading": "いっぽ", "meaning": "one step", "meaning_ne": "एक कदम" },
+    { "word": "歩行者", "reading": "ほこうしゃ", "meaning": "pedestrian", "meaning_ne": "पैदल यात्री" }
+  ]
+},
+{
+  "kanji": "近",
+  "on": "キン",
+  "kun": "ちか",
+  "meaning": "near",
+  "meaning_ne": "नजिक",
+  "vocab": [
+    { "word": "近い", "reading": "ちかい", "meaning": "near", "meaning_ne": "नजिक" },
+    { "word": "最近", "reading": "さいきん", "meaning": "recently", "meaning_ne": "हालै" },
+    { "word": "近所", "reading": "きんじょ", "meaning": "neighborhood", "meaning_ne": "छिमेक" },
+    { "word": "接近", "reading": "せっきん", "meaning": "approach", "meaning_ne": "नजिकिनु" },
+    { "word": "近代", "reading": "きんだい", "meaning": "modern era", "meaning_ne": "आधुनिक युग" },
+    { "word": "近年", "reading": "きんねん", "meaning": "recent years", "meaning_ne": "हालका वर्ष" },
+    { "word": "近距離", "reading": "きんきょり", "meaning": "short distance", "meaning_ne": "छोटो दूरी" },
+    { "word": "至近距離", "reading": "しきんきょり", "meaning": "very close distance", "meaning_ne": "धेरै नजिक" }
+  ]
+},
+{
+  "kanji": "遠",
+  "on": "エン",
+  "kun": "とお",
+  "meaning": "far",
+  "meaning_ne": "टाढा",
+  "vocab": [
+    { "word": "遠い", "reading": "とおい", "meaning": "far", "meaning_ne": "टाढा" },
+    { "word": "遠足", "reading": "えんそく", "meaning": "excursion", "meaning_ne": "घुम्न जानु" },
+    { "word": "遠方", "reading": "えんぽう", "meaning": "distant place", "meaning_ne": "टाढाको ठाउँ" },
+    { "word": "遠距離", "reading": "えんきょり", "meaning": "long distance", "meaning_ne": "लामो दूरी" },
+    { "word": "永遠", "reading": "えいえん", "meaning": "eternity", "meaning_ne": "अनन्त" },
+    { "word": "遠回り", "reading": "とおまわり", "meaning": "detour", "meaning_ne": "लामो बाटो" },
+    { "word": "遠征", "reading": "えんせい", "meaning": "expedition", "meaning_ne": "अभियान" },
+    { "word": "遠慮", "reading": "えんりょ", "meaning": "restraint", "meaning_ne": "संकोच" }
+  ]
+},
+{
+  "kanji": "通",
+  "on": "ツウ・ツ",
+  "kun": "とお",
+  "meaning": "pass / commute",
+  "meaning_ne": "जाने",
+  "vocab": [
+    { "word": "通る", "reading": "とおる", "meaning": "to pass", "meaning_ne": "जानु" },
+    { "word": "通う", "reading": "かよう", "meaning": "to commute", "meaning_ne": "आउजाउ गर्नु" },
+    { "word": "交通", "reading": "こうつう", "meaning": "traffic", "meaning_ne": "यातायात" },
+    { "word": "普通", "reading": "ふつう", "meaning": "normal", "meaning_ne": "सामान्य" },
+    { "word": "通信", "reading": "つうしん", "meaning": "communication", "meaning_ne": "सञ्चार" },
+    { "word": "通学", "reading": "つうがく", "meaning": "commuting to school", "meaning_ne": "विद्यालय जानु" },
+    { "word": "通訳", "reading": "つうやく", "meaning": "interpretation", "meaning_ne": "अनुवाद" },
+    { "word": "開通", "reading": "かいつう", "meaning": "opening (road)", "meaning_ne": "खुल्नु" }
+  ]
+},
+{
+  "kanji": "進",
+  "on": "シン",
+  "kun": "すす",
+  "meaning": "advance",
+  "meaning_ne": "अगाडि बढ्नु",
+  "vocab": [
+    { "word": "進む", "reading": "すすむ", "meaning": "to advance", "meaning_ne": "अगाडि बढ्नु" },
+    { "word": "進める", "reading": "すすめる", "meaning": "to promote", "meaning_ne": "अगाडि बढाउनु" },
+    { "word": "進学", "reading": "しんがく", "meaning": "advance in education", "meaning_ne": "अध्ययन बढाउनु" },
+    { "word": "進出", "reading": "しんしゅつ", "meaning": "advance into", "meaning_ne": "प्रवेश गर्नु" },
+    { "word": "前進", "reading": "ぜんしん", "meaning": "forward movement", "meaning_ne": "अगाडि बढ्नु" },
+    { "word": "進歩", "reading": "しんぽ", "meaning": "progress", "meaning_ne": "प्रगति" },
+    { "word": "急進", "reading": "きゅうしん", "meaning": "rapid progress", "meaning_ne": "छिटो प्रगति" },
+    { "word": "進行", "reading": "しんこう", "meaning": "progression", "meaning_ne": "प्रगति" }
+  ]
+},
+{
+  "kanji": "送",
+  "on": "ソウ",
+  "kun": "おく",
+  "meaning": "send",
+  "meaning_ne": "पठाउनु",
+  "vocab": [
+    { "word": "送る", "reading": "おくる", "meaning": "to send", "meaning_ne": "पठाउनु" },
+    { "word": "送料", "reading": "そうりょう", "meaning": "shipping fee", "meaning_ne": "ढुवानी शुल्क" },
+    { "word": "放送", "reading": "ほうそう", "meaning": "broadcast", "meaning_ne": "प्रसारण" },
+    { "word": "配送", "reading": "はいそう", "meaning": "delivery", "meaning_ne": "डेलिभरी" },
+    { "word": "送信", "reading": "そうしん", "meaning": "transmission", "meaning_ne": "पठाउनु" },
+    { "word": "輸送", "reading": "ゆそう", "meaning": "transport", "meaning_ne": "ढुवानी" },
+    { "word": "見送る", "reading": "みおくる", "meaning": "see off", "meaning_ne": "बिदाइ गर्नु" },
+    { "word": "送別会", "reading": "そうべつかい", "meaning": "farewell party", "meaning_ne": "बिदाइ पार्टी" }
+  ]
+},
+{
+  "kanji": "返",
+  "on": "ヘン",
+  "kun": "かえ",
+  "meaning": "return",
+  "meaning_ne": "फर्काउनु",
+  "vocab": [
+    { "word": "返す", "reading": "かえす", "meaning": "to return", "meaning_ne": "फर्काउनु" },
+    { "word": "返る", "reading": "かえる", "meaning": "to return", "meaning_ne": "फर्किनु" },
+    { "word": "返事", "reading": "へんじ", "meaning": "reply", "meaning_ne": "जवाफ" },
+    { "word": "返品", "reading": "へんぴん", "meaning": "returned goods", "meaning_ne": "फिर्ता सामान" },
+    { "word": "返却", "reading": "へんきゃく", "meaning": "return (object)", "meaning_ne": "फिर्ता" },
+    { "word": "繰り返す", "reading": "くりかえす", "meaning": "repeat", "meaning_ne": "दोहोऱ्याउनु" },
+    { "word": "恩返し", "reading": "おんがえし", "meaning": "repay kindness", "meaning_ne": "गुन फर्काउनु" },
+    { "word": "払い戻し", "reading": "はらいもどし", "meaning": "refund", "meaning_ne": "फिर्ता पैसा" }
+  ]
+},
+{
+  "kanji": "起",
+  "on": "キ",
+  "kun": "お",
+  "meaning": "wake / occur",
+  "meaning_ne": "उठ्नु",
+  "vocab": [
+    { "word": "起きる", "reading": "おきる", "meaning": "to wake up", "meaning_ne": "उठ्नु" },
+    { "word": "起こる", "reading": "おこる", "meaning": "to happen", "meaning_ne": "घटना हुनु" },
+    { "word": "起こす", "reading": "おこす", "meaning": "to wake (someone)", "meaning_ne": "उठाउनु" },
+    { "word": "起点", "reading": "きてん", "meaning": "starting point", "meaning_ne": "सुरु बिन्दु" },
+    { "word": "起業", "reading": "きぎょう", "meaning": "start business", "meaning_ne": "व्यवसाय सुरु" },
+    { "word": "再起", "reading": "さいき", "meaning": "recovery", "meaning_ne": "पुनः सुरु" },
+    { "word": "突起", "reading": "とっき", "meaning": "projection", "meaning_ne": "निस्किएको भाग" },
+    { "word": "起床時間", "reading": "きしょうじかん", "meaning": "wake-up time", "meaning_ne": "उठ्ने समय" }
+  ]
+},
+{
+  "kanji": "発",
+  "on": "ハツ",
+  "kun": "",
+  "meaning": "depart / start",
+  "meaning_ne": "सुरु",
+  "vocab": [
+    { "word": "出発", "reading": "しゅっぱつ", "meaning": "departure", "meaning_ne": "प्रस्थान" },
+    { "word": "発表", "reading": "はっぴょう", "meaning": "announcement", "meaning_ne": "घोषणा" },
+    { "word": "発見", "reading": "はっけん", "meaning": "discovery", "meaning_ne": "खोज" },
+    { "word": "発生", "reading": "はっせい", "meaning": "occurrence", "meaning_ne": "घटना" },
+    { "word": "開発", "reading": "かいはつ", "meaning": "development", "meaning_ne": "विकास" },
+    { "word": "発展", "reading": "はってん", "meaning": "progress", "meaning_ne": "विकास" },
+    { "word": "発言", "reading": "はつげん", "meaning": "statement", "meaning_ne": "बयान" },
+    { "word": "発車", "reading": "はっしゃ", "meaning": "train departure", "meaning_ne": "गाडी छुट्नु" }
+  ]
+},
+{
+  "kanji": "着",
+  "on": "チャク",
+  "kun": "つ",
+  "meaning": "arrive / wear",
+  "meaning_ne": "पुग्नु",
+  "vocab": [
+    { "word": "到着", "reading": "とうちゃく", "meaning": "arrival", "meaning_ne": "पुग्नु" },
+    { "word": "着る", "reading": "きる", "meaning": "to wear", "meaning_ne": "लगाउनु" },
+    { "word": "着く", "reading": "つく", "meaning": "to arrive", "meaning_ne": "पुग्नु" },
+    { "word": "着席", "reading": "ちゃくせき", "meaning": "take a seat", "meaning_ne": "बस्नु" },
+    { "word": "着信", "reading": "ちゃくしん", "meaning": "incoming call", "meaning_ne": "फोन आउनु" },
+    { "word": "着用", "reading": "ちゃくよう", "meaning": "wearing", "meaning_ne": "लगाउनु" },
+    { "word": "落ち着く", "reading": "おちつく", "meaning": "calm down", "meaning_ne": "शान्त हुनु" },
+    { "word": "着工", "reading": "ちゃっこう", "meaning": "start construction", "meaning_ne": "निर्माण सुरु" }
+  ]
+},
+{
+  "kanji": "動",
+  "on": "ドウ",
+  "kun": "うご",
+  "meaning": "move",
+  "meaning_ne": "चल्नु",
+  "vocab": [
+    { "word": "動く", "reading": "うごく", "meaning": "to move", "meaning_ne": "चल्नु" },
+    { "word": "動かす", "reading": "うごかす", "meaning": "to move (something)", "meaning_ne": "चलाउनु" },
+    { "word": "運動", "reading": "うんどう", "meaning": "exercise", "meaning_ne": "व्यायाम" },
+    { "word": "自動", "reading": "じどう", "meaning": "automatic", "meaning_ne": "स्वचालित" },
+    { "word": "行動", "reading": "こうどう", "meaning": "action", "meaning_ne": "कार्य" },
+    { "word": "感動", "reading": "かんどう", "meaning": "emotion", "meaning_ne": "भावना" },
+    { "word": "活動", "reading": "かつどう", "meaning": "activity", "meaning_ne": "गतिविधि" },
+    { "word": "動作", "reading": "どうさ", "meaning": "operation", "meaning_ne": "चाल" }
+  ]
+},
+{
+  "kanji": "転",
+  "on": "テン",
+  "kun": "ころ",
+  "meaning": "turn",
+  "meaning_ne": "घुम्नु",
+  "vocab": [
+    { "word": "転ぶ", "reading": "ころぶ", "meaning": "to fall", "meaning_ne": "लड्नु" },
+    { "word": "運転", "reading": "うんてん", "meaning": "driving", "meaning_ne": "गाडी चलाउनु" },
+    { "word": "転校", "reading": "てんこう", "meaning": "change school", "meaning_ne": "विद्यालय परिवर्तन" },
+    { "word": "転職", "reading": "てんしょく", "meaning": "change job", "meaning_ne": "काम परिवर्तन" },
+    { "word": "回転", "reading": "かいてん", "meaning": "rotation", "meaning_ne": "घुमाइ" },
+    { "word": "転送", "reading": "てんそう", "meaning": "forward (data)", "meaning_ne": "फर्वार्ड" },
+    { "word": "転落", "reading": "てんらく", "meaning": "fall down", "meaning_ne": "झर्नु" },
+    { "word": "逆転", "reading": "ぎゃくてん", "meaning": "reversal", "meaning_ne": "उल्टो हुनु" }
+  ]
+}
+]
+[
+{
+  "kanji": "紙",
+  "on": "シ",
+  "kun": "かみ",
+  "meaning": "paper",
+  "meaning_ne": "कागज",
+  "vocab": [
+    { "word": "紙", "reading": "かみ", "meaning": "paper", "meaning_ne": "कागज" },
+    { "word": "新聞紙", "reading": "しんぶんし", "meaning": "newspaper paper", "meaning_ne": "पत्र कागज" },
+    { "word": "用紙", "reading": "ようし", "meaning": "form paper", "meaning_ne": "फारम कागज" },
+    { "word": "紙幣", "reading": "しへい", "meaning": "banknote", "meaning_ne": "नोट" },
+    { "word": "折り紙", "reading": "おりがみ", "meaning": "origami", "meaning_ne": "कागज कला" },
+    { "word": "紙袋", "reading": "かみぶくろ", "meaning": "paper bag", "meaning_ne": "कागज झोला" },
+    { "word": "和紙", "reading": "わし", "meaning": "Japanese paper", "meaning_ne": "जापानी कागज" },
+    { "word": "紙面", "reading": "しめん", "meaning": "page space", "meaning_ne": "पृष्ठ" }
+  ]
+},
+{
+  "kanji": "皿",
+  "on": "ベイ",
+  "kun": "さら",
+  "meaning": "plate",
+  "meaning_ne": "थाल",
+  "vocab": [
+    { "word": "皿", "reading": "さら", "meaning": "plate", "meaning_ne": "थाल" },
+    { "word": "灰皿", "reading": "はいざら", "meaning": "ashtray", "meaning_ne": "राख थाल" },
+    { "word": "小皿", "reading": "こざら", "meaning": "small plate", "meaning_ne": "सानो थाल" },
+    { "word": "大皿", "reading": "おおざら", "meaning": "large plate", "meaning_ne": "ठूलो थाल" },
+    { "word": "取り皿", "reading": "とりざら", "meaning": "serving plate", "meaning_ne": "सेवा थाल" },
+    { "word": "皿洗い", "reading": "さらあらい", "meaning": "dishwashing", "meaning_ne": "थाल धुने" },
+    { "word": "木皿", "reading": "きざら", "meaning": "wooden plate", "meaning_ne": "काठ थाल" },
+    { "word": "皿数", "reading": "さらすう", "meaning": "number of dishes", "meaning_ne": "थाल संख्या" }
+  ]
+},
+{
+  "kanji": "服",
+  "on": "フク",
+  "kun": "",
+  "meaning": "clothes",
+  "meaning_ne": "लुगा",
+  "vocab": [
+    { "word": "服", "reading": "ふく", "meaning": "clothes", "meaning_ne": "लुगा" },
+    { "word": "洋服", "reading": "ようふく", "meaning": "Western clothes", "meaning_ne": "पश्चिमी लुगा" },
+    { "word": "和服", "reading": "わふく", "meaning": "Japanese clothes", "meaning_ne": "जापानी लुगा" },
+    { "word": "制服", "reading": "せいふく", "meaning": "uniform", "meaning_ne": "युनिफर्म" },
+    { "word": "私服", "reading": "しふく", "meaning": "casual clothes", "meaning_ne": "साधारण लुगा" },
+    { "word": "衣服", "reading": "いふく", "meaning": "clothing", "meaning_ne": "लुगा" },
+    { "word": "服装", "reading": "ふくそう", "meaning": "appearance", "meaning_ne": "पोशाक" },
+    { "word": "服用", "reading": "ふくよう", "meaning": "take medicine", "meaning_ne": "औषधि खानु" }
+  ]
+},
+{
+  "kanji": "物",
+  "on": "ブツ・モツ",
+  "kun": "もの",
+  "meaning": "thing",
+  "meaning_ne": "वस्तु",
+  "vocab": [
+    { "word": "物", "reading": "もの", "meaning": "thing", "meaning_ne": "वस्तु" },
+    { "word": "食べ物", "reading": "たべもの", "meaning": "food", "meaning_ne": "खाना" },
+    { "word": "買い物", "reading": "かいもの", "meaning": "shopping", "meaning_ne": "किनमेल" },
+    { "word": "動物", "reading": "どうぶつ", "meaning": "animal", "meaning_ne": "जनावर" },
+    { "word": "建物", "reading": "たてもの", "meaning": "building", "meaning_ne": "भवन" },
+    { "word": "人物", "reading": "じんぶつ", "meaning": "personality", "meaning_ne": "व्यक्ति" },
+    { "word": "荷物", "reading": "にもつ", "meaning": "luggage", "meaning_ne": "सामान" },
+    { "word": "物価", "reading": "ぶっか", "meaning": "prices", "meaning_ne": "मूल्य" }
+  ]
+},
+{
+  "kanji": "品",
+  "on": "ヒン",
+  "kun": "しな",
+  "meaning": "goods",
+  "meaning_ne": "सामान",
+  "vocab": [
+    { "word": "商品", "reading": "しょうひん", "meaning": "product", "meaning_ne": "सामान" },
+    { "word": "作品", "reading": "さくひん", "meaning": "work", "meaning_ne": "कृति" },
+    { "word": "食品", "reading": "しょくひん", "meaning": "food products", "meaning_ne": "खाद्य पदार्थ" },
+    { "word": "日用品", "reading": "にちようひん", "meaning": "daily goods", "meaning_ne": "दैनिक सामान" },
+    { "word": "高級品", "reading": "こうきゅうひん", "meaning": "luxury goods", "meaning_ne": "महँगो सामान" },
+    { "word": "新品", "reading": "しんぴん", "meaning": "new item", "meaning_ne": "नयाँ सामान" },
+    { "word": "部品", "reading": "ぶひん", "meaning": "parts", "meaning_ne": "पुर्जा" },
+    { "word": "品物", "reading": "しなもの", "meaning": "goods", "meaning_ne": "वस्तु" }
+  ]
+},
+{
+  "kanji": "色",
+  "on": "ショク・シキ",
+  "kun": "いろ",
+  "meaning": "color",
+  "meaning_ne": "रङ",
+  "vocab": [
+    { "word": "色", "reading": "いろ", "meaning": "color", "meaning_ne": "रङ" },
+    { "word": "景色", "reading": "けしき", "meaning": "scenery", "meaning_ne": "दृश्य" },
+    { "word": "色々", "reading": "いろいろ", "meaning": "various", "meaning_ne": "विभिन्न" },
+    { "word": "色彩", "reading": "しきさい", "meaning": "color tone", "meaning_ne": "रङ" },
+    { "word": "特色", "reading": "とくしょく", "meaning": "feature", "meaning_ne": "विशेषता" },
+    { "word": "色分け", "reading": "いろわけ", "meaning": "color coding", "meaning_ne": "रङ छुट्याउने" },
+    { "word": "無色", "reading": "むしょく", "meaning": "colorless", "meaning_ne": "रङ नभएको" },
+    { "word": "着色", "reading": "ちゃくしょく", "meaning": "coloring", "meaning_ne": "रङ लगाउने" }
+  ]
+},
+{
+  "kanji": "音",
+  "on": "オン",
+  "kun": "おと",
+  "meaning": "sound",
+  "meaning_ne": "आवाज",
+  "vocab": [
+    { "word": "音", "reading": "おと", "meaning": "sound", "meaning_ne": "आवाज" },
+    { "word": "音楽", "reading": "おんがく", "meaning": "music", "meaning_ne": "संगीत" },
+    { "word": "発音", "reading": "はつおん", "meaning": "pronunciation", "meaning_ne": "उच्चारण" },
+    { "word": "音量", "reading": "おんりょう", "meaning": "volume", "meaning_ne": "आवाज स्तर" },
+    { "word": "雑音", "reading": "ざつおん", "meaning": "noise", "meaning_ne": "हल्ला" },
+    { "word": "録音", "reading": "ろくおん", "meaning": "recording", "meaning_ne": "रेकर्ड" },
+    { "word": "音声", "reading": "おんせい", "meaning": "voice", "meaning_ne": "आवाज" },
+    { "word": "音質", "reading": "おんしつ", "meaning": "sound quality", "meaning_ne": "आवाज गुण" }
+  ]
+},
+{
+  "kanji": "楽",
+  "on": "ガク・ラク",
+  "kun": "たの",
+  "meaning": "music / comfort",
+  "meaning_ne": "आनन्द",
+  "vocab": [
+    { "word": "音楽", "reading": "おんがく", "meaning": "music", "meaning_ne": "संगीत" },
+    { "word": "楽しい", "reading": "たのしい", "meaning": "fun", "meaning_ne": "रमाइलो" },
+    { "word": "楽", "reading": "らく", "meaning": "easy", "meaning_ne": "सजिलो" },
+    { "word": "楽しむ", "reading": "たのしむ", "meaning": "to enjoy", "meaning_ne": "आनन्द लिनु" },
+    { "word": "楽器", "reading": "がっき", "meaning": "musical instrument", "meaning_ne": "वाद्य" },
+    { "word": "楽曲", "reading": "がっきょく", "meaning": "music piece", "meaning_ne": "गीत" },
+    { "word": "娯楽", "reading": "ごらく", "meaning": "entertainment", "meaning_ne": "मनोरञ्जन" },
+    { "word": "気楽", "reading": "きらく", "meaning": "carefree", "meaning_ne": "ढुक्क" }
+  ]
+},
+{
+  "kanji": "写",
+  "on": "シャ",
+  "kun": "うつ",
+  "meaning": "copy / photograph",
+  "meaning_ne": "खिच्नु",
+  "vocab": [
+    { "word": "写真", "reading": "しゃしん", "meaning": "photo", "meaning_ne": "फोटो" },
+    { "word": "写す", "reading": "うつす", "meaning": "to copy", "meaning_ne": "सार्नु" },
+    { "word": "写る", "reading": "うつる", "meaning": "to be reflected", "meaning_ne": "देखिनु" },
+    { "word": "写真家", "reading": "しゃしんか", "meaning": "photographer", "meaning_ne": "फोटोग्राफर" },
+    { "word": "写生", "reading": "しゃせい", "meaning": "sketching", "meaning_ne": "चित्र बनाउने" },
+    { "word": "写本", "reading": "しゃほん", "meaning": "copy manuscript", "meaning_ne": "प्रतिलिपि" },
+    { "word": "転写", "reading": "てんしゃ", "meaning": "transcription", "meaning_ne": "सार्ने" },
+    { "word": "描写", "reading": "びょうしゃ", "meaning": "depiction", "meaning_ne": "वर्णन" }
+  ]
+},
+{
+  "kanji": "真",
+  "on": "シン",
+  "kun": "ま",
+  "meaning": "true",
+  "meaning_ne": "साँचो",
+  "vocab": [
+    { "word": "写真", "reading": "しゃしん", "meaning": "photo", "meaning_ne": "फोटो" },
+    { "word": "真実", "reading": "しんじつ", "meaning": "truth", "meaning_ne": "सत्य" },
+    { "word": "真面目", "reading": "まじめ", "meaning": "serious", "meaning_ne": "गम्भीर" },
+    { "word": "真っ白", "reading": "まっしろ", "meaning": "pure white", "meaning_ne": "सेतो" },
+    { "word": "真剣", "reading": "しんけん", "meaning": "seriousness", "meaning_ne": "गम्भीरता" },
+    { "word": "真理", "reading": "しんり", "meaning": "truth principle", "meaning_ne": "सत्य" },
+    { "word": "真相", "reading": "しんそう", "meaning": "real situation", "meaning_ne": "वास्तविकता" },
+    { "word": "真価", "reading": "しんか", "meaning": "true value", "meaning_ne": "साँचो मूल्य" }
+  ]
+},
+{
+  "kanji": "図",
+  "on": "ズ・ト",
+  "kun": "はか",
+  "meaning": "diagram",
+  "meaning_ne": "चित्र",
+  "vocab": [
+    { "word": "地図", "reading": "ちず", "meaning": "map", "meaning_ne": "नक्सा" },
+    { "word": "図書館", "reading": "としょかん", "meaning": "library", "meaning_ne": "पुस्तकालय" },
+    { "word": "図面", "reading": "ずめん", "meaning": "plan drawing", "meaning_ne": "नक्सा" },
+    { "word": "図表", "reading": "ずひょう", "meaning": "chart", "meaning_ne": "चार्ट" },
+    { "word": "意図", "reading": "いと", "meaning": "intention", "meaning_ne": "उद्देश्य" },
+    { "word": "図解", "reading": "ずかい", "meaning": "illustration", "meaning_ne": "चित्र व्याख्या" },
+    { "word": "設計図", "reading": "せっけいず", "meaning": "blueprint", "meaning_ne": "नक्सा" },
+    { "word": "図形", "reading": "ずけい", "meaning": "figure", "meaning_ne": "आकार" }
+  ]
+},
+{
+  "kanji": "画",
+  "on": "ガ・カク",
+  "kun": "",
+  "meaning": "picture / plan",
+  "meaning_ne": "चित्र",
+  "vocab": [
+    { "word": "映画", "reading": "えいが", "meaning": "movie", "meaning_ne": "चलचित्र" },
+    { "word": "計画", "reading": "けいかく", "meaning": "plan", "meaning_ne": "योजना" },
+    { "word": "画面", "reading": "がめん", "meaning": "screen", "meaning_ne": "स्क्रिन" },
+    { "word": "区画", "reading": "くかく", "meaning": "division", "meaning_ne": "भाग" },
+    { "word": "描画", "reading": "びょうが", "meaning": "drawing", "meaning_ne": "चित्र बनाउने" },
+    { "word": "動画", "reading": "どうが", "meaning": "video", "meaning_ne": "भिडियो" },
+    { "word": "画家", "reading": "がか", "meaning": "painter", "meaning_ne": "चित्रकार" },
+    { "word": "構図", "reading": "こうず", "meaning": "composition", "meaning_ne": "रचना" }
+  ]
+},
+{
+  "kanji": "工",
+  "on": "コウ",
+  "kun": "",
+  "meaning": "craft",
+  "meaning_ne": "काम",
+  "vocab": [
+    { "word": "工場", "reading": "こうじょう", "meaning": "factory", "meaning_ne": "कारखाना" },
+    { "word": "工業", "reading": "こうぎょう", "meaning": "industry", "meaning_ne": "उद्योग" },
+    { "word": "工事", "reading": "こうじ", "meaning": "construction", "meaning_ne": "निर्माण" },
+    { "word": "工夫", "reading": "くふう", "meaning": "device", "meaning_ne": "उपाय" },
+    { "word": "人工", "reading": "じんこう", "meaning": "artificial", "meaning_ne": "कृत्रिम" },
+    { "word": "加工", "reading": "かこう", "meaning": "processing", "meaning_ne": "प्रक्रिया" },
+    { "word": "工員", "reading": "こういん", "meaning": "factory worker", "meaning_ne": "कामदार" },
+    { "word": "工学", "reading": "こうがく", "meaning": "engineering", "meaning_ne": "इन्जिनियरिङ" }
+  ]
+},
+{
+  "kanji": "形",
+  "on": "ケイ・ギョウ",
+  "kun": "かたち",
+  "meaning": "shape",
+  "meaning_ne": "आकार",
+  "vocab": [
+    { "word": "形", "reading": "かたち", "meaning": "shape", "meaning_ne": "आकार" },
+    { "word": "図形", "reading": "ずけい", "meaning": "figure", "meaning_ne": "आकार" },
+    { "word": "形状", "reading": "けいじょう", "meaning": "form", "meaning_ne": "रूप" },
+    { "word": "三角形", "reading": "さんかくけい", "meaning": "triangle", "meaning_ne": "त्रिभुज" },
+    { "word": "円形", "reading": "えんけい", "meaning": "circle shape", "meaning_ne": "गोलो" },
+    { "word": "外形", "reading": "がいけい", "meaning": "outline", "meaning_ne": "बाहिरी रूप" },
+    { "word": "変形", "reading": "へんけい", "meaning": "deformation", "meaning_ne": "आकार परिवर्तन" },
+    { "word": "形成", "reading": "けいせい", "meaning": "formation", "meaning_ne": "निर्माण" }
+  ]
+},
+{
+  "kanji": "開",
+  "on": "カイ",
+  "kun": "ひら・あ",
+  "meaning": "open",
+  "meaning_ne": "खोल्नु",
+  "vocab": [
+    { "word": "開く", "reading": "ひらく", "meaning": "to open", "meaning_ne": "खोल्नु" },
+    { "word": "開ける", "reading": "あける", "meaning": "to open", "meaning_ne": "खोल्नु" },
+    { "word": "開始", "reading": "かいし", "meaning": "start", "meaning_ne": "सुरु" },
+    { "word": "開発", "reading": "かいはつ", "meaning": "development", "meaning_ne": "विकास" },
+    { "word": "公開", "reading": "こうかい", "meaning": "release", "meaning_ne": "सार्वजनिक" },
+    { "word": "再開", "reading": "さいかい", "meaning": "restart", "meaning_ne": "फेरि सुरु" },
+    { "word": "展開", "reading": "てんかい", "meaning": "development", "meaning_ne": "विस्तार" },
+    { "word": "開店", "reading": "かいてん", "meaning": "shop opening", "meaning_ne": "पसल खोल्नु" }
+  ]
+},
+{
+  "kanji": "閉",
+  "on": "ヘイ",
+  "kun": "し",
+  "meaning": "close",
+  "meaning_ne": "बन्द",
+  "vocab": [
+    { "word": "閉める", "reading": "しめる", "meaning": "to close", "meaning_ne": "बन्द गर्नु" },
+    { "word": "閉まる", "reading": "しまる", "meaning": "to close", "meaning_ne": "बन्द हुनु" },
+    { "word": "閉店", "reading": "へいてん", "meaning": "shop closing", "meaning_ne": "पसल बन्द" },
+    { "word": "閉会", "reading": "へいかい", "meaning": "closing ceremony", "meaning_ne": "समाप्ति" },
+    { "word": "密閉", "reading": "みっぺい", "meaning": "sealed", "meaning_ne": "बन्द गरिएको" },
+    { "word": "開閉", "reading": "かいへい", "meaning": "opening/closing", "meaning_ne": "खोल्ने बन्द गर्ने" },
+    { "word": "閉鎖", "reading": "へいさ", "meaning": "closure", "meaning_ne": "बन्द" },
+    { "word": "閉口", "reading": "へいこう", "meaning": "being stuck", "meaning_ne": "समस्या" }
+  ]
+},
+{
+  "kanji": "始",
+  "on": "シ",
+  "kun": "はじ",
+  "meaning": "begin",
+  "meaning_ne": "सुरु",
+  "vocab": [
+    { "word": "始める", "reading": "はじめる", "meaning": "to start", "meaning_ne": "सुरु गर्नु" },
+    { "word": "始まる", "reading": "はじまる", "meaning": "to begin", "meaning_ne": "सुरु हुनु" },
+    { "word": "開始", "reading": "かいし", "meaning": "start", "meaning_ne": "सुरु" },
+    { "word": "初めて", "reading": "はじめて", "meaning": "for the first time", "meaning_ne": "पहिलो पटक" },
+    { "word": "始発", "reading": "しはつ", "meaning": "first train", "meaning_ne": "पहिलो गाडी" },
+    { "word": "開始時間", "reading": "かいしじかん", "meaning": "start time", "meaning_ne": "सुरु समय" },
+    { "word": "始動", "reading": "しどう", "meaning": "start operation", "meaning_ne": "सुरु" },
+    { "word": "原始", "reading": "げんし", "meaning": "primitive", "meaning_ne": "प्राचीन" }
+  ]
+},
+{
+  "kanji": "終",
+  "on": "シュウ",
+  "kun": "お",
+  "meaning": "end",
+  "meaning_ne": "अन्त्य",
+  "vocab": [
+    { "word": "終わる", "reading": "おわる", "meaning": "to end", "meaning_ne": "अन्त्य हुनु" },
+    { "word": "終える", "reading": "おえる", "meaning": "to finish", "meaning_ne": "समाप्त गर्नु" },
+    { "word": "最終", "reading": "さいしゅう", "meaning": "final", "meaning_ne": "अन्तिम" },
+    { "word": "終了", "reading": "しゅうりょう", "meaning": "completion", "meaning_ne": "समाप्ति" },
+    { "word": "終点", "reading": "しゅうてん", "meaning": "last stop", "meaning_ne": "अन्तिम स्टेशन" },
+    { "word": "終電", "reading": "しゅうでん", "meaning": "last train", "meaning_ne": "अन्तिम ट्रेन" },
+    { "word": "終業", "reading": "しゅうぎょう", "meaning": "end of work", "meaning_ne": "काम सकिनु" },
+    { "word": "無事終了", "reading": "ぶじしゅうりょう", "meaning": "completed safely", "meaning_ne": "सफल समाप्ति" }
+  ]
+}
+]
+[
+{
+  "kanji": "持",
+  "on": "ジ",
+  "kun": "も",
+  "meaning": "hold",
+  "meaning_ne": "समात्नु",
+  "vocab": [
+    { "word": "持つ", "reading": "もつ", "meaning": "to hold", "meaning_ne": "समात्नु" },
+    { "word": "持参", "reading": "じさん", "meaning": "bring with", "meaning_ne": "ल्याउनु" },
+    { "word": "維持", "reading": "いじ", "meaning": "maintain", "meaning_ne": "जोगाउनु" },
+    { "word": "支持", "reading": "しじ", "meaning": "support", "meaning_ne": "समर्थन" },
+    { "word": "所持", "reading": "しょじ", "meaning": "possession", "meaning_ne": "धारण" },
+    { "word": "持続", "reading": "じぞく", "meaning": "continuation", "meaning_ne": "जारी" },
+    { "word": "気持ち", "reading": "きもち", "meaning": "feeling", "meaning_ne": "भावना" },
+    { "word": "持ち物", "reading": "もちもの", "meaning": "belongings", "meaning_ne": "सामान" }
+  ]
+},
+{
+  "kanji": "思",
+  "on": "シ",
+  "kun": "おも",
+  "meaning": "think",
+  "meaning_ne": "सोच्नु",
+  "vocab": [
+    { "word": "思う", "reading": "おもう", "meaning": "to think", "meaning_ne": "सोच्नु" },
+    { "word": "意思", "reading": "いし", "meaning": "intention", "meaning_ne": "इच्छा" },
+    { "word": "思想", "reading": "しそう", "meaning": "thought", "meaning_ne": "विचार" },
+    { "word": "思考", "reading": "しこう", "meaning": "thinking", "meaning_ne": "सोचाइ" },
+    { "word": "不思議", "reading": "ふしぎ", "meaning": "mysterious", "meaning_ne": "अचम्म" },
+    { "word": "思い出", "reading": "おもいで", "meaning": "memory", "meaning_ne": "स्मृति" },
+    { "word": "思いつく", "reading": "おもいつく", "meaning": "to think of", "meaning_ne": "विचार आउनु" },
+    { "word": "思い切る", "reading": "おもいきる", "meaning": "to decide", "meaning_ne": "निर्णय गर्नु" }
+  ]
+},
+{
+  "kanji": "知",
+  "on": "チ",
+  "kun": "し",
+  "meaning": "know",
+  "meaning_ne": "जान्नु",
+  "vocab": [
+    { "word": "知る", "reading": "しる", "meaning": "to know", "meaning_ne": "जान्नु" },
+    { "word": "知識", "reading": "ちしき", "meaning": "knowledge", "meaning_ne": "ज्ञान" },
+    { "word": "通知", "reading": "つうち", "meaning": "notice", "meaning_ne": "सूचना" },
+    { "word": "無知", "reading": "むち", "meaning": "ignorance", "meaning_ne": "अज्ञान" },
+    { "word": "認知", "reading": "にんち", "meaning": "recognition", "meaning_ne": "पहिचान" },
+    { "word": "知人", "reading": "ちじん", "meaning": "acquaintance", "meaning_ne": "चिनेको व्यक्ति" },
+    { "word": "知能", "reading": "ちのう", "meaning": "intelligence", "meaning_ne": "बुद्धि" },
+    { "word": "知事", "reading": "ちじ", "meaning": "governor", "meaning_ne": "राज्य प्रमुख" }
+  ]
+},
+{
+  "kanji": "教",
+  "on": "キョウ",
+  "kun": "おし",
+  "meaning": "teach",
+  "meaning_ne": "सिकाउनु",
+  "vocab": [
+    { "word": "教える", "reading": "おしえる", "meaning": "to teach", "meaning_ne": "सिकाउनु" },
+    { "word": "教育", "reading": "きょういく", "meaning": "education", "meaning_ne": "शिक्षा" },
+    { "word": "教室", "reading": "きょうしつ", "meaning": "classroom", "meaning_ne": "कक्षा" },
+    { "word": "宗教", "reading": "しゅうきょう", "meaning": "religion", "meaning_ne": "धर्म" },
+    { "word": "教科書", "reading": "きょうかしょ", "meaning": "textbook", "meaning_ne": "पाठ्यपुस्तक" },
+    { "word": "教師", "reading": "きょうし", "meaning": "teacher", "meaning_ne": "शिक्षक" },
+    { "word": "教訓", "reading": "きょうくん", "meaning": "lesson", "meaning_ne": "पाठ" },
+    { "word": "助教", "reading": "じょきょう", "meaning": "assistant professor", "meaning_ne": "सहायक शिक्षक" }
+  ]
+},
+{
+  "kanji": "強",
+  "on": "キョウ",
+  "kun": "つよ",
+  "meaning": "strong",
+  "meaning_ne": "बलियो",
+  "vocab": [
+    { "word": "強い", "reading": "つよい", "meaning": "strong", "meaning_ne": "बलियो" },
+    { "word": "勉強", "reading": "べんきょう", "meaning": "study", "meaning_ne": "पढाइ" },
+    { "word": "強調", "reading": "きょうちょう", "meaning": "emphasis", "meaning_ne": "जोड" },
+    { "word": "強力", "reading": "きょうりょく", "meaning": "powerful", "meaning_ne": "बलियो" },
+    { "word": "強化", "reading": "きょうか", "meaning": "strengthen", "meaning_ne": "बलियो बनाउनु" },
+    { "word": "強引", "reading": "ごういん", "meaning": "forceful", "meaning_ne": "जबरजस्ती" },
+    { "word": "強気", "reading": "つよき", "meaning": "confident", "meaning_ne": "ढुक्क" },
+    { "word": "強風", "reading": "きょうふう", "meaning": "strong wind", "meaning_ne": "बलियो हावा" }
+  ]
+},
+{
+  "kanji": "便",
+  "on": "ベン",
+  "kun": "",
+  "meaning": "convenience",
+  "meaning_ne": "सुविधा",
+  "vocab": [
+    { "word": "便利", "reading": "べんり", "meaning": "convenient", "meaning_ne": "सजिलो" },
+    { "word": "郵便", "reading": "ゆうびん", "meaning": "mail", "meaning_ne": "हुलाक" },
+    { "word": "航空便", "reading": "こうくうびん", "meaning": "airmail", "meaning_ne": "हवाई हुलाक" },
+    { "word": "速達便", "reading": "そくたつびん", "meaning": "express mail", "meaning_ne": "छिटो हुलाक" },
+    { "word": "便所", "reading": "べんじょ", "meaning": "toilet", "meaning_ne": "शौचालय" },
+    { "word": "不便", "reading": "ふべん", "meaning": "inconvenient", "meaning_ne": "असजिलो" },
+    { "word": "便り", "reading": "たより", "meaning": "news", "meaning_ne": "समाचार" },
+    { "word": "便数", "reading": "びんすう", "meaning": "number of flights", "meaning_ne": "उडान संख्या" }
+  ]
+},
+{
+  "kanji": "利",
+  "on": "リ",
+  "kun": "",
+  "meaning": "advantage",
+  "meaning_ne": "फाइदा",
+  "vocab": [
+    { "word": "便利", "reading": "べんり", "meaning": "convenient", "meaning_ne": "सजिलो" },
+    { "word": "利用", "reading": "りよう", "meaning": "use", "meaning_ne": "प्रयोग" },
+    { "word": "利益", "reading": "りえき", "meaning": "profit", "meaning_ne": "लाभ" },
+    { "word": "有利", "reading": "ゆうり", "meaning": "advantageous", "meaning_ne": "फाइदाजनक" },
+    { "word": "不利", "reading": "ふり", "meaning": "disadvantage", "meaning_ne": "नोक्सान" },
+    { "word": "利便性", "reading": "りべんせい", "meaning": "convenience", "meaning_ne": "सुविधा" },
+    { "word": "利子", "reading": "りし", "meaning": "interest", "meaning_ne": "ब्याज" },
+    { "word": "利点", "reading": "りてん", "meaning": "advantage", "meaning_ne": "फाइदा" }
+  ]
+},
+{
+  "kanji": "必",
+  "on": "ヒツ",
+  "kun": "かなら",
+  "meaning": "necessary",
+  "meaning_ne": "जरूरी",
+  "vocab": [
+    { "word": "必要", "reading": "ひつよう", "meaning": "necessary", "meaning_ne": "जरूरी" },
+    { "word": "必ず", "reading": "かならず", "meaning": "certainly", "meaning_ne": "पक्कै" },
+    { "word": "必死", "reading": "ひっし", "meaning": "desperate", "meaning_ne": "पूरा प्रयास" },
+    { "word": "必修", "reading": "ひっしゅう", "meaning": "required subject", "meaning_ne": "अनिवार्य" },
+    { "word": "必需品", "reading": "ひつじゅひん", "meaning": "necessities", "meaning_ne": "आवश्यक सामान" },
+    { "word": "必然", "reading": "ひつぜん", "meaning": "inevitable", "meaning_ne": "अपरिहार्य" },
+    { "word": "必勝", "reading": "ひっしょう", "meaning": "certain victory", "meaning_ne": "पक्का जित" },
+    { "word": "必読", "reading": "ひつどく", "meaning": "must-read", "meaning_ne": "जरूरी पढाइ" }
+  ]
+},
+{
+  "kanji": "要",
+  "on": "ヨウ",
+  "kun": "い",
+  "meaning": "need",
+  "meaning_ne": "चाहिन्छ",
+  "vocab": [
+    { "word": "必要", "reading": "ひつよう", "meaning": "necessary", "meaning_ne": "जरूरी" },
+    { "word": "重要", "reading": "じゅうよう", "meaning": "important", "meaning_ne": "महत्त्वपूर्ण" },
+    { "word": "要求", "reading": "ようきゅう", "meaning": "request", "meaning_ne": "माग" },
+    { "word": "要素", "reading": "ようそ", "meaning": "element", "meaning_ne": "तत्व" },
+    { "word": "要点", "reading": "ようてん", "meaning": "main point", "meaning_ne": "मुख्य कुरा" },
+    { "word": "概要", "reading": "がいよう", "meaning": "summary", "meaning_ne": "सारांश" },
+    { "word": "不要", "reading": "ふよう", "meaning": "unnecessary", "meaning_ne": "आवश्यक छैन" },
+    { "word": "要注意", "reading": "ようちゅうい", "meaning": "need caution", "meaning_ne": "सावधान" }
+  ]
+}
+]
+[
+{
+  "kanji": "数",
+  "on": "スウ・ス",
+  "kun": "かず",
+  "meaning": "number",
+  "meaning_ne": "संख्या",
+  "vocab": [
+    { "word": "数", "reading": "かず", "meaning": "number", "meaning_ne": "संख्या" },
+    { "word": "数字", "reading": "すうじ", "meaning": "numeral", "meaning_ne": "अंक" },
+    { "word": "数学", "reading": "すうがく", "meaning": "mathematics", "meaning_ne": "गणित" },
+    { "word": "多数", "reading": "たすう", "meaning": "many", "meaning_ne": "धेरै" },
+    { "word": "少数", "reading": "しょうすう", "meaning": "few", "meaning_ne": "थोरै" },
+    { "word": "回数", "reading": "かいすう", "meaning": "number of times", "meaning_ne": "पटक संख्या" },
+    { "word": "数値", "reading": "すうち", "meaning": "numerical value", "meaning_ne": "संख्यात्मक मान" },
+    { "word": "人数", "reading": "にんずう", "meaning": "number of people", "meaning_ne": "मानिस संख्या" }
+  ]
+},
+{
+  "kanji": "多",
+  "on": "タ",
+  "kun": "おお",
+  "meaning": "many",
+  "meaning_ne": "धेरै",
+  "vocab": [
+    { "word": "多い", "reading": "おおい", "meaning": "many", "meaning_ne": "धेरै" },
+    { "word": "多数", "reading": "たすう", "meaning": "a large number", "meaning_ne": "धेरै" },
+    { "word": "多少", "reading": "たしょう", "meaning": "somewhat", "meaning_ne": "केही" },
+    { "word": "多分", "reading": "たぶん", "meaning": "probably", "meaning_ne": "सायद" },
+    { "word": "多様", "reading": "たよう", "meaning": "variety", "meaning_ne": "विविध" },
+    { "word": "多国籍", "reading": "たこくせき", "meaning": "multinational", "meaning_ne": "बहुराष्ट्रिय" },
+    { "word": "多量", "reading": "たりょう", "meaning": "large quantity", "meaning_ne": "धेरै मात्रा" },
+    { "word": "多目的", "reading": "たもくてき", "meaning": "multi-purpose", "meaning_ne": "बहुउद्देश्यीय" }
+  ]
+},
+{
+  "kanji": "少",
+  "on": "ショウ",
+  "kun": "すく",
+  "meaning": "few",
+  "meaning_ne": "थोरै",
+  "vocab": [
+    { "word": "少ない", "reading": "すくない", "meaning": "few", "meaning_ne": "थोरै" },
+    { "word": "少し", "reading": "すこし", "meaning": "a little", "meaning_ne": "अलि" },
+    { "word": "少年", "reading": "しょうねん", "meaning": "boy", "meaning_ne": "केटा" },
+    { "word": "少女", "reading": "しょうじょ", "meaning": "girl", "meaning_ne": "केटी" },
+    { "word": "減少", "reading": "げんしょう", "meaning": "decrease", "meaning_ne": "घट्नु" },
+    { "word": "少数", "reading": "しょうすう", "meaning": "minority", "meaning_ne": "थोरै" },
+    { "word": "少量", "reading": "しょうりょう", "meaning": "small quantity", "meaning_ne": "सानो मात्रा" },
+    { "word": "多少", "reading": "たしょう", "meaning": "somewhat", "meaning_ne": "केही" }
+  ]
+},
+{
+  "kanji": "重",
+  "on": "ジュウ・チョウ",
+  "kun": "おも",
+  "meaning": "heavy",
+  "meaning_ne": "भारी",
+  "vocab": [
+    { "word": "重い", "reading": "おもい", "meaning": "heavy", "meaning_ne": "भारी" },
+    { "word": "重要", "reading": "じゅうよう", "meaning": "important", "meaning_ne": "महत्त्वपूर्ण" },
+    { "word": "体重", "reading": "たいじゅう", "meaning": "body weight", "meaning_ne": "तौल" },
+    { "word": "重大", "reading": "じゅうだい", "meaning": "serious", "meaning_ne": "गम्भीर" },
+    { "word": "重力", "reading": "じゅうりょく", "meaning": "gravity", "meaning_ne": "गुरुत्वाकर्षण" },
+    { "word": "重複", "reading": "ちょうふく", "meaning": "duplication", "meaning_ne": "दोहराव" },
+    { "word": "重視", "reading": "じゅうし", "meaning": "importance", "meaning_ne": "महत्त्व दिनु" },
+    { "word": "重量", "reading": "じゅうりょう", "meaning": "weight", "meaning_ne": "तौल" }
+  ]
+},
+{
+  "kanji": "軽",
+  "on": "ケイ",
+  "kun": "かる",
+  "meaning": "light",
+  "meaning_ne": "हल्का",
+  "vocab": [
+    { "word": "軽い", "reading": "かるい", "meaning": "light", "meaning_ne": "हल्का" },
+    { "word": "軽量", "reading": "けいりょう", "meaning": "lightweight", "meaning_ne": "हल्का तौल" },
+    { "word": "軽視", "reading": "けいし", "meaning": "neglect", "meaning_ne": "बेपरवाह" },
+    { "word": "軽食", "reading": "けいしょく", "meaning": "light meal", "meaning_ne": "हल्का खाना" },
+    { "word": "軽快", "reading": "けいかい", "meaning": "light/cheerful", "meaning_ne": "हल्का" },
+    { "word": "軽減", "reading": "けいげん", "meaning": "reduction", "meaning_ne": "कम गर्नु" },
+    { "word": "気軽", "reading": "きがる", "meaning": "casual", "meaning_ne": "सजिलो" },
+    { "word": "軽度", "reading": "けいど", "meaning": "slight degree", "meaning_ne": "कम स्तर" }
+  ]
+},
+{
+  "kanji": "料",
+  "on": "リョウ",
+  "kun": "",
+  "meaning": "fee / material",
+  "meaning_ne": "शुल्क",
+  "vocab": [
+    { "word": "料理", "reading": "りょうり", "meaning": "cooking", "meaning_ne": "खाना बनाउने" },
+    { "word": "料金", "reading": "りょうきん", "meaning": "fee", "meaning_ne": "शुल्क" },
+    { "word": "無料", "reading": "むりょう", "meaning": "free", "meaning_ne": "निःशुल्क" },
+    { "word": "有料", "reading": "ゆうりょう", "meaning": "paid", "meaning_ne": "शुल्क लाग्ने" },
+    { "word": "材料", "reading": "ざいりょう", "meaning": "ingredients/material", "meaning_ne": "सामग्री" },
+    { "word": "食料", "reading": "しょくりょう", "meaning": "food supply", "meaning_ne": "खाद्य" },
+    { "word": "資料", "reading": "しりょう", "meaning": "data/material", "meaning_ne": "सामग्री" },
+    { "word": "原料", "reading": "げんりょう", "meaning": "raw material", "meaning_ne": "कच्चा पदार्थ" }
+  ]
+}
+]
