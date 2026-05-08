@@ -1,15 +1,18 @@
 "use client";
 
 import type { QuizQuestion } from "@/types/kanji";
+import type { Lang } from "@/components/layout/LanguageProvider";
 
 interface Props {
   question: QuizQuestion;
   chosen: number | null;
   onAnswer: (index: number) => void;
+  lang: Lang;
 }
 
-export function QuizCard({ question, chosen, onAnswer }: Props) {
-  const { kanji, options, correctIndex } = question;
+export function QuizCard({ question, chosen, onAnswer, lang }: Props) {
+  const { kanji, options, options_ne, correctIndex } = question;
+  const displayOptions = lang === "ne" ? options_ne : options;
 
   const getBorderColor = (i: number) => {
     if (chosen === null) return "var(--border-group)";
@@ -60,7 +63,7 @@ export function QuizCard({ question, chosen, onAnswer }: Props) {
 
       {/* Answer options */}
       <div className="px-6 pb-8 grid grid-cols-2 gap-3">
-        {options.map((opt, i) => (
+        {displayOptions.map((opt, i) => (
           <button
             key={i}
             onClick={() => onAnswer(i)}

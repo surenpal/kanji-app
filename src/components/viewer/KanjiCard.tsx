@@ -1,4 +1,5 @@
 import type { Kanji } from "@/types/kanji";
+import type { Lang } from "@/components/layout/LanguageProvider";
 
 interface Props {
   kanji: Kanji;
@@ -9,10 +10,11 @@ interface Props {
   isStudied: boolean;
   isLoggedIn: boolean;
   onToggleFavorite: () => void;
+  lang: Lang;
 }
 
 export function KanjiCard({
-  kanji, position, total, isFavorite, isLoggedIn, onToggleFavorite,
+  kanji, position, total, isFavorite, isLoggedIn, onToggleFavorite, lang,
 }: Props) {
   return (
     <div
@@ -83,6 +85,11 @@ export function KanjiCard({
               <td className="text-[10px] font-bold tracking-widest uppercase w-20 py-1.5"
                   style={{ color: "var(--accent)" }}>Meaning</td>
               <td className="text-[15px] py-1.5" style={{ color: "var(--text-main)" }}>
+                {lang === "ne" && kanji.meaning_ne && (
+                  <span className="block text-sm" style={{ color: "var(--accent)" }}>
+                    {kanji.meaning_ne}
+                  </span>
+                )}
                 {kanji.meaning}
               </td>
             </tr>
@@ -107,9 +114,14 @@ export function KanjiCard({
               <span className="font-kanji text-lg min-w-12" style={{ color: "var(--text-main)" }}>
                 {v.word}
               </span>
-              <span className="font-kanji text-xs flex-shrink-0" style={{ color: "var(--text-reading)" }}>
+              <span className="font-kanji text-xs shrink-0" style={{ color: "var(--text-reading)" }}>
                 {v.reading}
               </span>
+              {lang === "ne" && v.meaning_ne && (
+                <span className="text-xs shrink-0" style={{ color: "var(--accent)" }}>
+                  {v.meaning_ne}
+                </span>
+              )}
               <span className="text-xs ml-auto text-right" style={{ color: "var(--text-meaning)" }}>
                 {v.meaning}
               </span>

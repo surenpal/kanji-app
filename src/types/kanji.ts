@@ -2,6 +2,7 @@ export interface VocabEntry {
   word: string;
   reading: string;
   meaning: string;
+  meaning_ne?: string;
 }
 
 export interface Kanji {
@@ -9,6 +10,7 @@ export interface Kanji {
   on: string;
   kun: string;
   meaning: string;
+  meaning_ne?: string;
   vocab: VocabEntry[];
 }
 
@@ -52,6 +54,7 @@ export type QuizResult = "correct" | "incorrect" | "unanswered";
 export interface QuizQuestion {
   kanji: Kanji;
   globalIndex: number;
-  options: string[];      // 4 meaning choices
+  options: string[];      // 4 meaning choices (English)
+  options_ne: string[];   // 4 meaning choices (Nepali)
   correctIndex: number;
 }

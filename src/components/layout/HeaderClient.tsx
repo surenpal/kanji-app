@@ -2,8 +2,8 @@
 
 import Link from "next/link";
 import Image from "next/image";
-import { useState } from "react";
 import { useTheme } from "./ThemeProvider";
+import { useLang } from "./LanguageProvider";
 import { createClient } from "@/lib/supabase/client";
 import { useRouter } from "next/navigation";
 
@@ -13,13 +13,9 @@ interface Props {
 
 export function HeaderClient({ user }: Props) {
   const { theme, toggle } = useTheme();
+  const { lang, toggleLang } = useLang();
   const router = useRouter();
   const supabase = createClient();
-  const [lang, setLang] = useState<"en" | "ne">("en");
-
-  const toggleLang = () => {
-    setLang((prev) => (prev === "en" ? "ne" : "en"));
-  };
 
   const signOut = async () => {
     await supabase.auth.signOut();

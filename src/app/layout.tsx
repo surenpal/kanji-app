@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import { Header } from "@/components/layout/Header";
 import { ThemeProvider } from "@/components/layout/ThemeProvider";
+import { LanguageProvider } from "@/components/layout/LanguageProvider";
 
 export const metadata: Metadata = {
   title: "Dinuprastha 漢字 / 31 Day Challenge",
@@ -17,8 +18,10 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning>
       <body>
         <ThemeProvider>
-          <Header />
-          <main>{children}</main>
+          <LanguageProvider>
+            <Header />
+            <main>{children}</main>
+          </LanguageProvider>
         </ThemeProvider>
       </body>
     </html>

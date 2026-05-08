@@ -1,7 +1,8 @@
 "use client";
 
 import { useState } from "react";
-import type { DayGroup, Kanji, QuizQuestion } from "@/types/kanji";
+import type { DayGroup, QuizQuestion } from "@/types/kanji";
+import { useLang } from "@/components/layout/LanguageProvider";
 import { shuffle } from "@/lib/utils";
 import { ALL_KANJI } from "@/lib/kanji";
 import { QuizCard } from "./QuizCard";
@@ -18,19 +19,24 @@ function buildQuiz(group: DayGroup): QuizQuestion[] {
   const shuffled = shuffle([...group.kanji]);
   const selected = shuffled.slice(0, QUIZ_LENGTH);
 
-  return selected.map((kanji, i) => {
+  return selected.map((kanji) => {
     const globalIndex = group.start + group.kanji.indexOf(kanji);
-    // Pick 3 wrong answers from the full pool
     const distractors = shuffle(
       ALL_KANJI.filter((k) => k.kanji !== kanji.kanji)
     ).slice(0, 3);
-    const options = shuffle([kanji.meaning, ...distractors.map((d) => d.meaning)]);
+    const optionsData = shuffle([
+      { en: kanji.meaning, ne: kanji.meaning_ne ?? kanji.meaning },
+      ...distractors.map((d) => ({ en: d.meaning, ne: d.meaning_ne ?? d.meaning })),
+    ]);
+    const options = optionsData.map((o) => o.en);
+    const options_ne = optionsData.map((o) => o.ne);
     const correctIndex = options.indexOf(kanji.meaning);
-    return { kanji, globalIndex, options, correctIndex };
+    return { kanji, globalIndex, options, options_ne, correctIndex };
   });
 }
 
 export function QuizClient({ groups, isLoggedIn }: Props) {
+  const { lang } = useLang();
   const [selectedDay, setSelectedDay] = useState<number | null>(null);
   const [questions, setQuestions] = useState<QuizQuestion[]>([]);
   const [questionIndex, setQuestionIndex] = useState(0);
@@ -162,6 +168,7 @@ export function QuizClient({ groups, isLoggedIn }: Props) {
         question={q}
         chosen={chosen}
         onAnswer={handleAnswer}
+        lang={lang}
       />
     </div>
   );

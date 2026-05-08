@@ -3,6 +3,7 @@
 import { useState, useEffect, useRef, useCallback } from "react";
 import Link from "next/link";
 import type { DayGroup } from "@/types/kanji";
+import { useLang } from "@/components/layout/LanguageProvider";
 import { KanjiCard } from "./KanjiCard";
 import { DotNav } from "./DotNav";
 
@@ -16,6 +17,7 @@ interface Props {
 type SlideDir = "left" | "right" | "none";
 
 export function KanjiViewer({ group, studiedIndices, favoriteIndices, isLoggedIn }: Props) {
+  const { lang } = useLang();
   const [current, setCurrent] = useState(0);
   const [slideDir, setSlideDir] = useState<SlideDir>("none");
   const [studied, setStudied] = useState<Set<number>>(new Set(studiedIndices));
@@ -126,6 +128,7 @@ export function KanjiViewer({ group, studiedIndices, favoriteIndices, isLoggedIn
             isStudied={studied.has(globalIndex)}
             isLoggedIn={isLoggedIn}
             onToggleFavorite={toggleFavorite}
+            lang={lang}
           />
         </div>
       </div>
