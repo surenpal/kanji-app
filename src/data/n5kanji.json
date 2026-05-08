@@ -1318,5 +1318,39 @@
       { "word": "会話", "reading": "かいわ", "meaning": "conversation", "meaning_ne": "बातचीत" },
       { "word": "国語", "reading": "こくご", "meaning": "national language", "meaning_ne": "राष्ट्रिय भाषा" }
     ]
+  },
+  {
+    "kanji": "何",
+    "on": "カ",
+    "kun": "なに・なん",
+    "meaning": "what / how many",
+    "meaning_ne": "के / कति",
+    "vocab": [
+      { "word": "何", "reading": "なに", "meaning": "what", "meaning_ne": "के" },
+      { "word": "何ですか", "reading": "なんですか", "meaning": "what is it?", "meaning_ne": "के हो?" },
+      { "word": "何人", "reading": "なんにん", "meaning": "how many people", "meaning_ne": "कति जना" },
+      { "word": "何時", "reading": "なんじ", "meaning": "what time", "meaning_ne": "कति बजे" },
+      { "word": "何曜日", "reading": "なんようび", "meaning": "what day", "meaning_ne": "कुन बार" },
+      { "word": "何回", "reading": "なんかい", "meaning": "how many times", "meaning_ne": "कति पटक" },
+      { "word": "何分", "reading": "なんぷん", "meaning": "how many minutes", "meaning_ne": "कति मिनेट" },
+      { "word": "何色", "reading": "なにいろ", "meaning": "what color", "meaning_ne": "कुन रंग" }
+    ]
+  },
+  {
+    "kanji": "国",
+    "on": "コク",
+    "kun": "くに",
+    "meaning": "country",
+    "meaning_ne": "देश",
+    "vocab": [
+      { "word": "国", "reading": "くに", "meaning": "country", "meaning_ne": "देश" },
+      { "word": "外国", "reading": "がいこく", "meaning": "foreign country", "meaning_ne": "विदेश" },
+      { "word": "中国", "reading": "ちゅうごく", "meaning": "China", "meaning_ne": "चीन" },
+      { "word": "韓国", "reading": "かんこく", "meaning": "Korea", "meaning_ne": "कोरिया" },
+      { "word": "国語", "reading": "こくご", "meaning": "national language", "meaning_ne": "राष्ट्रिय भाषा" },
+      { "word": "国民", "reading": "こくみん", "meaning": "citizen", "meaning_ne": "नागरिक" },
+      { "word": "国立", "reading": "こくりつ", "meaning": "national (institution)", "meaning_ne": "राष्ट्रिय" },
+      { "word": "全国", "reading": "ぜんこく", "meaning": "whole country", "meaning_ne": "सारा देश" }
+    ]
   }
 ]
