@@ -1,0 +1,130 @@
+[
+{
+  "kanji": "異",
+  "on": "イ",
+  "kun": "こと",
+  "meaning": "different",
+  "meaning_ne": "फरक",
+  "vocab": [
+    {"word": "異なる", "reading": "ことなる", "meaning": "to differ", "meaning_ne": "फरक हुनु"},
+    {"word": "異常", "reading": "いじょう", "meaning": "abnormal", "meaning_ne": "असामान्य"},
+    {"word": "異文化", "reading": "いぶんか", "meaning": "different culture", "meaning_ne": "भिन्न संस्कृति"},
+    {"word": "異見", "reading": "いけん", "meaning": "different opinion", "meaning_ne": "फरक विचार"},
+    {"word": "異性", "reading": "いせい", "meaning": "opposite sex", "meaning_ne": "विपरीत लिङ्ग"},
+    {"word": "異動", "reading": "いどう", "meaning": "transfer", "meaning_ne": "स्थानान्तरण"},
+    {"word": "異議", "reading": "いぎ", "meaning": "objection", "meaning_ne": "आपत्ति"}
+  ]
+},
+{
+  "kanji": "遺",
+  "on": "イ",
+  "kun": "",
+  "meaning": "leave behind",
+  "meaning_ne": "छोड्नु",
+  "vocab": [
+    {"word": "遺産", "reading": "いさん", "meaning": "inheritance", "meaning_ne": "सम्पत्ति"},
+    {"word": "遺跡", "reading": "いせき", "meaning": "ruins", "meaning_ne": "अवशेष"},
+    {"word": "遺伝", "reading": "いでん", "meaning": "heredity", "meaning_ne": "वंशानुगत"},
+    {"word": "遺書", "reading": "いしょ", "meaning": "will", "meaning_ne": "वसीयत"},
+    {"word": "遺体", "reading": "いたい", "meaning": "corpse", "meaning_ne": "शव"},
+    {"word": "遺族", "reading": "いぞく", "meaning": "bereaved family", "meaning_ne": "शोकाकुल परिवार"},
+    {"word": "遺留", "reading": "いりゅう", "meaning": "left behind", "meaning_ne": "छोडिएको"}
+  ]
+},
+{
+  "kanji": "域",
+  "on": "イキ",
+  "kun": "",
+  "meaning": "region",
+  "meaning_ne": "क्षेत्र",
+  "vocab": [
+    {"word": "地域", "reading": "ちいき", "meaning": "area", "meaning_ne": "क्षेत्र"},
+    {"word": "領域", "reading": "りょういき", "meaning": "territory", "meaning_ne": "क्षेत्र"},
+    {"word": "海域", "reading": "かいいき", "meaning": "sea area", "meaning_ne": "समुद्री क्षेत्र"},
+    {"word": "区域", "reading": "くいき", "meaning": "zone", "meaning_ne": "क्षेत्र"},
+    {"word": "全域", "reading": "ぜんいき", "meaning": "entire area", "meaning_ne": "सम्पूर्ण क्षेत्र"},
+    {"word": "知識領域", "reading": "ちしきりょういき", "meaning": "knowledge domain", "meaning_ne": "ज्ञान क्षेत्र"},
+    {"word": "流域", "reading": "りゅういき", "meaning": "basin", "meaning_ne": "नदी क्षेत्र"}
+  ]
+},
+{
+  "kanji": "宇",
+  "on": "ウ",
+  "kun": "",
+  "meaning": "eaves/space",
+  "meaning_ne": "आकाश",
+  "vocab": [
+    {"word": "宇宙", "reading": "うちゅう", "meaning": "universe", "meaning_ne": "ब्रह्माण्ड"},
+    {"word": "宇宙船", "reading": "うちゅうせん", "meaning": "spaceship", "meaning_ne": "अन्तरिक्ष यान"},
+    {"word": "宇宙飛行士", "reading": "うちゅうひこうし", "meaning": "astronaut", "meaning_ne": "अन्तरिक्ष यात्री"},
+    {"word": "宇宙開発", "reading": "うちゅうかいはつ", "meaning": "space development", "meaning_ne": "अन्तरिक्ष विकास"},
+    {"word": "宇内", "reading": "うだい", "meaning": "the universe", "meaning_ne": "संसार"},
+    {"word": "宇宙科学", "reading": "うちゅうかがく", "meaning": "space science", "meaning_ne": "अन्तरिक्ष विज्ञान"},
+    {"word": "宇宙時代", "reading": "うちゅうじだい", "meaning": "space age", "meaning_ne": "अन्तरिक्ष युग"}
+  ]
+},
+{
+  "kanji": "映",
+  "on": "エイ",
+  "kun": "うつる・うつす",
+  "meaning": "reflect",
+  "meaning_ne": "प्रतिबिम्बित हुनु",
+  "vocab": [
+    {"word": "映画", "reading": "えいが", "meaning": "movie", "meaning_ne": "चलचित्र"},
+    {"word": "上映", "reading": "じょうえい", "meaning": "screening", "meaning_ne": "प्रदर्शन"},
+    {"word": "反映", "reading": "はんえい", "meaning": "reflection", "meaning_ne": "प्रतिबिम्ब"},
+    {"word": "映る", "reading": "うつる", "meaning": "to be reflected", "meaning_ne": "प्रतिबिम्बित हुनु"},
+    {"word": "映す", "reading": "うつす", "meaning": "to reflect", "meaning_ne": "प्रतिबिम्बित गर्नु"},
+    {"word": "映像", "reading": "えいぞう", "meaning": "image", "meaning_ne": "छवि"},
+    {"word": "公映", "reading": "こうえい", "meaning": "public showing", "meaning_ne": "सार्वजनिक प्रदर्शन"}
+  ]
+},
+{
+  "kanji": "延",
+  "on": "エン",
+  "kun": "のびる・のばす",
+  "meaning": "extend",
+  "meaning_ne": "लम्ब्याउनु",
+  "vocab": [
+    {"word": "延期", "reading": "えんき", "meaning": "postponement", "meaning_ne": "स्थगन"},
+    {"word": "延長", "reading": "えんちょう", "meaning": "extension", "meaning_ne": "विस्तार"},
+    {"word": "延びる", "reading": "のびる", "meaning": "to stretch", "meaning_ne": "लामो हुनु"},
+    {"word": "延ばす", "reading": "のばす", "meaning": "to extend", "meaning_ne": "लम्ब्याउनु"},
+    {"word": "延滞", "reading": "えんたい", "meaning": "delay", "meaning_ne": "ढिलाइ"},
+    {"word": "寿命延長", "reading": "じゅみょうえんちょう", "meaning": "life extension", "meaning_ne": "आयु विस्तार"},
+    {"word": "支払延期", "reading": "しはらいえんき", "meaning": "payment delay", "meaning_ne": "भुक्तानी स्थगन"}
+  ]
+},
+{
+  "kanji": "沿",
+  "on": "エン",
+  "kun": "そう",
+  "meaning": "along",
+  "meaning_ne": "किनारसँग",
+  "vocab": [
+    {"word": "沿う", "reading": "そう", "meaning": "to follow along", "meaning_ne": "अनुसार हुनु"},
+    {"word": "沿岸", "reading": "えんがん", "meaning": "coast", "meaning_ne": "समुद्री किनार"},
+    {"word": "沿線", "reading": "えんせん", "meaning": "along railway", "meaning_ne": "रेलमार्ग वरिपरि"},
+    {"word": "沿道", "reading": "えんどう", "meaning": "roadside", "meaning_ne": "सडक किनार"},
+    {"word": "方針に沿う", "reading": "ほうしんにそう", "meaning": "follow policy", "meaning_ne": "नीति अनुसार"},
+    {"word": "川沿い", "reading": "かわぞい", "meaning": "along the river", "meaning_ne": "नदी किनार"},
+    {"word": "海沿い", "reading": "うみぞい", "meaning": "along the sea", "meaning_ne": "समुद्र किनार"}
+  ]
+},
+{
+  "kanji": "我",
+  "on": "ガ",
+  "kun": "われ",
+  "meaning": "self",
+  "meaning_ne": "आफ्नो",
+  "vocab": [
+    {"word": "我々", "reading": "われわれ", "meaning": "we", "meaning_ne": "हामी"},
+    {"word": "我慢", "reading": "がまん", "meaning": "patience", "meaning_ne": "धैर्य"},
+    {"word": "自我", "reading": "じが", "meaning": "ego", "meaning_ne": "अहंकार"},
+    {"word": "我が国", "reading": "わがくに", "meaning": "our country", "meaning_ne": "हाम्रो देश"},
+    {"word": "我流", "reading": "がりゅう", "meaning": "one’s own style", "meaning_ne": "आफ्नो शैली"},
+    {"word": "我先に", "reading": "われさきに", "meaning": "ahead of others", "meaning_ne": "अरूभन्दा अगाडि"},
+    {"word": "我欲", "reading": "がよく", "meaning": "selfish desire", "meaning_ne": "स्वार्थी इच्छा"}
+  ]
+}
+]
